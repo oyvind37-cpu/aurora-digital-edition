@@ -1,7 +1,77 @@
 {
-  "updated": "2026-10-27T20:11:38Z",
+  "updated": "2026-10-27T22:24:19Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793139068
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793135559
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793135352
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "date_label": "27.10.2026",
+      "timestamp": 1793133880
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+      "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793133000
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trolig seks arresterte i stor razzia",
+      "url": "https://www.nrk.no/tromsogfinnmark/trolig-seks-arrestert-i-stor-razzia-1.18066578",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793132781
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Arsenals ligacupkamp midlertidig stoppet på grunn av drone",
+      "url": "https://www.nrk.no/sport/arsenals-ligacupkamp-midlertidig-stoppet-pa-grunn-av-drone-1.18066581",
+      "summary": "En drone som fløy over banen førte til at Arsenals bortekamp mot Shrewsbury i ligacupen ble midlertidig satt på pause etter bare et par minutters spill. Dommeren stoppet spillet og ville ikke sette det i gang igjen før dronen var borte. Kampen pågår.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793132430
+    },
     {
       "source": "NRK Norge",
       "category": "norge",
@@ -18,7 +88,7 @@
       "topic": "lokalt",
       "title": "Her endte bussturen",
       "url": "https://www.sandeavis.no/her-endte-bussturen/s/80-57-44879",
-      "summary": "",
+      "summary": "Det var ingen personer om bord da bussen havnet i grøfta.",
       "date_label": "27.10.2026",
       "timestamp": 1793131341
     },
@@ -86,7 +156,7 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "title": "Dutch zookeeper dies after being mauled by leopard",
       "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
       "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
       "date_label": "27.10.2026",
@@ -483,16 +553,6 @@
       "timestamp": 1793117801
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-      "date_label": "27.10.2026",
-      "timestamp": 1793117495
-    },
-    {
       "source": "NRK Oslo",
       "category": "lokalt",
       "topic": "lokalt",
@@ -621,6 +681,16 @@
       "summary": "Avdelinga for tospråkleg undervisning i Ålesund-skulane er foreslått nedlagt i neste års kommunebudsjett. Det kan få store konsekvensar, meiner lærarane.",
       "date_label": "27.10.2026",
       "timestamp": 1793111083
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Trump vs Obama - which president has the star power to get out the vote?",
+      "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793109562
     },
     {
       "source": "NRK Siste",
