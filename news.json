@@ -1,7 +1,317 @@
 {
-  "updated": "2026-10-27T18:12:11Z",
-  "source_count": 9,
+  "updated": "2026-10-27T20:11:38Z",
+  "source_count": 11,
   "items": [
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Inger (12) vil bli best i Europa",
+      "url": "https://www.nrk.no/video/f48e166f-1634-401b-987c-e5e38cc9628c",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793131348
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Her endte bussturen",
+      "url": "https://www.sandeavis.no/her-endte-bussturen/s/80-57-44879",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793131341
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Hofsokning med promille råkjørte på Bispeveien",
+      "url": "https://www.jarlsbergavis.no/hofsokning-med-promille-rakjorte-pa-bispeveien/s/80-26-10278",
+      "summary": "«Glemte» at han hadde drukket alkohol tidligere på dagen.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793131200
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Egyptisk redaktør pågrepet – domstol beordret nettavisen stengt",
+      "url": "https://www.nrk.no/nyheter/egyptisk-redaktor-pagrepet-_-domstol-beordret-nettavisen-stengt-1.18066573",
+      "summary": "Den egyptiske journalisten og redaktøren Lina Attalah er pågrepet etter at retten beordret den uavhengige nettavisen hennes stengt. Det opplyser hennes advokater til BBC. Attalah var tiltalt for å ha drevet nettstedet Mada Masr uten lisens, og anklaget for pub",
+      "date_label": "27.10.2026",
+      "timestamp": 1793131151
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nordisk råds litteraturpris til Sigbjørn Skåden: – Det er utrolig spesielt og en stor ære",
+      "url": "https://www.nrk.no/sapmi/nordisk-rads-litteraturpris-til-sigbjorn-skaden-1.18065498",
+      "summary": "For første gang på 35 år vinner en samisk roman den prestisjefylte prisen. Forfatteren Sigbjørn Skåden fikk Nordisk råds litteraturpris i Helsinki tirsdag kveld.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793130414
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Fjellheisen stenges i to dager – håper på normal drift fredag",
+      "url": "https://www.jarlsbergavis.no/fjellheisen-stenges-i-to-dager-haper-pa-normal-drift-torsdag/s/80-26-10443",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793130396
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Birgit Skarstein vil ikke bli ordfører i Oslo",
+      "url": "https://www.nrk.no/nyheter/birgit-skarstein-vil-ikke-bli-ordforer-i-oslo-1.18066563",
+      "summary": "Tidligere i oktober ble det kjent at to lokallag i Arbeiderpartiet (Ap) i Oslo ville ha Birgit Skarstein som ordfører. Tirsdag kveld skriver Skarstein selv på Facebook at det ikke blir aktuelt nå. – Jeg vil gjerne bidra til å utvikle Oslo. Foreløpig må det lik",
+      "date_label": "27.10.2026",
+      "timestamp": 1793130371
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Vannet tilbake i Kirkenes: Må fortsatt kokes",
+      "url": "https://www.nrk.no/tromsogfinnmark/vannet-tilbake-i-kirkenes-1.18066561",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793129948
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793129437
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Siktet for å ha skutt elg ulovlig",
+      "url": "https://www.nrk.no/tromsogfinnmark/siktet-for-a-ha-skutt-elg-ulovlig-1.18066434",
+      "summary": "En mann i 30-årene er siktet for å ha felt en elg ulovlig. Politiet krevde at mannen ble varetektsfengslet i to uker, men Vestre Finnmark tingrett landet på at han må løslates fordi lovbruddet ikke er grovt nok til at det vil føre til fengselsstraff. Mannen bl",
+      "date_label": "27.10.2026",
+      "timestamp": 1793129333
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Why this British plumber prefers working in Poland",
+      "url": "https://www.bbc.co.uk/news/videos/ckq6nqqlj8nro?at_medium=RSS&at_campaign=rss",
+      "summary": "Poland is now achieving formidable economic growth rates and fast rising living standards",
+      "date_label": "27.10.2026",
+      "timestamp": 1793129104
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "How much is the minimum wage?",
+      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "date_label": "27.10.2026",
+      "timestamp": 1793128994
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "More cats abandoned 'due to rising costs'",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwzzewpz1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The shelter has seen a \"huge increase\" in the number of cats it has taken in, compared to last year.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793128959
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+      "url": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793127676
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Politiet stanset beruset bilfører i Bærum",
+      "url": "https://www.nrk.no/stor-oslo/politiet-stanset-beruset-bilforer-i-baerum-1.18066494",
+      "summary": "En mann i 50-årene ble stanset av politiet etter vinglete kjøring. – Etter melding fra publikum om en bil som vinglet under kjøring, stanset vi aktuelle bil i Bærumsveien på Haslum, sier operasjonsleder Kristine Bryntesen Hedly i Oslo-politiet. Mannen fremstod",
+      "date_label": "27.10.2026",
+      "timestamp": 1793127399
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Nusa inspirerte Leipzig-comeback i Essen",
+      "url": "https://www.nrk.no/sport/nusa-inspirerte-leipzig-comeback-i-essen-1.18066523",
+      "summary": "Med Ørjan Nyland mellom stengene fra start, havnet RB Leipzig skikkelig i trøbbel mot «lille» Rot-Weiss Essen i 2. runde av den tyske cupen. Voldingen havnet i fokus tidlig. Et tilsynelatende ufarlig oppspill, ble forsøkt forlenget bakover av Bundesliga-klubbe",
+      "date_label": "27.10.2026",
+      "timestamp": 1793127184
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Person fastklemt etter kollisjon mellom bil og mopedbil",
+      "url": "https://www.nrk.no/buskerud/person-fastklemt-etter-kollisjon-mellom-bil-og-mopedbil-1.18066251",
+      "summary": "En mopedbil og en personbil har frontkollidert på Norevegen i Nore og Uvdal tirsdag kveld. Det meldes om store materielle skader. To ungdommer i tenårene blir kjørt til akuttmottaket ved Drammen sykehus, mens fører blir kjørt til legevakt. En person satt fastk",
+      "date_label": "27.10.2026",
+      "timestamp": 1793127166
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Elsparkesyklist påkjørt i Halden: Flys til sykehus",
+      "url": "https://www.nrk.no/ostfold/elsparkesyklist-pakjort-i-halden_-flys-til-sykehus-1.18066537",
+      "summary": "En person på elsparkesykkel har tirsdag kveld blitt påkjørt i Halden sentrum. Nødetatene er på stedet. – Skadene omtales som potensielt alvorlige, og han fraktes derfor til sykehus med luftambulanse, skriver operasjonselder i Øst politidistrikt, Håkon Hatlen.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793126914
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793126756
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793126621
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Økokrim aksjonerte mot flere fiskemottak langs kysten",
+      "url": "https://www.nrk.no/video/DKNO98102726",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793126363
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Controversial Islamic cleric shot dead in northern Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
+      "summary": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793126102
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Se tirsdagens tv-sending",
+      "url": "https://www.nrk.no/video/DKMR98102726",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793125843
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793125703
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Israel: Sier nei til forlenget stemmetid",
+      "url": "https://www.nrk.no/nyheter/israel_-sier-nei-til-forlenget-stemmetid-1.18066501",
+      "summary": "Israels valgkommisjon avviser Netanyahus forespørsel om utvidede åpningstider i stemmelokaler. Netanyahus parti, Likud, og to ytre-høyrepartier hadde bedt om én times forlengelse. Netanyahus hovedutfordrer, Gadi Eisenkot, mente forespørselen kunne være et påsk",
+      "date_label": "27.10.2026",
+      "timestamp": 1793125653
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "TV-SENDING: Frykter færre vil velge fremmedspråk",
+      "url": "https://www.nrk.no/video/DKSL98102726",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793125589
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Mål og rødt kort for Kristian Thorstvedt i Serie A",
+      "url": "https://www.nrk.no/sport/mal-og-rodt-kort-for-kristian-thorstvedt-i-serie-a-1.18066521",
+      "summary": "Kristian Thorstvedt fikk rødt kort etter en halvtime da Sassuolo tapte 2-6 for Lazio i midtukerunden i Serie A. Han kom for sent i en duell og satte knottene i leggen på gjestenes kaptein Mattia Zaccagni. Thorstvedt rakk å score for Sassuolo før han ble utvist",
+      "date_label": "27.10.2026",
+      "timestamp": 1793125525
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Er kirka i Vågå ei stavkirke – se mer i denne sendinga?",
+      "url": "https://www.nrk.no/video/DKIN98102726",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793125316
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Lokale nyheter av Lorentz Berg",
+      "url": "https://www.nrk.no/video/DKVT98102726",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793125137
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Midtnytt: Stram fylkesøkonomi i Trøndelag",
+      "url": "https://www.nrk.no/video/DKTL98102726",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793124706
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Denne entreprenøren vant anbudskonkurransen – slik kan den nye helseparken bli",
+      "url": "https://www.jarlsbergavis.no/denne-entreprenoren-vant-anbudskonkurransen-slik-kan-den-nye-helseparken-bli/s/80-26-9876",
+      "summary": "Den økonomiske rammen er 300 millioner kroner. Entreprenøren legger blant annet vekt på å redusere institusjonspreg.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793124000
+    },
     {
       "source": "NRK Oslo",
       "category": "lokalt",
@@ -26,7 +336,7 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Politisk kommentator gir tiåringen ti av ti som lobbyist",
+      "title": "Lobbyisten Ingveig (10) sjarmerte politikerne - håper å berge Lille norske leksikon",
       "url": "https://www.nrk.no/trondelag/lobbyisten-ingveig-_10_-sjarmerte-politikerne-_-haper-a-berge-det-lille-leksikon-1.18060643",
       "summary": "Da Ingveig (10) tok ordet på Stortinget gav hun det tydeligste inntrykket gjennom to lange dager med høringer, mener politiker.",
       "date_label": "27.10.2026",
@@ -46,11 +356,31 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
+      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
+      "url": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793121087
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
       "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
       "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
       "summary": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
       "date_label": "27.10.2026",
       "timestamp": 1793121015
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Søte fristelser og nostalgi i butikken i skogen: – Det startet som en hobby",
+      "url": "https://www.jarlsbergavis.no/sote-fristelser-og-nostalgi-i-butikken-i-skogen-det-startet-som-en-hobby/s/80-26-9603",
+      "summary": "Rosa vegger, gammeldags interiør og håndlaget godteri. I Hanekleiva har Rachel Engsbråten skapt sin egen lille godteriverden, der nostalgi og søte fristelser går hånd i hånd.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793121000
     },
     {
       "source": "BBC World",
@@ -73,6 +403,26 @@
       "timestamp": 1793120759
     },
     {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Hva skal høyhusene gi neste generasjon?",
+      "url": "https://www.jarlsbergavis.no/hva-skal-hoyhusene-gi-neste-generasjon/o/80-26-10233",
+      "summary": "Jeg opplever debatten om høyhus som snever og lite visjonær. Spørsmålene om kvalitet, funksjon og langsiktig utvikling fortjener større plass.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793120700
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Har leid torget: – Alltid litt som hoper seg opp hjemme",
+      "url": "https://www.sandeavis.no/har-leid-torget-alltid-litt-som-hoper-seg-opp-hjemme/s/80-72-5517",
+      "summary": "Det blir ikke bare ett, men to familiearrangementer førstkommende lørdag.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793120400
+    },
+    {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
@@ -81,6 +431,16 @@
       "summary": "Brannvesenet har søkt i deler av huset, men kan ikke lenger ta seg inn på grunn av de kraftige flammene. Det er fortsatt uavklart om noen befinner seg inne i bygget",
       "date_label": "27.10.2026",
       "timestamp": 1793120340
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Har kontroll på brannen: - Beboeren er ikke gjort rede for",
+      "url": "https://www.jarlsbergavis.no/har-kontroll-pa-brannen-beboeren-er-ikke-gjort-rede-for/s/30-60-24843",
+      "summary": "Det brøt ut kraftig brann i et hus på Nykirke tirsdag kveld. Beboeren er ikke gjort rede for, ifølge politiet.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793120339
     },
     {
       "source": "NRK Siste",
@@ -261,16 +621,6 @@
       "summary": "Avdelinga for tospråkleg undervisning i Ålesund-skulane er foreslått nedlagt i neste års kommunebudsjett. Det kan få store konsekvensar, meiner lærarane.",
       "date_label": "27.10.2026",
       "timestamp": 1793111083
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793110985
     },
     {
       "source": "NRK Siste",
@@ -533,16 +883,6 @@
       "timestamp": 1793099888
     },
     {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "What is the Budget and what could be in it?",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793099213
-    },
-    {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
@@ -743,6 +1083,16 @@
       "timestamp": 1793091696
     },
     {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Her kan du få informasjon hvis uønskede situasjoner inntreffer: – Alle bør være forberedt",
+      "url": "https://www.sandeavis.no/her-kan-du-fa-informasjon-hvis-uonskede-situasjoner-inntreffer-alle-bor-vare-forberedt/s/80-72-5607",
+      "summary": "Kommunen informerer om at informasjonspunktene blir tatt i bruk dersom mobilnett og internett er ute av drift over tid.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793090865
+    },
+    {
       "source": "NRK Oslo",
       "category": "lokalt",
       "topic": "lokalt",
@@ -801,6 +1151,16 @@
       "summary": "Sør-Varanger går tom for vann i kveld hvis ikke folk kutter forbruket tvert, meldte kommunen i morges. De ber folk holde krana stengt frem til vannet er tilbake.",
       "date_label": "27.10.2026",
       "timestamp": 1793089780
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Nok rapporter – hva skal vi gjøre med Hillestadvannet?",
+      "url": "https://www.jarlsbergavis.no/nok-rapporter-hva-skal-vi-gjore-med-hillestadvannet/o/80-26-10227",
+      "summary": "«Vi vet mye om problemene. Nå trenger vi en konkret plan for å løse dem.»",
+      "date_label": "27.10.2026",
+      "timestamp": 1793089680
     },
     {
       "source": "NRK Siste",
@@ -923,6 +1283,16 @@
       "timestamp": 1793081768
     },
     {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793081724
+    },
+    {
       "source": "BBC Business",
       "category": "okonomi",
       "topic": "okonomi",
@@ -943,9 +1313,9 @@
       "timestamp": 1793081332
     },
     {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
       "title": "Donald Trump's biggest economic problem looks strangely familiar",
       "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
@@ -1063,6 +1433,16 @@
       "timestamp": 1793076236
     },
     {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Nye betingelser for løypekjørerne: – På tide med en harmonisering",
+      "url": "https://www.jarlsbergavis.no/nye-betingelser-for-loypekjorerne-pa-tide-med-en-harmonisering/s/80-26-9972",
+      "summary": "I Hof er det satt av 105.000 kommunale kroner for 70 kilometer løypekjøring til langrenn. I Sande får mannskapene 533.000 kroner for 95 kilometer. Nå har Holmestrand kommune tatt initiativ til en mer rettferdig fordeling av pengene.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793075400
+    },
+    {
       "source": "NRK Oslo",
       "category": "lokalt",
       "topic": "lokalt",
@@ -1091,6 +1471,16 @@
       "summary": "Brannvesenet jobber med å slukke en brann i en enebolig ved Alværn på Nesodden. – Brannvesenet er i kontakt med huseier på stedet. Huset er bebodd og alle skal være ute av huset, skriver oppdragsleder Ronny Mangseth fra Øst politidistrikt i politiloggen. Det e",
       "date_label": "27.10.2026",
       "timestamp": 1793068292
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Privat jorde tilbake på sakslista: kommunedirektøren anbefaler fortsatt tvangsgrep",
+      "url": "https://www.sandeavis.no/privat-jorde-tilbake-pa-sakslista-kommunedirektoren-anbefaler-fortsatt-tvangsgrep/s/80-72-5061",
+      "summary": "– Dersom kommunestyret ikke vedtar kommunedirektørens innstilling, anbefales det ikke å vedta en alternativ VA-trase, skriver kommunen.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793066400
     },
     {
       "source": "BBC World",
@@ -1211,6 +1601,16 @@
       "summary": "Det er hørt eksplosjoner i Ukrainas hovedstad Kyiv i kveld. Russiske missiler er skutt mot byen. Ordfører Vitalij Klitsjko sier det foreløpig er bekreftet at én person er død i angrepet. President Volodymyr Zelenskyj sier det er skadde og døde etter at en utda",
       "date_label": "26.10.2026",
       "timestamp": 1793047141
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Hva gjør du når alt blir svart? Her er kommunens plan",
+      "url": "https://www.jarlsbergavis.no/hva-gjor-du-nar-alt-blir-svart-her-er-kommunens-plan/s/80-26-10107",
+      "summary": "Hva gjør du hvis mobilnettet og internett forsvinner midt i en krise? I Holmestrand kommune er tre skoler pekt ut som informasjonspunkter der innbyggerne kan få oppdateringer og hjelp. Men i en nødsituasjon er det ett annet sted du må vite om.",
+      "date_label": "26.10.2026",
+      "timestamp": 1793044800
     },
     {
       "source": "BBC Technology",
@@ -1373,6 +1773,16 @@
       "timestamp": 1793037610
     },
     {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Kjeldaas får gjennomgå i ny dom: – Grovt uaktsomt",
+      "url": "https://www.jarlsbergavis.no/kjeldaas-far-gjennomga-i-ny-dom-grovt-uaktsomt/s/80-26-9891",
+      "summary": "Entreprenørfirmaet Kjeldaas AS i Sande må betale millionerstatning etter skolebygging, og får det glatte lag i retten.",
+      "date_label": "26.10.2026",
+      "timestamp": 1793037600
+    },
+    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -1401,6 +1811,16 @@
       "summary": "De fikk Haaland til å beklage og Thierry Henry til å hylle lagspillet. I kveld kan Bodø/Glimt bli kåret til årets herreklubb under Gullballen-utdelingen.",
       "date_label": "26.10.2026",
       "timestamp": 1793034602
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Fikk plass blant landets fineste – men én gjest gjorde størst inntrykk",
+      "url": "https://www.jarlsbergavis.no/fikk-plass-blant-landets-fineste-men-n-gjest-gjorde-storst-inntrykk/s/80-26-9948",
+      "summary": "I flere år har Kim Hjardar fra Hof brukt vintermånedene på å skru, pusse og forbedre sin Ford Mustang Fastback. I helgen fikk veteranbilen plass blant landets flotteste entusiastbiler på Oslo Motor Show. Men det var ikke bare bilinteresserte som lot seg begeis",
+      "date_label": "26.10.2026",
+      "timestamp": 1793034600
     },
     {
       "source": "NRK Siste",
@@ -1653,6 +2073,16 @@
       "timestamp": 1793024169
     },
     {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Nina Solstice viser kjærligheten til naturen gjennom kunst",
+      "url": "https://www.jarlsbergavis.no/nina-solstice-viser-kjarligheten-til-naturen-gjennom-kunst/v/80-26-10152",
+      "summary": "",
+      "date_label": "26.10.2026",
+      "timestamp": 1793024107
+    },
+    {
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
@@ -1681,6 +2111,16 @@
       "summary": "Umoe Mandal har inngått samarbeid med fleire andre verft. Dei ynskjer å levere 30 fartøy til det norske og det britiske forsvaret.",
       "date_label": "26.10.2026",
       "timestamp": 1793018739
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Stillasdeler stjålet fra byggeplass",
+      "url": "https://www.jarlsbergavis.no/stillasdeler-stjalet-fra-byggeplass/s/80-26-10074",
+      "summary": "",
+      "date_label": "26.10.2026",
+      "timestamp": 1793016282
     },
     {
       "source": "NRK Norge",
@@ -1751,6 +2191,16 @@
       "summary": "Måndag har SNR-sjukehuset på Hjelset 24 pasientar som er ferdig behandla. Helse Møre og Romsdal ber kommunar om å hente pasientar.",
       "date_label": "26.10.2026",
       "timestamp": 1793012671
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Et historisk kyss",
+      "url": "https://www.jarlsbergavis.no/et-historisk-kyss/s/80-26-9846",
+      "summary": "Fredag ble en ekstra spesiell dag for Frøydis Lie Stabæk og Hans Jacob Paulsen. Ikke bare giftet de seg; de var også ett av parene som var med på å gjøre dette til et historisk øyeblikk for den gamle smia i Holmestrand sentrum.",
+      "date_label": "26.10.2026",
+      "timestamp": 1793012465
     },
     {
       "source": "BBC Business",
@@ -1883,6 +2333,16 @@
       "timestamp": 1792995552
     },
     {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Mindreårige kjørte bil – stoppet av politiet",
+      "url": "https://www.jarlsbergavis.no/mindrearige-kjorte-bil-stoppet-av-politiet/s/80-26-9837",
+      "summary": "",
+      "date_label": "26.10.2026",
+      "timestamp": 1792993973
+    },
+    {
       "source": "NRK Oslo",
       "category": "lokalt",
       "topic": "lokalt",
@@ -1931,6 +2391,26 @@
       "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
       "date_label": "26.10.2026",
       "timestamp": 1792983180
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Kjeldaas får gjennomgå i ny dom: – Grovt uaktsomt",
+      "url": "https://www.sandeavis.no/sande-kjeldaas-ma-betale-milliondom-etter-skolebygging/s/80-57-41399",
+      "summary": "Entreprenørfirmaet Kjeldaas AS i Sande må betale millionerstatning etter skolebygging, og får det glatte lag i retten.",
+      "date_label": "26.10.2026",
+      "timestamp": 1792983000
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Martin (19) er helt ny i politikken: – Ønsker å skap mer oppmerksomhet rundt temaet",
+      "url": "https://www.sandeavis.no/martin-19-er-helt-ny-i-politikken-onsker-a-skap-mer-oppmerksomhet-rundt-temaet/s/80-72-4635",
+      "summary": "Sandesokningen er klar for å bidra med yngre krefter.",
+      "date_label": "26.10.2026",
+      "timestamp": 1792980000
     },
     {
       "source": "BBC Business",
@@ -2063,6 +2543,16 @@
       "timestamp": 1792951131
     },
     {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Dypdykk i arkivet - disse var i avisa for åtte år siden",
+      "url": "https://www.sandeavis.no/dypdykk-i-arkivet-disse-var-i-avisa-for-atte-ar-siden/s/80-72-4896",
+      "summary": "Se hvem som stilte opp i lokalavisa i 2018.",
+      "date_label": "25.10.2026",
+      "timestamp": 1792947600
+    },
+    {
       "source": "NRK Oslo",
       "category": "lokalt",
       "topic": "lokalt",
@@ -2081,6 +2571,16 @@
       "summary": "Brighton har hatt en forrykende periode i engelsk fotball, men søndag kveld kom de ned på jorden etter et møte med Liverpool. Liverpool slo Brighton 2–0 etter mål av Aleksander Isak og et selvmål av Pascal Gross. Triumfen var den første på hjemmebane i Premier",
       "date_label": "25.10.2026",
       "timestamp": 1792946472
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Kvinne (39) savnet – politiet ber om hjelp",
+      "url": "https://www.sandeavis.no/kvinne-39-savnet-politiet-ber-om-hjelp/s/80-57-42851",
+      "summary": "Politiet leter etter en 39 år gammel kvinne som ble sett sist søndag morgen. Nå ber de publikum i Drammensområdet om hjelp.",
+      "date_label": "25.10.2026",
+      "timestamp": 1792943311
     },
     {
       "source": "NRK Sport",
@@ -2233,6 +2733,16 @@
       "timestamp": 1792908015
     },
     {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Trosset regnet og stilte opp: – Man kan gjøre mer enn å bare sitte hjemme",
+      "url": "https://www.sandeavis.no/trosset-regnet-og-stilte-opp-man-kan-gjore-mer-enn-a-bare-sitte-hjemme/g/80-72-5052",
+      "summary": "Det var mange besøkende og arrangører som ikke lot regnet stoppe dem. Familiedagen ble arrangert for femte året på rad lørdag formiddag. Det var mange barn og voksne som koste seg med alt fra hønebingo og brødbaking til spikking og spikring. Familiedagen arran",
+      "date_label": "25.10.2026",
+      "timestamp": 1792893600
+    },
+    {
       "source": "NRK Oslo",
       "category": "lokalt",
       "topic": "lokalt",
@@ -2253,6 +2763,26 @@
       "timestamp": 1792870655
     },
     {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Avslørt på «hjemmebane»",
+      "url": "https://www.sandeavis.no/avslort-pa-hjemmebane/s/80-57-42506",
+      "summary": "OBS! SPOILERADVARSEL: Denne saken avslører hvem som måtte ta av seg masken under lørdagens «Maskorama»-premiere.",
+      "date_label": "24.10.2026",
+      "timestamp": 1792869247
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Trubaduraften, Sandedansen og kremmerdag - dette skjer i november",
+      "url": "https://www.sandeavis.no/trubaduraften-sandedansen-og-kremmerdag-dette-skjer-i-november/s/80-72-4872",
+      "summary": "",
+      "date_label": "24.10.2026",
+      "timestamp": 1792857600
+    },
+    {
       "source": "NRK Oslo",
       "category": "lokalt",
       "topic": "lokalt",
@@ -2261,6 +2791,16 @@
       "summary": "En bil har snurret og kjørt i autovernet på E6 nordgående retning. Politiet har kommet frem på stedet. Det er store materielle skader, men to personer fremstår oppegående, melder politiet.",
       "date_label": "24.10.2026",
       "timestamp": 1792853440
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Hubert (25) er savnet: – Vær så snill, hjelp oss",
+      "url": "https://www.sandeavis.no/hubert-25-er-savnet-var-sa-snill-hjelp-oss/s/80-57-42188",
+      "summary": "Polske Hubert Dyrda (25) har vært savnet siden søndag. Nå har moren og storebroren reist fra Polen til Drammen for å lete etter ham. De ber innstendig om hjelp.",
+      "date_label": "24.10.2026",
+      "timestamp": 1792849122
     },
     {
       "source": "BBC Business",
@@ -2283,6 +2823,16 @@
       "timestamp": 1792825778
     },
     {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Amanda (26) har fire jobber og jakter drømmekarrieren: – En tøff bransje",
+      "url": "https://www.sandeavis.no/amanda-brathen-26-fra-sande-med-skuespiller-rolle-i-svendsens-catering/s/80-72-5064",
+      "summary": "Sandesokningen har fått en mulighet hun lenge har drømt om.",
+      "date_label": "24.10.2026",
+      "timestamp": 1792803600
+    },
+    {
       "source": "BBC Technology",
       "category": "teknologi",
       "topic": "teknologi",
@@ -2301,6 +2851,16 @@
       "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
       "date_label": "24.10.2026",
       "timestamp": 1792797091
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Slik skal kommunen bli demensvennlig: – Realistisk og kunnskapsbasert",
+      "url": "https://www.sandeavis.no/slik-skal-kommunen-bli-demensvennlig-realistisk-og-kunnskapsbasert/s/80-72-5043",
+      "summary": "Innen 2030 vil over 700 personer i Holmestrand leve med demens, ifølge Demenskart.",
+      "date_label": "23.10.2026",
+      "timestamp": 1792771200
     },
     {
       "source": "BBC Business",
@@ -2391,6 +2951,16 @@
       "summary": "Disse 12 låtene er best akkurat nå!",
       "date_label": "23.10.2026",
       "timestamp": 1792727643
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Skal fungere som en møteplass i krisesituasjoner: – En enorm styrke",
+      "url": "https://www.sandeavis.no/skal-fungere-som-en-moteplass-i-krisesituasjoner-en-enorm-styrke/s/80-72-4125",
+      "summary": "Tre organisasjoner samarbeider med kommunen for at du skal oppleve trygghet i uønskede situasjoner.",
+      "date_label": "23.10.2026",
+      "timestamp": 1792717200
     },
     {
       "source": "BBC Technology",
