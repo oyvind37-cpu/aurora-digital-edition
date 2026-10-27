@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/update-news.yml'
+      - 'scripts/fetch_news.py'
 permissions:
   contents: write
 concurrency:
