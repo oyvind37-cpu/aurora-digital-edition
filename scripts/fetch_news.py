@@ -25,6 +25,8 @@ FEEDS = [
     ("NRK Sport", "sport", "sport", "https://www.nrk.no/sport/siste.rss", False),
     ("NRK Kultur", "kultur", "kultur", "https://www.nrk.no/kultur/toppsaker.rss", False),
     ("NRK Vestfold", "holmestrand", "lokalt", "https://www.nrk.no/vestfoldogtelemark/siste.rss", True),
+    ("Jarlsberg Avis", "holmestrand", "lokalt", "https://www.jarlsbergavis.no/service/rss", False),
+    ("Sande Avis", "holmestrand", "lokalt", "https://www.sandeavis.no/service/rss", False),
     ("BBC World", "verden", "verden", "https://feeds.bbci.co.uk/news/world/rss.xml", False),
     ("BBC Technology", "teknologi", "teknologi", "https://feeds.bbci.co.uk/news/technology/rss.xml", False),
     ("BBC Business", "okonomi", "okonomi", "https://feeds.bbci.co.uk/news/business/rss.xml", False),
@@ -64,7 +66,7 @@ def safe_url(raw):
         u = urllib.parse.urlsplit(raw.strip())
         if u.scheme != "https" or not u.hostname or u.username or u.password:
             return ""
-        if not (u.hostname == "nrk.no" or u.hostname.endswith(".nrk.no") or u.hostname == "bbc.co.uk" or u.hostname.endswith(".bbc.co.uk") or u.hostname == "bbc.com" or u.hostname.endswith(".bbc.com")):
+        if not (u.hostname == "nrk.no" or u.hostname.endswith(".nrk.no") or u.hostname == "bbc.co.uk" or u.hostname.endswith(".bbc.co.uk") or u.hostname == "bbc.com" or u.hostname.endswith(".bbc.com") or u.hostname in ("jarlsbergavis.no", "www.jarlsbergavis.no", "sandeavis.no", "www.sandeavis.no")):
             return ""
         query = urllib.parse.parse_qsl(u.query, keep_blank_values=True)
         query = [(k,v) for k,v in query if not k.lower().startswith("utm_")]
