@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-27T06:15:32Z",
+  "updated": "2026-10-27T06:17:27Z",
   "source_count": 9,
   "items": [
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Budget hopes for struggling first-time buyers",
+      "url": "https://www.bbc.co.uk/news/articles/c317kpqv4njno?at_medium=RSS&at_campaign=rss",
+      "summary": "Aspiring homeowners say rent, rising costs and house prices are delaying plans to buy.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793081768
+    },
     {
       "source": "BBC Business",
       "category": "okonomi",
