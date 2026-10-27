@@ -1,12 +1,532 @@
 {
-  "updated": "2026-10-27T06:17:27Z",
+  "updated": "2026-10-27T12:24:42Z",
   "source_count": 9,
   "items": [
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Mister resten av sesongen",
+      "url": "https://www.nrk.no/tromsogfinnmark/mister-resten-av-sesongen-1.18066121",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793103368
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Støre avviser dansk kritikk",
+      "url": "https://www.nrk.no/nyheter/store-avviser-dansk-kritikk-1.18066105",
+      "summary": "Støre svarte på kritikken fra den danske statsministeren Mette Frederiksen, som sier at dagens møte var et soloutspill. – Jeg er uenig i det. EU har til nå på fire år ikke hatt et felles budskap eller en felles tilnærming. – Vi snakker ikke på vegne av andre e",
+      "date_label": "27.10.2026",
+      "timestamp": 1793103153
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Putin: Russland vurderer samarbeid med USA i Arktis",
+      "url": "https://www.nrk.no/nyheter/putin_-russland-vurderer-samarbeid-med-usa-i-arktis-1.18066090",
+      "summary": "Russland vurderer mulighetene for samarbeid med amerikanske partnere i Arktis, sier president Vladimir Putin. Uttalelsen kom tirsdag på en konferanse for gasseksporterende land i Moskva. Han spesifiserte ikke om samarbeidsprosjektene som er til vurdering, vil ",
+      "date_label": "27.10.2026",
+      "timestamp": 1793102805
+    },
     {
       "source": "BBC Business",
       "category": "okonomi",
       "topic": "okonomi",
-      "title": "Budget hopes for struggling first-time buyers",
+      "title": "First-time buyer wary of Budget housing loan scheme",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwznv4kyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Luke Anstee has been saving for three years but says rising living costs make home ownership harder.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793102716
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793102540
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "EU forsterker grensekontrollen",
+      "url": "https://www.nrk.no/nyheter/eu-forsterker-grensekontrollen-1.18066001",
+      "summary": "EU-kommisjonen foreslår å stryke Det europeiske grense- og kystvaktbyrået Frontex. Det skal hindre situasjoner som i Ceuta tidligere i år. Sentrale nyheter inkluderer: et forsterket stående korps, inkludert en ny europeisk grense- og returreserve, en hurtigrea",
+      "date_label": "27.10.2026",
+      "timestamp": 1793102531
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793102037
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Kylian Mbappé legger seg flat etter Kina-raseri",
+      "url": "https://www.nrk.no/sport/kylian-mbappe-legger-seg-flat-etter-kina-raseri-1.18066029",
+      "summary": "Kylian Mbappé møtte hard kritikk fra Kina etter å ha kommet med en kommentar der han refererer til Mao Zedong som diktator. Nå beklager han. Fotballstjernen havnet i hardt vær etter den omstridte kommentaren som skal omhandle Mao. Mao ledet det kinesiske kommu",
+      "date_label": "27.10.2026",
+      "timestamp": 1793101558
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793101494
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Rykka ut til brann i sponsilo i Stjørdal",
+      "url": "https://www.nrk.no/trondelag/rykker-ut-til-brann-i-kornsilo-i-stjordal-1.18066024",
+      "summary": "Naudetatane rykka ut til Stjørdal etter melding om brann i ein sponsilo. Dei tilsette sløkte brannen sjølv.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793100427
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793100199
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Trikkeproblem på Grünerløkka",
+      "url": "https://www.nrk.no/stor-oslo/trikkeproblem-pa-grunerlokka-1.18065915",
+      "summary": "Ein lastebil sperrar trikkesporet på Grünerløkka, noko som fører til stans og omkøyring for trikkelinjene 12, 15 og 18. Det var Avisa Oslo som først melde om saka. Trikkane blir mellombels omdirigerte via Trondheimsveien. Trikkane stoppar ikkje på følgjande ha",
+      "date_label": "27.10.2026",
+      "timestamp": 1793099888
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "summary": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793099753
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793099493
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "What is the Budget and what could be in it?",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793099213
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "GD: Daglig leder i Eliteserieklubb går av",
+      "url": "https://www.nrk.no/innlandet/gd_-daglig-leder-i-eliteserieklubb-gar-av-1.18065730",
+      "summary": "",
+      "date_label": "27.10.2026",
+      "timestamp": 1793099151
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Manchester City-manageren bekrefter: Sendte Haaland på ferie etter tap",
+      "url": "https://www.nrk.no/sport/manchester-city-manageren-bekrefter_-sendte-haaland-pa-ferie-etter-tap-1.18065631",
+      "summary": "Erling Braut Haaland ble sendt på en mini-ferie etter Manchester Citys 1-2-tap for Aston Villa lørdag. City-sjefen antyder at nordmannen er klar for spill onsdag. Manager Enzo Maresca uttalte seg om Haaland på en pressekonferanse tirsdag. Maresca har de siste ",
+      "date_label": "27.10.2026",
+      "timestamp": 1793097552
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Russiske medier: – Enige om å holde kontakten",
+      "url": "https://www.nrk.no/nyheter/russiske-medier_-_-enige-om-a-holde-kontakten-1.18065919",
+      "summary": "Putin, Støre og Stubb skal være enige om å fortsette å holde kontakten, ifølge det russiske nyhetsbyrået TASS. Den russiske presidenten sa til de to nordiske lederne at fred kun er mulig om Russlands interesser ivaretas fullt ut og uten forbehold. Ifølge Kreml",
+      "date_label": "27.10.2026",
+      "timestamp": 1793096805
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Vil verne Tromsøs populære turmål mot slitasje",
+      "url": "https://www.nrk.no/tromsogfinnmark/vil-verne-tromsos-populaere-turmal-mot-slitasje-1.18065819",
+      "summary": "Tromsø kommune tar nå de første formelle stegene mot å sikre Sherpatrappa og Fløya status som «Nasjonal turiststi».",
+      "date_label": "27.10.2026",
+      "timestamp": 1793096638
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Mette Frederiksen «meget skeptisk» for samtale med Putin",
+      "url": "https://www.nrk.no/nyheter/mette-frederiksen-_meget-skeptisk_-for-samtale-med-putin-1.18065913",
+      "summary": "Statsminister Mette Frederiksen er ikke begeistret for at Finlands president Alexander Stubb og Norges statsminister Jonas Gahr Støre har snakket med Vladimir Putin. – Jeg er veldig skeptisk til dette norske og finske egetinitiativet. Det er ikke koordinert me",
+      "date_label": "27.10.2026",
+      "timestamp": 1793096386
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793096256
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Lokal fredsavtale holder foreløpig",
+      "url": "https://www.nrk.no/nyheter/lokal-fredsavtale-holder-forelopig-1.18065890",
+      "summary": "Det er så langt ikke registrert noen brudd på den lokale våpenhvilen rundt den russisk-okkuperte byen Olesjky i Sør-Ukraina, opplyser Kreml-talsmann Dmitrij Peskov tirsdag. Opplysningene har også blitt bekreftet fra Ukrainsk side. Våpenhvilen trådte i kraft ti",
+      "date_label": "27.10.2026",
+      "timestamp": 1793096165
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Dansk klubb erkjenner brudd på Fifa-regler – norsk 13-åring var på prøvespill",
+      "url": "https://www.nrk.no/sport/dansk-klubb-erkjenner-brudd-pa-fifa-regler-_-norsk-13-aring-var-pa-provespill-1.18065900",
+      "summary": "En norsk 13-åring var tidligere i år i Danmark for å trene med storklubben FC Midtjylland. Nå innrømmer klubben feil og erkjenner brudd på internasjonale regler. Reglene til Det internasjonale fotballforbundet (Fifa) fastslår at spillere ikke kan reise på besø",
+      "date_label": "27.10.2026",
+      "timestamp": 1793095462
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Hjemmesykepleier stjal fra eldre – må betale over én million i erstatning",
+      "url": "https://www.nrk.no/vestfoldogtelemark/hjemmesykepleier-domt-til-fengsel-i-fire-ar-og-seks-maneder-for-milliontyveri-1.18063378",
+      "summary": "Kvinnen fra Telemark stjal store mengder smykker fra de gamle pasientene mens hun var på jobb. Nå er hun dømt til fengsel.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793095018
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Zelenskyj i samtaler med Støre og Stubb",
+      "url": "https://www.nrk.no/nyheter/zelenskyj-i-samtaler-med-store-og-stubb-1.18065814",
+      "summary": "Ukrainas president Volodymyr Zelenskyj opplyser at statsminister Jonas Gahr Støre og Finlands president Alexander Stubb har sagt til Vladimir Putin om at angrepene mot ukrainsk energi og infrastruktur må trappes ned. Tirsdag snakket de to nordiske lederne på t",
+      "date_label": "27.10.2026",
+      "timestamp": 1793094890
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Apple to replace iPhone Duos affected by screen problem",
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793093875
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ny rassia mot ålesundseigd fiskemottak i Finnmark",
+      "url": "https://www.nrk.no/tromsogfinnmark/razzia-mot-fiskemottak-i-havoysund-1.18065791",
+      "summary": "Fiskeridirektoratet, Kystvakten og Finnmark politidistrikt bistår Økokrim i en aksjon i Havøysund.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793093620
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "RBK-profil pådro seg korsbåndskade – ute i lang tid",
+      "url": "https://www.nrk.no/sport/rbk-profil-padro-seg-korsbandskade-_-ute-i-lang-tid-1.18065831",
+      "summary": "Rosenborg-spiller Agnes Nyberg har fått påvist en korsbåndskade og må belage seg på en lengre periode på sidelinjen. Det opplyser RBK på sine nettsider mandag. 26-åringen ble skadet i første omgang i 1-1-kampen mot Brann 17. oktober. Nyberg falt etter en duell",
+      "date_label": "27.10.2026",
+      "timestamp": 1793093160
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Norsk håndballprofil varsler karriereslutt som 29-åring",
+      "url": "https://www.nrk.no/sport/norsk-handballprofil-varsler-karriereslutt-som-29-aring-1.18065828",
+      "summary": "Danmark-proffen Helene Gigstad Fauske står med 35 landskamper for Norge. Nå har hun bestemt seg for å legge opp, bare 29 år gammel. Det er klubblaget Odense som opplyser om Fauskes beslutning i en pressemelding. Håndballprofilen innstiller karrieren etter inne",
+      "date_label": "27.10.2026",
+      "timestamp": 1793093040
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nederland trekker seg likevel frå ESC",
+      "url": "https://www.nrk.no/kultur/nederland-trekker-seg-likevel-fra-esc-1.18065810",
+      "summary": "Det melder EBU i ei pressemelding. Dette er andre gong Nederland melder at dei trekker seg i år. Årsaka skal vere Israel si deltaking i konkurransen. – Det er synd, men vi ønskjer dei velkomen tilbake neste år, seier prosjektleiar for ESC i NRK, Mads Tørklep. ",
+      "date_label": "27.10.2026",
+      "timestamp": 1793092329
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Havforsker: Mindre miljøgifter i mat enn før",
+      "url": "https://www.nrk.no/nordland/forurensningen-i-norske-havomrader-har-gatt-ned-1.18065789",
+      "summary": "Forurensningen i norske havområder har gått ned, men gamle synder kan fortsatt spores.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793092297
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Trusselsituasjon i Bærum – kontroll på gjerningsperson",
+      "url": "https://www.nrk.no/stor-oslo/trusselsituasjon-i-baerum-_-kontroll-pa-gjerningsperson-1.18065807",
+      "summary": "Politiet er i Bærum med flere enheter i forbindelse med en trusselsituasjon. Ifølge politiet utgjør vedkommende ingen trussel for andre. Politiet valgte likevel å evakuere de nærmeste naboene. I en oppdatering klokken 12.24 skriver politiet at de har kontroll ",
+      "date_label": "27.10.2026",
+      "timestamp": 1793092275
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Putin har snakket med Støre og Finlands Alexander Stubb",
+      "url": "https://www.nrk.no/nyheter/putin-har-snakket-med-store-og-finlands-alexander-stubb-1.18065797",
+      "summary": "Den russiske presidenten har snakket med Finlands president Alexander Stubb og statsminister Jonas Gahr Støre. Møtet var en oppfølging av møtet i Oslo, og kom i stand etter initiativ fra Støre og Stubb. De to understreket at Finland og Norge vil fortsette den ",
+      "date_label": "27.10.2026",
+      "timestamp": 1793091799
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Rekordhøyt nivå av klimagasser i atmosfæren",
+      "url": "https://www.nrk.no/nyheter/rekordhoyt-niva-av-klimagasser-i-atmosfaeren-1.18065761",
+      "summary": "Nivået av klimagasser i atmosfæren nådde nok en gang nye rekordnivåer i fjor. Det viser en ny rapport fra Verdens meteorologiorganisasjon, WMO. Mengden klimagasser har økt med over 50 prosent siden 1990. CO2 står for mesteparten av økningen, men også mengden m",
+      "date_label": "27.10.2026",
+      "timestamp": 1793091696
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Akershus-toppsjef går av etter varsel",
+      "url": "https://www.nrk.no/stor-oslo/akershus-toppsjef-gar-av-etter-varsel-1.18065737",
+      "summary": "Den administrative toppsjefen i Akershus, Ellen Christine Christiansen, vil fratre sin stilling 26 januar. Dette skjer etter et varsel mot henne. – Jeg er kjent med at fylkeskommunen ved fylkesordfører, har mottatt et varsel rettet mot fylkesdirektør ved fylke",
+      "date_label": "27.10.2026",
+      "timestamp": 1793090681
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Boligbrann på Nesodden: Mann i 50-årene siktet",
+      "url": "https://www.nrk.no/stor-oslo/boligbrann-pa-nesodden_-mann-i-50-arene-siktet-1.18065722",
+      "summary": "En mann i 50-årene er siktet etter brannen i en enebolig på Nesodden natt til tirsdag. Nødetaten rykket ut etter melding om brann i en bolig på Alværn litt før klokken 03, og da brannvesenet kom frem brant det kraftig i huset. Den siktede er leietaker i huset,",
+      "date_label": "27.10.2026",
+      "timestamp": 1793090561
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Droppar omstridde kutt i psykiatrien- tilsette gret av glede",
+      "url": "https://www.nrk.no/mr/distriktspsykiatrisk-senter-i-molde-og-kristiansund-blir-ikkje-slatt-saman-likevel-1.18065688",
+      "summary": "Helse Møre og Romsdal har bestemt at dei ikkje legg ned eitt av dei distriktspsykiatriske sentra i Molde og Kristiansund. – Folk gret i dag, seier tillitsvald.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793090403
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Over 60 kristne drepne i Etiopia",
+      "url": "https://www.nrk.no/nyheter/over-60-kristne-drepne-i-etiopia-1.18065752",
+      "summary": "Over 60 er døde og rundt 20 hus er utbrente etter eit større angrep i Oromia-regionen i Etiopia, melder BBC Amharic. Ein representant for den ortodokse kyrkja kallar hendinga for ein massakre. Den ortodokse kyrkja i Etiopia har fleire gonger uttrykt uro for de",
+      "date_label": "27.10.2026",
+      "timestamp": 1793090320
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Why it could take time for a new Israeli government to form",
+      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793090250
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Krise etter vannbrudd: – Ikke puss tennene engang",
+      "url": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754",
+      "summary": "Sør-Varanger går tom for vann i kveld hvis ikke folk kutter forbruket tvert, meldte kommunen i morges. Reparasjonen av det siste vannbruddet kom i gang igjen litt etter klokka 11.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793089780
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "10.000 ebolasmittede i Kongo",
+      "url": "https://www.nrk.no/nyheter/10.000-ebolasmittede-i-kongo-1.18065732",
+      "summary": "Antall bekreftede tilfeller av ebola, har passert 10.000 tilfeller ifølge lokale myndigheter i Kongo. Utbruddet begynte i mai, og har spred seg til flere land. Flere enn 4800 er døde som følge av viruset ifølge BBC.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793089632
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "TV 2: Energiminister Terje Aasland er i Kyiv",
+      "url": "https://www.nrk.no/nyheter/tv-2_-energiminister-terje-aasland-er-i-kyiv-1.18065703",
+      "summary": "Energiminister Terje Aasland er i Kyiv for å lære av ukrainsk beredskap og vise at Norge vil fortsette å støtte Ukraina. Det melder TV 2. – Dette besøket er viktig for å vise at Norge vil fortsette å støtte Ukraina under den russiske angrepskrigen. Ukrainske e",
+      "date_label": "27.10.2026",
+      "timestamp": 1793088488
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Flere nordmenn går på kino – men hver enkelt går langt sjeldnere",
+      "url": "https://www.nrk.no/nyheter/flere-nordmenn-gar-pa-kino-_-men-hver-enkelt-gar-langt-sjeldnere-1.18065672",
+      "summary": "Andelen nordmenn som går på kino, har økt siden 1991, men antallet besøk per person er mer enn halvert i samme periode, viser tall fra SSB. Unge er fortsatt de ivrigste kinogjengerne. I gjennomsnitt hadde 90 prosent av dem mellom 16 og 24 år vært på kino minst",
+      "date_label": "27.10.2026",
+      "timestamp": 1793086234
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
+      "url": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
+      "summary": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793085761
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "19-åring siktet for voldtekt av tre barn",
+      "url": "https://www.nrk.no/vestfoldogtelemark/19-aring-siktet-for-voldtekt-av-tre-barn-1.18065683",
+      "summary": "En 19-åring i Nedre Telemark tingrett ga mandag samtykke til varetektsfengsling i fire uker. Mannen ble pågrepet lørdag, siktet for voldtekt av tre barn under 14 år. Overgrepene skal ha skjedd så sent som i høst. Hensynet til å sikre den videre etterforskninge",
+      "date_label": "27.10.2026",
+      "timestamp": 1793085307
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793083730
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "21 drept i nytt droneangrep i Sudan",
+      "url": "https://www.nrk.no/nyheter/21-drept-i-nytt-droneangrep-i-sudan-1.18065632",
+      "summary": "21 personer er drept og 40 såret i et droneangrep i Nyala i Sudan. Samtidig er en kraftstasjon i Khartoum truffet av droner fra RSF-militsen. Ifølge øyenvitner, skal en drone ha truffet et marked. Den sudanske militsen har kriget mot Sudans regjeringshær siden",
+      "date_label": "27.10.2026",
+      "timestamp": 1793083372
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trondheim Ap endrar listeforslag etter press frå partiet sentralt",
+      "url": "https://www.nrk.no/trondelag/nominasjonskomiteen-i-trondheim-arbeidarparti-endrar-listeforslag-etter-press-fra-partiet-sentralt-1.18065640",
+      "summary": "Søndag foreslo nominasjonskomiteen menn som både ordførar- og byrådsleiarkandidat. Måndag kveld endra komiteen listeforslaget.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793083368
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+      "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793082791
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Sør-Varanger: Øker bemanningen i brannvesenet",
+      "url": "https://www.nrk.no/tromsogfinnmark/sor-varanger_-oker-bemanningen-i-brannvesenet-1.18065661",
+      "summary": "Sør-Varanger kommune og brann- og redningstjenesten har iverksatt en rekke tiltak for å sikre brannberedskapen mens situasjonen med vannforsyningen pågår. For å opprettholde god beredskap er bemanningen på tankbil økt. – Dette gir brannvesenet større tilgang p",
+      "date_label": "27.10.2026",
+      "timestamp": 1793082388
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ble enige etter å ha meklet i 17 timer",
+      "url": "https://www.nrk.no/tromsogfinnmark/ble-enige-etter-a-ha-meklet-i-17-timer-1.18065655",
+      "summary": "Mandag møttes NHO Service og Handel og Fellesforbundet til tvungen mekling i forbindelse med streiken på Landforpleiningsavtalen. NHO opplyser at etter mekling i 17 timer, la mekler frem en skisse som begge partene valgte å akseptere og anbefale. Streiken avsl",
+      "date_label": "27.10.2026",
+      "timestamp": 1793081918
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Will the Budget pass Burnham's Makerfield test?",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx1e9ylv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "People in the prime minister's constituency say rising costs are squeezing household finances.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793081864
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "First-time buyers hoping for help from the Budget",
       "url": "https://www.bbc.co.uk/news/articles/c317kpqv4njno?at_medium=RSS&at_campaign=rss",
       "summary": "Aspiring homeowners say rent, rising costs and house prices are delaying plans to buy.",
       "date_label": "27.10.2026",
@@ -21,6 +541,16 @@
       "summary": "Ahead of the Budget, residents tell BBC Radio Surrey their experiences of the cost-of living crisis.",
       "date_label": "27.10.2026",
       "timestamp": 1793081569
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Dalsbygda-løper klar for nytt profflag",
+      "url": "https://www.nrk.no/innlandet/dalsbygda-loper-klar-for-nytt-profflag-1.18065651",
+      "summary": "Langrennsløper Magni Smedås fra Dalsbygda er klar for det norske profflaget GVD Ski Team i langløpscupen Ski Classics. Det kommer frem i lagets presentasjon av årets utøvere, som består av tre menn og tre kvinner. Laget het tidligere Team Kaffebryggeriet DRIV,",
+      "date_label": "27.10.2026",
+      "timestamp": 1793081332
     },
     {
       "source": "BBC Business",
@@ -46,9 +576,9 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Nekter for trusler – nå anker den overgrepsdømte idrettslederen",
+      "title": "Ankesaken i gang for den tidligere idrettslederen i Lyngdal: Nekter for trusler",
       "url": "https://www.nrk.no/sorlandet/nekter-for-trusler-_-na-anker-den-overgrepsdomte-idrettslederen-i-lyngdal-1.18064731",
-      "summary": "Den tidligere idrettslederen i Lyngdal som er dømt til 15 års forvaring for omfattende overgrep mot barn, møter på nytt i retten i dag etter å ha anket dommen.",
+      "summary": "Den tidligere idrettslederen som er dømt til 15 års forvaring for omfattende overgrep mot barn, møter på nytt i retten etter å ha anket dommen.",
       "date_label": "27.10.2026",
       "timestamp": 1793077990
     },
@@ -116,6 +646,16 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
+      "title": "Stor interesse for små kjøretøy – Jim (16) punget ut 270.000 kroner for mopedbil",
+      "url": "https://www.nrk.no/rogaland/stor-interesse-for-sma-kjoretoy-_-jim-_16_-punget-ut-270.000-kroner-for-mopedbil-1.18050522",
+      "summary": "Kraftig vekst i antall ungdommer som tar mopedbillappen. Kjøreskoler blir nedringt og forhandlere i hele landet sliter med å levere nok biler.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793076953
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
       "title": "Krevende hverdag for politiet: Må velge bort straffesaker",
       "url": "https://www.nrk.no/tromsogfinnmark/krevende-hverdag-for-politiet-i-troms_-ma-velge-bort-straffesaker-1.18062728",
       "summary": "Økt turisme, grensekontroll og et sammensatt trusselbilde tvinger politiet i Troms til å prioritere hardt.",
@@ -166,31 +706,11 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
       "date_label": "27.10.2026",
-      "timestamp": 1793066487
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-      "date_label": "27.10.2026",
-      "timestamp": 1793066268
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793065684
+      "timestamp": 1793065598
     },
     {
       "source": "NRK Siste",
@@ -223,16 +743,6 @@
       "timestamp": 1793061071
     },
     {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793059260
-    },
-    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -263,6 +773,16 @@
       "timestamp": 1793050313
     },
     {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Business Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grq?at_medium=RSS&at_campaign=rss",
+      "summary": "After decades of ultra-cheap money, the cost of borrowing in Japan is rising",
+      "date_label": "26.10.2026",
+      "timestamp": 1793050200
+    },
+    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -281,6 +801,16 @@
       "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
       "date_label": "26.10.2026",
       "timestamp": 1793048567
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Arne var 12 år da han ble fanget av nazistene",
+      "url": "https://www.nrk.no/sorlandet/har-funnet-5000-glemte-krigsfanger-etter-andre-verdenskrig-1.18062013",
+      "summary": "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert. 94 år gamle Arne Eilertsen var bare barnet da han ble arrestert.",
+      "date_label": "26.10.2026",
+      "timestamp": 1793047518
     },
     {
       "source": "NRK Siste",
@@ -688,7 +1218,7 @@
       "topic": "lokalt",
       "title": "Direktør trekker seg fra Holocaustsenteret",
       "url": "https://www.nrk.no/stor-oslo/direktor-trekker-seg-fra-holocaustsenteret-1.18065136",
-      "summary": "Direktør Jan Heiret ved Holocaustsenteret går av med umiddelbar virkning. Grunnen er et vanskelig forhold mellom Heiret og jødiske trossamfunn, heter det i en pressemelding fra HL-senteret, som er det formelle navnet på Holocaustsenteret. Det var Vårt Land og ",
+      "summary": "Direktør Jan Heiret ved Holocaustsenteret går av med umiddelbar virkning. Grunnen er et vanskelig forhold mellom Heiret og jødiske trossamfunn, heter det i en pressemelding fra HL-senteret, som er det formelle navnet på Holocaustsenteret. Det var Morgenbladet ",
       "date_label": "26.10.2026",
       "timestamp": 1793027311
     },
@@ -1011,16 +1541,6 @@
       "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
       "date_label": "26.10.2026",
       "timestamp": 1792983180
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "What is the Budget and what could be in it?",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "date_label": "26.10.2026",
-      "timestamp": 1792980997
     },
     {
       "source": "BBC Business",
