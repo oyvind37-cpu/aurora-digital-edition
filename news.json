@@ -1,7 +1,287 @@
 {
-  "updated": "2026-10-28T19:49:12Z",
+  "updated": "2026-10-28T23:39:47Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Opplysninger om 40.000 ansatte i USAs sikkerhetsdepartement lekket på nettet",
+      "url": "https://www.nrk.no/nyheter/opplysninger-om-40.000-ansatte-i-usas-sikkerhetsdepartement-lekket-pa-nettet-1.18067628",
+      "summary": "En lekkasjenettside har offentliggjort opplysninger om mer enn 40.000 ansatte i USAs sikkerhetsdepartement (DHS), blant dem personer som arbeider med overvåking og etterretning. Det er organisasjonen Distributed Denial of Secrets som onsdag offentliggjorde opp",
+      "date_label": "29.10.2026",
+      "timestamp": 1793230693
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793229708
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793229060
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Tre pågrepet og siktet etter skyting i Drammen",
+      "url": "https://www.nrk.no/nyheter/tre-pagrepet-og-siktet-etter-skyting-i-drammen-1.18067623",
+      "summary": "Tre personer er pågrepet etter at politiet fikk melding om at det var avfyrt skudd i Drammen onsdag kveld. De pågrepne er alle unge menn i alderen 19 til 23 år. Det skal ha vært en krangel i forkant av skytingen. Ingen ble skadet. Det var ett skudd som ble avf",
+      "date_label": "28.10.2026",
+      "timestamp": 1793227072
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Liverpool vant straffedrama mot Chelsea",
+      "url": "https://www.nrk.no/sport/liverpool-vant-straffedrama-mot-chelsea-1.18067577",
+      "summary": "Liverpool tok imot Chelsea i Ligacupens fjerde runde onsdag og oppgjøret måtte til slutt avgjøres med en nervepirrende straffesparkkonkurranse. Etter 16 spark fra straffemerket vant Liverpool til slutt 6–5. Men kampen, hvor det stod 1–1 etter full tid, hadde a",
+      "date_label": "28.10.2026",
+      "timestamp": 1793225571
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793225332
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Dobbel norsk nedtur i Ligacupen – Brentford og Fulham ute",
+      "url": "https://www.nrk.no/sport/dobbel-norsk-nedtur-i-ligacupen-_-brentford-og-fulham-ute-1.18067612",
+      "summary": "Det ville seg ikke for de norsk Premier League-profilene onsdag kveld. I Sunderland måtte Kristoffer Ajer fra benken se sine Brentford-lagkamerater slippe inn tre mål før pause. Brentford slo likevel tilbake to ganger, og rundt 20 minutter før fulltid ble også",
+      "date_label": "28.10.2026",
+      "timestamp": 1793224535
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fryktar å miste jordmortilbodet",
+      "url": "https://www.nrk.no/mr/oppseiing-av-folgetenesta-for-gravide-i-surnadal-har-skapt-sterke-kjensler-1.18065834",
+      "summary": "Gravide i Surnadal fryktar nedlegging av ordninga med jordmor som følgjer dei i ambulansen til sjukehus. Helseføretaket avviser at det er planen.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793224226
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793223534
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Haaland-løst City slet mot Brighton – vant likevel på straffer",
+      "url": "https://www.nrk.no/sport/haaland-lost-city-slet-mot-brighton-_-vant-likevel-pa-straffer-1.18067594",
+      "summary": "Uten Erling Braut Haaland i troppen fikk Manchester City det tøft i ligacupkampen mot Brighton på hjemmebane. Men i straffesparkkonkurransen var hjemmelaget kneppet bedre. Det var likevel bortelaget som åpnet best. Etter en halvtime sendte Malick Yalcouye bort",
+      "date_label": "28.10.2026",
+      "timestamp": 1793223281
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793222681
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Sjette strake Kolstad-tap i mesterligaen",
+      "url": "https://www.nrk.no/sport/sjette-strake-kolstad-tap-i-mesterligaen-1.18067605",
+      "summary": "Kolstad fikk det igjen tøft mot Kielce i siste puljekamp i mesterligaen i håndball. Det endte med 35-40-tap i Polen. Det var trøndernes sjette tap på seks kamper i puljespillet i den største klubbturneringen. Kolstad tapte med sju mål (29–36) da lagene møttes ",
+      "date_label": "28.10.2026",
+      "timestamp": 1793222299
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793222190
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "E10 i Lofoten stengt – sterk storm i kastene",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "summary": "",
+      "date_label": "28.10.2026",
+      "timestamp": 1793222139
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Herrem i bruttotroppen til EM: – Betyr ikke nødvendigvis et comeback",
+      "url": "https://www.nrk.no/sport/herrem-i-bruttotroppen-til-em_-_-betyr-ikke-nodvendigvis-et-comeback-1.18067582",
+      "summary": "Håndballstjernen Camilla Herrem (40) har på forespørsel fra landslagssjef Ole Gustav Gjekstad sagt ja til å være EM-aktuell. Det sier Herrem til TV 2. – Ja, jeg fikk spørsmål om jeg kunne bli satt på listen, så jeg sa ja, og det er bare i tilfelle. Ikke noe me",
+      "date_label": "28.10.2026",
+      "timestamp": 1793221637
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793220782
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "date_label": "28.10.2026",
+      "timestamp": 1793220250
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Restaurants sceptical over 'garlic and gherkins' plan",
+      "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&at_campaign=rss",
+      "summary": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793219499
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793219079
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Person skadet etter voldshendelse – politiet søker etter gjerningsperson",
+      "url": "https://www.nrk.no/nordland/person-skadet-etter-voldshendelse-_-politiet-soker-etter-gjerningsperson-1.18067493",
+      "summary": "Politiet rykker ut etter melding om en voldshendelse på en privat adresse i Andøy kommune i Vesterålen. En person er lettere skadd og tas hånd om av helsepersonell. – Politiet søker nå etter formentlig gjerningsperson, opplyser Kai Henrik Eriksen i Nordland po",
+      "date_label": "28.10.2026",
+      "timestamp": 1793218701
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Medier: Mer motgang for United-spiss – blir ute i flere måneder",
+      "url": "https://www.nrk.no/sport/medier_-mer-motgang-for-united-spiss-_-blir-ute-i-flere-maneder-1.18067580",
+      "summary": "Manchester United-profilen Benjamin Sesko ventes å være ute av spill til over nyttår. Det melder The Athletic og BBC. Det er en leggskade som plager den slovenske spissen, og han har ikke spilt siden midten av september etter at han mistet hele oppkjøringen i ",
+      "date_label": "28.10.2026",
+      "timestamp": 1793218305
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "What we now know about the UK economy in four charts",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793218125
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "What the Budget offers for under 25s - and what it leaves out",
+      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793217758
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Nina fant tilbake til tegnegleden – nå stiller hun ut i Holmestrand: – Jeg måtte kaste meg ut i det",
+      "url": "https://www.jarlsbergavis.no/nina-fant-tilbake-til-tegnegleden-na-stiller-hun-ut-i-holmestrand-jeg-matte-kaste-meg-ut-i-det/s/80-26-9711",
+      "summary": "Kunstner Nina Solstice, fra Holmestrand, la blyanten på hylla i ti år. Da savnet etter å tegne meldte seg, ga hun seg selv et tegnekurs i bursdagsgave. Nå har hun utstilling hos kaféen Frida & Karlo.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793217600
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Sjukehus opna varslingskanal: Sakene strøymer inn frå tilsette",
+      "url": "https://www.nrk.no/tromsogfinnmark/mange-varsel-ved-finnmarkssykehuset_-tre-av-fire-tor-ikkje-a-sta-fram-1.18066780",
+      "summary": "Den nye varslingskanalen til Finnmarkssykehuset har utløyst eit skred av saker om seksuell trakassering, arbeidsmiljø og pasienttryggleik.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793217389
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Overtidsdrama for Tromsø",
+      "url": "https://www.nrk.no/sport/overtidsdrama-for-tromso-1.18067528",
+      "summary": "Tromsø så ut til å dra i land en 2-1-seier mot førstedivisjonsleder Haugesund i cupens 3. runde, men to minutter på overtid scoret Raphael Schifferl og det gikk mot ekstraomganger. Men bare to minutter senere svarte hjemmelaget da Ruben Yttergård Jenssen banke",
+      "date_label": "28.10.2026",
+      "timestamp": 1793217255
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793217061
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Bolsonaro i USA: Hevder at han vant valget",
+      "url": "https://www.nrk.no/nyheter/bolsonaro-i-usa_-hevder-at-han-vant-valget-1.18067497",
+      "summary": "Flavio Bolsonaro bekrefter at han har flyktet til USA og hevder at det var han som vant søndagens valg i Brasil. – Jeg henvender meg til det brasilianske folk og det internasjonale samfunnet som den rettmessig valgte presidenten i Brasil. Han takker Donald Tru",
+      "date_label": "28.10.2026",
+      "timestamp": 1793216895
+    },
     {
       "source": "NRK Vestfold",
       "category": "holmestrand",
@@ -53,14 +333,14 @@
       "timestamp": 1793214094
     },
     {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Five ways the Budget will affect you if you are under 25",
-      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Fryktet liv hadde gått tapt – så kom mannen gående: – En lettelse",
+      "url": "https://www.jarlsbergavis.no/fryktet-liv-hadde-gatt-tapt-sa-kom-mannen-gaende-en-lettelse/s/80-60-18288",
+      "summary": "Beboeren i det overtente huset på Nykirke var lenge savnet. Først seks timer senere kom han gående tilbake til brannstedet.",
       "date_label": "28.10.2026",
-      "timestamp": 1793213756
+      "timestamp": 1793214000
     },
     {
       "source": "NRK Sport",
@@ -113,6 +393,16 @@
       "timestamp": 1793213135
     },
     {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793213109
+    },
+    {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
@@ -136,7 +426,7 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Syv personer varetektsfengslet etter storaksjon",
+      "title": "Ordførere markerte motstand mot kutt av ambulanser",
       "url": "https://www.nrk.no/video/DKNO98102826",
       "summary": "",
       "date_label": "28.10.2026",
@@ -236,9 +526,9 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Følg kampen her: TIL i føringen på Romssa Arena",
+      "title": "Berget avansement på overtid",
       "url": "https://www.nrk.no/tromsogfinnmark/nm-cup-3.-runde_-tromso-mot-haugesund-1.18066842",
-      "summary": "Her kan du følge Tromsø mot Haugesund i NM-cupens 3. runde fra kl. 19.",
+      "summary": "Tromsø slo Haugesund 3-2 etter ellevilt overtidsdrama.",
       "date_label": "28.10.2026",
       "timestamp": 1793210194
     },
@@ -273,16 +563,6 @@
       "timestamp": 1793208881
     },
     {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793208771
-    },
-    {
       "source": "NRK Vestfold",
       "category": "holmestrand",
       "topic": "lokalt",
@@ -311,16 +591,6 @@
       "summary": "For snaut to år siden gjorde Maia Søe Paulsen (24) holmestranding av seg. Nå er hun satt opp på 2. plass på nominasjonskomiteens første listeforslag til fylkestinget for Fremskrittspartiet. Hun har allerede fått prøvd seg selv i en mediestorm.",
       "date_label": "28.10.2026",
       "timestamp": 1793207400
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793206787
     },
     {
       "source": "NRK Norge",
@@ -3731,276 +4001,6 @@
       "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
       "date_label": "26.10.2026",
       "timestamp": 1793011726
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Healey to shield low-income pensioners from income tax in the Budget",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-      "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-      "date_label": "26.10.2026",
-      "timestamp": 1793010492
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Norsk ishockeyprofil må opereres – trolig ferdig for sesongen",
-      "url": "https://www.nrk.no/sport/norsk-ishockeyprofil-ma-opereres-_-trolig-ferdig-for-sesongen-1.18064610",
-      "summary": "Sverige-proffen Martin Johnsen (22) må gjennom en operasjon og kommer sannsynligvis ikke på is igjen for hockeyklubben HV71 denne sesongen. Det opplyser HV71-lege Jonas Kalman til klubbens nettsted. – Etter en tid med rehabilitering har vi bestemt oss for at M",
-      "date_label": "26.10.2026",
-      "timestamp": 1793009646
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Titalls skademeldinger etter uværet",
-      "url": "https://www.nrk.no/vestfoldogtelemark/titalls-skademeldinger-etter-uvaeret-1.18064676",
-      "summary": "Store deler av landet opplevde uvær i helgen. Forsikringsselskapet Gjensidige, som ifølge Finans Norges tall har størt markedsandel i Norge med rundt 26 prosent, melder om 178 skademeldinger så langt etter helgens raseringer. Av disse kommer 20 fra Vestfold og",
-      "date_label": "26.10.2026",
-      "timestamp": 1793008475
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Granatangrepet i Pilestredet: Tiltalt for å ha overlevert håndgranater til 13-åring",
-      "url": "https://www.nrk.no/stor-oslo/granatangrepet-i-pilestredet_-tiltalt-for-a-ha-overlevert-handgranater-til-13-aring-1.18064856",
-      "summary": "En mann i 30-årene er tiltalt for å ha oppbevart og overlevert håndgranater til den ene 13-åringen, dagen før eksplosjonen i Pilestredet. Det melder TV 2. Politiet har tidligere sagt at de så angrepet i forbindelse med Foxtrot-nettverket og en pågående konflik",
-      "date_label": "26.10.2026",
-      "timestamp": 1793008470
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Marie (27) følte seg som en byrde – nå er erfaringene hennes viktig for forskning",
-      "url": "https://www.nrk.no/vestfoldogtelemark/flere-blir-medforskere-_-marie-sine-erfaringer-ble-viktig-i-forskning-om-arbeidsliv-1.18054571",
-      "summary": "Marie Lien Halvorsen vet hvordan utenforskap føles. Erfaringene ble verdifulle da hun plutselig ble medforsker.",
-      "date_label": "26.10.2026",
-      "timestamp": 1793008047
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Crowds welcome Venezuela's María Machado after months in exile",
-      "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
-      "date_label": "26.10.2026",
-      "timestamp": 1793007072
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Junior fra Andebu til VM i styrkeløft",
-      "url": "https://www.nrk.no/vestfoldogtelemark/junior-fra-andebu-til-vm-i-styrkeloft-1.18064702",
-      "summary": "Anders Hvitstein fra Andebu er tatt ut til VM i styrkeløft. Det melder Norges styrkeløftforbund i en pressemelding. Hvitstein er fortsatt junior, men stiller i åpen klasse og er rangert blant de ti beste i verden i klassen -74 kg. Hvitstein løfter for Sande KK",
-      "date_label": "26.10.2026",
-      "timestamp": 1793005857
-    },
-    {
-      "source": "NRK Kultur",
-      "category": "kultur",
-      "topic": "kultur",
-      "title": "Axel spilte brutal og ustabil nazist – så begynte han selv å slite",
-      "url": "https://www.nrk.no/artikkel/slik-ble-han-norges-ondeste-mann-1529190",
-      "summary": "",
-      "date_label": "26.10.2026",
-      "timestamp": 1793005313
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The highly secretive four-day Plenum starts Monday in Beijing.",
-      "date_label": "26.10.2026",
-      "timestamp": 1793000457
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Danskebåten snudde på vei til Oslo",
-      "url": "https://www.nrk.no/stor-oslo/danskebaten-snudde-pa-vei-til-oslo-1.18064663",
-      "summary": "Fergen mellom København og Oslo gjorde vendereis utenfor Nordjylland på grunn av stormværet i Skagerrak mandag. – Grunnet stormværet har Nordic Crown ligget i ly av Skagen og venter på muligheten til å krysse Skagerrak, opplyser Jakob Lunøe i Go Nordic Cruisel",
-      "date_label": "26.10.2026",
-      "timestamp": 1792999937
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Sykehjem i Ski: Mer enn 1000 avvik",
-      "url": "https://www.nrk.no/stor-oslo/sykehjem-i-ski_-mer-enn-1000-avvik-1.18064630",
-      "summary": "På Solborg bo- og aktiviseringssenter i Ski er det registrert mer enn tusen uønskede hendelser siden 2024. Det skriver Østlandets Blad, som har gått gjennom avviksrapporten fra senteret. Flere av hendelsene handler om vold og trusler mot ansatte og andre beboe",
-      "date_label": "26.10.2026",
-      "timestamp": 1792998304
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?",
-      "date_label": "26.10.2026",
-      "timestamp": 1792995552
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Mindreårige kjørte bil – stoppet av politiet",
-      "url": "https://www.jarlsbergavis.no/mindrearige-kjorte-bil-stoppet-av-politiet/s/80-26-9837",
-      "summary": "",
-      "date_label": "26.10.2026",
-      "timestamp": 1792993973
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Røabadet: Bussing av elever koster titusener",
-      "url": "https://www.nrk.no/stor-oslo/roabadet_-bussing-av-elever-koster-titusener-1.18064589",
-      "summary": "Det koster tusenvis av kroner å frakte elever til svømmeundervisning andre steder i byen, etter at Røabadet i Oslo stengte for allmennheten og skolesvømming. Det skriver Avisa Oslo. Rundt 5000 skole- og barnehagebarn på vestkanten mistet sitt lokale svømmetilb",
-      "date_label": "26.10.2026",
-      "timestamp": 1792993869
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Leirsund bru stengt",
-      "url": "https://www.nrk.no/stor-oslo/leirsund-bru-stengt-1.18064576",
-      "summary": "Leirsund bru på fylkesvei 1535 i Lillestrøm er stengt. Statens vegvesen stengte brua sent i går kveld på grunn av høy vannføring i elva Leira. Ny avlesning på morgenen viser at vannstanden har steget, opplyser veitrafikksentralen. Brua vil være stengt til vann",
-      "date_label": "26.10.2026",
-      "timestamp": 1792989087
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Bjørkelangen: Tyveri av motorsager",
-      "url": "https://www.nrk.no/stor-oslo/bjorkelangen_-tyveri-av-motorsager-1.18064572",
-      "summary": "Politiet rykket i natt ut til en bedrift i Bjørkelangen i Aurskog-Høland etter melding om innbrudd. Det er tatt kontanter og motorsager, opplyser oppdragsleder Kristian Rasmussen i Øst politidistrikt. Politiet fikk melding om innbruddet fra et vekterfirma. En ",
-      "date_label": "26.10.2026",
-      "timestamp": 1792987825
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Australian murderer loses bid to eat Vegemite in prison",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-      "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
-      "date_label": "26.10.2026",
-      "timestamp": 1792987528
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
-      "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
-      "date_label": "26.10.2026",
-      "timestamp": 1792983180
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Kjeldaas får gjennomgå i ny dom: – Grovt uaktsomt",
-      "url": "https://www.sandeavis.no/sande-kjeldaas-ma-betale-milliondom-etter-skolebygging/s/80-57-41399",
-      "summary": "Entreprenørfirmaet Kjeldaas AS i Sande må betale millionerstatning etter skolebygging, og får det glatte lag i retten.",
-      "date_label": "26.10.2026",
-      "timestamp": 1792983000
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Martin (19) er helt ny i politikken: – Ønsker å skap mer oppmerksomhet rundt temaet",
-      "url": "https://www.sandeavis.no/martin-19-er-helt-ny-i-politikken-onsker-a-skap-mer-oppmerksomhet-rundt-temaet/s/80-72-4635",
-      "summary": "Sandesokningen er klar for å bidra med yngre krefter.",
-      "date_label": "26.10.2026",
-      "timestamp": 1792980000
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
-      "date_label": "26.10.2026",
-      "timestamp": 1792974409
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-      "date_label": "26.10.2026",
-      "timestamp": 1792971874
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Why Israel's election is one of the most important in its history",
-      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
-      "date_label": "25.10.2026",
-      "timestamp": 1792965930
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Mbappé-show senket Barcelona i El Clásico",
-      "url": "https://www.nrk.no/sport/mbappe-show-senket-barcelona-i-el-clasico-1.18064552",
-      "summary": "Kylian Mbappé scoret målene da Real Madrid brøt Barcelonas seiersrekke i La Liga. Etter ni strake seiere måtte serielederen tåle 1-2-tap søndag. Det så lenge ut til å bli en målløs første omgang, men Barcelona-forsvaret surret det til i det 41. minutt. En dårl",
-      "date_label": "25.10.2026",
-      "timestamp": 1792965749
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Lonebu feiret som Haaland i vilt målshow: – En syk opplevelse",
-      "url": "https://www.nrk.no/sport/lonebu-feiret-som-haaland-i-vilt-malshow_-_-en-syk-opplevelse-1.18064550",
-      "summary": "Kristian Lonebu (20) har fått en drømmestart på Molde-karrieren. Det ble ikke mindre enn fire nettkjenninger i 5-1-seieren over Fredrikstad. Lonebu står med sju scoringer og en assist på de fem siste kampene. Han gjorde overgang fra Aalesund i august og har vi",
-      "date_label": "25.10.2026",
-      "timestamp": 1792964804
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Suveren Antonelli-seier i USA",
-      "url": "https://www.nrk.no/sport/suveren-antonelli-seier-i-usa-1.18064436",
-      "summary": "Mercedes-fører Kimi Antonelli var suveren i Formel 1-løpet i Texas søndag kveld. Han ledet nesten hele løpet, og vant 14 sekunder foran Ferraris Charles Leclerc. Max Verstappen ble nummer tre. – Sånn skal det f... meg gjøres, sa Antonelli etter løpet.",
-      "date_label": "25.10.2026",
-      "timestamp": 1792964412
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Jonatan Braut Brunes scoret fire for Sparta Praha – publikum rodde",
-      "url": "https://www.nrk.no/sport/jonatan-braut-brunes-scoret-fire-for-sparta-praha-_-publikum-rodde-1.18064517",
-      "summary": "Jonatan Braut Brunes herjet og scoret fire ganger for Sparta Praha i 5-1-seieren over Slovacko i tsjekkisk eliteserie. På tribunen rodde hjemmefansen til hans ære. Fetteren til Erling Braut Haaland gjorde ekte hattrick med scoring i det 14., 31. og 37. minutt,",
-      "date_label": "25.10.2026",
-      "timestamp": 1792959948
     }
   ]
 }
