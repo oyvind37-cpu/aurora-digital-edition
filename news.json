@@ -1,16 +1,46 @@
 {
-  "updated": "2026-10-28T01:37:28Z",
+  "updated": "2026-10-28T07:31:31Z",
   "source_count": 11,
   "items": [
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Millionforvirring rundt navnet på Glimts nye stadion: – Kanskje det mest problematiske",
+      "url": "https://www.nrk.no/nordland/millionforvirring-rundt-navnet-pa-glimts-nye-stadion_-_-kanskje-det-mest-problematiske-1.18058471",
+      "summary": "Bodø/Glimt vil tjene gode penger på å selge navnet på sin nye milliardstadion. Men en avtale inngått før årsmøtet har fått sagt sitt skaper million-forvirring.",
       "date_label": "28.10.2026",
-      "timestamp": 1793145869
+      "timestamp": 1793172508
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nesten 400 uten strøm i Midt-Troms",
+      "url": "https://www.nrk.no/tromsogfinnmark/over-700-berort-av-stromstans-i-salangen-og-dyroy-1.18066704",
+      "summary": "",
+      "date_label": "28.10.2026",
+      "timestamp": 1793172103
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Lokal våpenhvile holder i Ukraina",
+      "url": "https://www.nrk.no/nyheter/lokal-vapenhvile-holder-i-ukraina-1.18066684",
+      "summary": "Det er ikke registrert brudd på den lokale våpenhvilen i Olesjky i Sør-Ukraina det siste halvannet døgnet, opplyser Ukrainas menneskerettsombudsmann onsdag. Våpenhvilen har dermed holdt i 30 timer for å sikre nødhjelp og evakueringer fra den russisk-okkuperte ",
+      "date_label": "28.10.2026",
+      "timestamp": 1793172085
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Oslo: Bedrifter mangler vannberedskapsplan",
+      "url": "https://www.nrk.no/stor-oslo/oslo_-bedrifter-mangler-vannberedskapsplan-1.18066697",
+      "summary": "To av tre bedrifter i Oslo mangler en plan hvis vannet blir borte i mer enn åtte timer. Det viser en undersøkelse fra Vann- og avløpsetaten. Byen har én hovedvannkilde fram til en ny reserve er klar i 2028. Det kan være alvorlig hvis vannet forsvinner. Ifølge ",
+      "date_label": "28.10.2026",
+      "timestamp": 1793171686
     },
     {
       "source": "BBC Business",
@@ -20,13 +50,253 @@
       "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
       "date_label": "28.10.2026",
-      "timestamp": 1793145790
+      "timestamp": 1793171565
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Hyttebrannar på Sunnmøre: Turgåarar synest det er greitt å bli overvaka",
+      "url": "https://www.nrk.no/mr/turgaarar-og-datatilsynet-er-ueinige-om-kameraovervaking-etter-hyttebrannar-pa-sunnmore-1.18061184",
+      "summary": "Mange hytteeigarar har sett opp overvakingskamera etter ti mystiske hyttebrannar. Datatilsynet seier at ein må passe på å ikkje filme andre.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793169350
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Fotballtopp kan bli straffet etter oppsiktsvekkende Infantino-melding",
+      "url": "https://www.nrk.no/sport/fotballtopp-kan-bli-straffet-etter-oppsiktsvekkende-infantino-melding-1.18066707",
+      "summary": "Asias fotballforbund vil undersøke om Jordans fotballpresident prins Ali kan straffes etter påstander om at Gianni Infantino kapret kongressen til politiske formål. Prins Ali bin Al Hussein gikk tidligere denne uken hardt ut etter kongressen som nylig fant ste",
+      "date_label": "28.10.2026",
+      "timestamp": 1793168852
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nye prøver av Vågåkyrkja: Trur det kan vere Noregs eldste",
+      "url": "https://www.nrk.no/artikkel/nye-prover-av-kyrkja-trur-det-kan-vere-noregs-eldste-1531094",
+      "summary": "",
+      "date_label": "28.10.2026",
+      "timestamp": 1793168152
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Stovner: Brannbombeangrep henlagt",
+      "url": "https://www.nrk.no/stor-oslo/stovner_-brannbombeangrep-henlagt-1.18066694",
+      "summary": "Statsadvokaten har henlagt brannbombeangrepet mot en leilighet på Stovner. En mann ble alvorlig skadet etter at det ble kastet en molotovcocktail gjennom et vindu til en leilighet litt før klokken 22 den 26. mars 2025. Fire menn i alderen 25–31 år har vært sik",
+      "date_label": "28.10.2026",
+      "timestamp": 1793168101
     },
     {
       "source": "BBC Business",
       "category": "okonomi",
       "topic": "okonomi",
-      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+      "title": "Free haircuts project aims to inspire other stylists",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dz5578081o?at_medium=RSS&at_campaign=rss",
+      "summary": "Georgia Chappels runs free community haircuts to help those feeling the impact of rising costs.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793168093
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Parents turn to costume swap to cut Halloween costs",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rljdgn4vjo?at_medium=RSS&at_campaign=rss",
+      "summary": "One mother said Halloween outfits are \"completely extortionate\" as families pick up free alternatives.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793168050
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
+      "url": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do?at_medium=RSS&at_campaign=rss",
+      "summary": "Some families say they cannot afford to stockpile in line with the government's advice.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793167782
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Plaid demands more cash, but how could the Budget affect Wales?",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ex97l1n7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Welsh Finance Minister Elin Jones has called for a spending plan that \"finally treats us fairly\".",
+      "date_label": "28.10.2026",
+      "timestamp": 1793167677
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Pre-loved clothes project sells items for 50p",
+      "url": "https://www.bbc.co.uk/news/articles/c687z58lljwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Echo project was partly set up in response to the cost of living crisis, say organisers.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793167640
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Beredskapsuka: – Gjør deg kjent med nærmeste informasjonspunkt",
+      "url": "https://www.nrk.no/stor-oslo/beredskapsuka_-_-gjor-deg-kjent-med-naermeste-informasjonspunkt-1.18066672",
+      "summary": "Beredskapsuka er for fullt i gang i Stor-Oslo. Gjennom uka arrangerer flere kommuner aktiviteter og folkemøter for å gjøre innbyggere bedre forberedt på kriser. Og statsforvalteren anbefaler innbyggere å gjøre seg kjent med hvor de har sitt nærmeste informasjo",
+      "date_label": "28.10.2026",
+      "timestamp": 1793167298
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Equinor med høyeste resultat siden 2022",
+      "url": "https://www.nrk.no/nyheter/equinor-med-hoyeste-resultat-siden-2022-1.18066679",
+      "summary": "Equinor leverer et justert driftsresultat i tredje kvartal på 12,35 milliarder dollar. Det er det høyeste resultatet siden fjerde kvartal i 2022, og rundt en dobling fra i fjor. Den norske stat er største eier i Equinor, med 67 prosent av aksjene.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793166417
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Slik gjør oljegigantens milliardsuksess lånet ditt dyrere",
+      "url": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839",
+      "summary": "Equinor leverer nok et skyhøyt resultat, og milliardene strømmer inn i oljefondet. Dette betyr kvartalsresultatet for deg.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793166375
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trump: Putin og Zelenskyj skal møtes svært snart",
+      "url": "https://www.nrk.no/nyheter/trump_-putin-og-zelenskyj-skal-motes-svaert-snart-1.18066666",
+      "summary": "USAs president Donald Trump sa onsdag at et møte mellom Russlands president Vladimir Putin og hans ukrainske motpart Volodymyr Zelenskyj vil bli arrangert «veldig snart». – Det vil bli arrangert et møte veldig snart, og jeg tror store framskritt kan bli oppnåd",
+      "date_label": "28.10.2026",
+      "timestamp": 1793165490
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Oslo ønsker tannlegebot for unge voksne",
+      "url": "https://www.nrk.no/stor-oslo/oslo-onsker-tannlegebot-for-unge-voksne-1.18066654",
+      "summary": "I dag har alle i aldersgruppen 19 til 28 år rett til offentlig tannhelsehjelp med redusert egenandel. Men rundt 500 personer mellom 19 og 28 år uteble fra tannlegetimen i Oslo i fjor. Dette kostet kommunen 2 millioner kroner. Oslos helsebyråd Oluf Ulseth (H) e",
+      "date_label": "28.10.2026",
+      "timestamp": 1793164890
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "SAS-streik i gang",
+      "url": "https://www.nrk.no/nyheter/sas-streik-i-gang-1.18066664",
+      "summary": "24 kabinansatte i datterselskapet SAS Link har gått ut i streik i dag. Dette skjer etter at Fellesforbundets medlemmer sa nei til meklingsforslaget. SAS venter likevel begrensede følger for flytrafikken. – Vårt fokus nå er å ta vare på passasjerene og sørge fo",
+      "date_label": "28.10.2026",
+      "timestamp": 1793164328
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Espanyol sparket treneren etter sjokktap i cupen",
+      "url": "https://www.nrk.no/sport/espanyol-sparket-treneren-etter-sjokktap-i-cupen-1.18066661",
+      "summary": "Espanyol-trener Manolo Gonzalez fikk sparken etter at laget tapte for Sestao River fra nivå fire i den spanske cupen tirsdag. Det meldte klubben i en uttalelse etter at Sestao River vant 4-3 etter ekstraomganger. Vinnermålet kom på overtid i 2. ekstraomgang. A",
+      "date_label": "28.10.2026",
+      "timestamp": 1793163858
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "Boligbrann Nesodden: Erkjenner ikke straffskyld",
+      "url": "https://www.nrk.no/stor-oslo/boligbrann-nesodden_-erkjenner-ikke-straffskyld-1.18066639",
+      "summary": "Mannen i 50-årene som er siktet etter boligbrannen på Nesodden natt til i tirsdag, nekter for å ha noe med brannen å gjøre. – Han erkjenner ikke straffskyld eller å ha startet brannen, sier politiadvokat Maren Moe til Akershus Amtstidende. Mannen ble tirsdag a",
+      "date_label": "28.10.2026",
+      "timestamp": 1793162620
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Drøfter å heve vannstanden i Hillestadvannet: – Svært inngripende for gårdbrukerne",
+      "url": "https://www.jarlsbergavis.no/drofter-a-heve-vannstanden-i-hillestadvannet-svart-inngripende-for-gardbrukerne/s/80-26-9594",
+      "summary": "– Å heve vannstanden i Hillestadvannet ville vært økologisk helt riktig. Men det er et svært inngripende tiltak, sier miljørådgiver Thijs van Son.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793161800
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793161379
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fryktar elgen kan bli raudlista: – Heilt tomt",
+      "url": "https://www.nrk.no/vestfoldogtelemark/fryktar-elgen-kan-bli-raudlista-i-noreg-1.18062603",
+      "summary": "Elgjegerar er redde skogens konge kan hamne på lista over utryddingstrua artar. No håpar forskarar å løyse mysteriet.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793160779
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+      "date_label": "28.10.2026",
+      "timestamp": 1793159018
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793154025
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trump vil forby begrepet kunstig intelligens",
+      "url": "https://www.nrk.no/nyheter/trump-vil-forby-begrepet-kunstig-intelligens-1.18066634",
+      "summary": "USAs president Donald Trump vil forby bruken av begrepet kunstig intelligens (KI) i offentlige dokumenter. Han mener det er misvisende og bør erstattes med «superintelligens». Trump tok til orde for navneendringen i et innlegg på Truth Social tirsdag, der han ",
+      "date_label": "28.10.2026",
+      "timestamp": 1793153536
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Bred enighet i prosjektet Harriet Backer: – Rørende for en fylkesordførers hjerte",
+      "url": "https://www.sandeavis.no/bred-enighet-i-prosjektet-harriet-backer-rorende-for-en-fylkesordforers-hjerte/s/80-72-5631",
+      "summary": "Positive politikere og begeistring, og lettelse preget fylkestinget tirsdag.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793152800
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "I get £4,062 a year and am trying my best to get a job - here's what I want from the Budget",
       "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
       "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
       "date_label": "28.10.2026",
@@ -53,16 +323,6 @@
       "timestamp": 1793145593
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793144483
-    },
-    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -81,26 +341,6 @@
       "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
       "date_label": "28.10.2026",
       "timestamp": 1793142968
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Plaid demands more cash, but how could the Budget affect Wales?",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ex97l1n7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Welsh Finance Minister Elin Jones has called for a spending plan that \"finally treats us fairly\".",
-      "date_label": "28.10.2026",
-      "timestamp": 1793142252
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
-      "url": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do?at_medium=RSS&at_campaign=rss",
-      "summary": "Some families say they cannot afford to stockpile in line with the government's advice.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793141510
     },
     {
       "source": "BBC World",
@@ -193,6 +433,16 @@
       "timestamp": 1793131348
     },
     {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Her endte bussturen",
+      "url": "https://www.jarlsbergavis.no/her-endte-bussturen/s/80-57-44879",
+      "summary": "Det var ingen personer om bord da bussen havnet i grøfta.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793131341
+    },
+    {
       "source": "Sande Avis",
       "category": "holmestrand",
       "topic": "lokalt",
@@ -226,9 +476,9 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Nordisk råds litteraturpris til Sigbjørn Skåden: – Det er utrolig spesielt og en stor ære",
+      "title": "Nordisk råds litteraturpris til Sigbjørn Skåden: – Aldri drømt om dette med sønnen min",
       "url": "https://www.nrk.no/sapmi/nordisk-rads-litteraturpris-til-sigbjorn-skaden-1.18065498",
-      "summary": "For første gang på 35 år vinner en samisk roman den prestisjefylte prisen. Forfatteren Sigbjørn Skåden fikk Nordisk råds litteraturpris i Helsinki tirsdag kveld.",
+      "summary": "Forfatteren Sigbjørn Skåden fikk Nordisk råds litteraturpris i Helsinki tirsdag kveld. Dette har ført til stolthet dfor innbyggerne i bygda boken er fra.",
       "date_label": "27.10.2026",
       "timestamp": 1793130414
     },
@@ -243,9 +493,9 @@
       "timestamp": 1793130396
     },
     {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
       "title": "Birgit Skarstein vil ikke bli ordfører i Oslo",
       "url": "https://www.nrk.no/nyheter/birgit-skarstein-vil-ikke-bli-ordforer-i-oslo-1.18066563",
       "summary": "Tidligere i oktober ble det kjent at to lokallag i Arbeiderpartiet (Ap) i Oslo ville ha Birgit Skarstein som ordfører. Tirsdag kveld skriver Skarstein selv på Facebook at det ikke blir aktuelt nå. – Jeg vil gjerne bidra til å utvikle Oslo. Foreløpig må det lik",
@@ -1963,9 +2213,9 @@
       "timestamp": 1793034762
     },
     {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
       "title": "Oslo-ordfører vil ikke ha russiske utøvere i Holmenkollen – ber regjeringen innføre visumnekt",
       "url": "https://www.nrk.no/sport/oslo-ordforer-vil-ikke-ha-russiske-utovere-i-holmenkollen-_-ber-regjeringen-innfore-visumnekt-1.18065350",
       "summary": "Oslo-ordfører Anne Lindboe ber regjeringen sette ned foten for at russiske utøvere kan delta under verdenscuprennene i Holmenkollen kommende vinter. Lindboe viser til at norske myndigheter forrige sesong åpnet for at profesjonelle russiske idrettsutøvere kunne",
