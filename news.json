@@ -1,7 +1,107 @@
 {
-  "updated": "2026-10-27T22:24:19Z",
+  "updated": "2026-10-28T01:37:28Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793145869
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793145790
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793145785
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793145670
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Beboer i god behold i Horten",
+      "url": "https://www.nrk.no/nyheter/beboer-i-god-behold-i-horten-1.18066633",
+      "summary": "En person som er folkeregistrert i boligen som brant i Horten tirsdag kveld er funnet i god behold. Det opplyser Sør-Øst politidistrikt. – Personen som er folkeregistrert på adressen er gjort rede for i god behold. Han kom gående til stedet, skriver operasjons",
+      "date_label": "28.10.2026",
+      "timestamp": 1793145593
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793144483
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Koalisjon: Har avskåret missil mot Saudi-Arabia",
+      "url": "https://www.nrk.no/nyheter/koalisjon_-har-avskaret-missil-mot-saudi-arabia-1.18066626",
+      "summary": "Et missil på vei mot den saudiske byen Taif er skutt ned og ødelagt. Det sier den saudiledede militærkoalisjonen i Jemen natt til onsdag, melder Reuters. Ifølge koalisjonen er det houthi-militsen som har skutt opp missilet. Den siste tiden har spenningen økt m",
+      "date_label": "28.10.2026",
+      "timestamp": 1793143926
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "China's families are now supporting more old people than kids",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+      "date_label": "28.10.2026",
+      "timestamp": 1793142968
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Plaid demands more cash, but how could the Budget affect Wales?",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ex97l1n7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Welsh Finance Minister Elin Jones has called for a spending plan that \"finally treats us fairly\".",
+      "date_label": "28.10.2026",
+      "timestamp": 1793142252
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
+      "url": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do?at_medium=RSS&at_campaign=rss",
+      "summary": "Some families say they cannot afford to stockpile in line with the government's advice.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793141510
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -16,21 +116,21 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793135559
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
       "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
       "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
       "date_label": "27.10.2026",
       "timestamp": 1793135352
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Landline switchover could cut people off in emergency, minister warned",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+      "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793134488
     },
     {
       "source": "BBC World",
@@ -41,6 +141,16 @@
       "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
       "date_label": "27.10.2026",
       "timestamp": 1793133880
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793133758
     },
     {
       "source": "BBC Technology",
@@ -251,16 +361,6 @@
       "summary": "En person på elsparkesykkel har tirsdag kveld blitt påkjørt i Halden sentrum. Nødetatene er på stedet. – Skadene omtales som potensielt alvorlige, og han fraktes derfor til sykehus med luftambulanse, skriver operasjonselder i Øst politidistrikt, Håkon Hatlen.",
       "date_label": "27.10.2026",
       "timestamp": 1793126914
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793126756
     },
     {
       "source": "BBC World",
@@ -496,11 +596,21 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Full brann i bolig i Horten – uavklart om noen er inne",
+      "title": "Beboer i god behold etter boligbrann",
       "url": "https://www.nrk.no/vestfoldogtelemark/full-bygningsbrann-i-horten-1.18066463",
-      "summary": "Brannvesenet har søkt i deler av huset, men kan ikke lenger ta seg inn på grunn av de kraftige flammene. Det er fortsatt uavklart om noen befinner seg inne i bygget",
+      "summary": "Det opplyser politiet natt til onsdag. Mannen kom gående til stedet.",
       "date_label": "27.10.2026",
       "timestamp": 1793120340
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Har kontroll på brannen: - Beboeren er gjort rede for",
+      "url": "https://www.jarlsbergavis.no/har-kontroll-pa-brannen-beboeren-er-gjort-rede-for/s/30-60-24843",
+      "summary": "Det brøt ut kraftig brann i et hus på Nykirke tirsdag kveld.",
+      "date_label": "27.10.2026",
+      "timestamp": 1793120339
     },
     {
       "source": "Jarlsberg Avis",
@@ -686,9 +796,9 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "Trump vs Obama - which president has the star power to get out the vote?",
+      "title": "Trump v Obama - which president has the star power to get out the vote?",
       "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+      "summary": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
       "date_label": "27.10.2026",
       "timestamp": 1793109562
     },
@@ -741,16 +851,6 @@
       "summary": "E18 i Ås er stengt i begge retninger ved kommunegrensen mellom Nordre Follo og Ås tirsdag ettermiddag. Der har en lastebil og en bil kjørt inn i hverandre. Det er ikke meldt om personskader.",
       "date_label": "27.10.2026",
       "timestamp": 1793106773
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793106506
     },
     {
       "source": "NRK Oslo",
