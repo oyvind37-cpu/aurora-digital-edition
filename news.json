@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-28T23:39:47Z",
+  "updated": "2026-10-29T02:55:55Z",
   "source_count": 11,
   "items": [
     {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
-      "title": "Opplysninger om 40.000 ansatte i USAs sikkerhetsdepartement lekket på nettet",
-      "url": "https://www.nrk.no/nyheter/opplysninger-om-40.000-ansatte-i-usas-sikkerhetsdepartement-lekket-pa-nettet-1.18067628",
-      "summary": "En lekkasjenettside har offentliggjort opplysninger om mer enn 40.000 ansatte i USAs sikkerhetsdepartement (DHS), blant dem personer som arbeider med overvåking og etterretning. Det er organisasjonen Distributed Denial of Secrets som onsdag offentliggjorde opp",
+      "title": "Bevæpnet politiaksjon i Vesterålen",
+      "url": "https://www.nrk.no/nyheter/bevaepnet-politiaksjon-i-vesteralen-1.18067655",
+      "summary": "Væpnet politi har omringet et hus i Andøy kommune i Vesterålen. Det skjer etter en voldshendelse onsdag kveld. En person er lettere skadet og tatt hånd om av helsepersonell. Politiet opplyser at de har funnet det de mener er gjerningspersonen inne i et hus. Po",
       "date_label": "29.10.2026",
-      "timestamp": 1793230693
+      "timestamp": 1793240295
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Espen om skuffende valgmåling: – En vond kamel å svelge",
+      "url": "https://www.sandeavis.no/espen-om-skuffende-valgmaling-en-vond-kamel-a-svelge/s/80-72-5487",
+      "summary": "Både INP og Venstre kommer dårlig i meningsmåling.",
       "date_label": "29.10.2026",
-      "timestamp": 1793229708
+      "timestamp": 1793239200
     },
     {
       "source": "BBC Technology",
@@ -30,7 +30,77 @@
       "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
       "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
       "date_label": "29.10.2026",
-      "timestamp": 1793229060
+      "timestamp": 1793237443
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793237260
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Koalisjon: Har skutt ned ballistisk missil",
+      "url": "https://www.nrk.no/nyheter/koalisjon_-har-skutt-ned-ballistisk-missil-1.18067653",
+      "summary": "Militærkoalisjonen som ledes av Saudi-Arabia sier den har skutt ned et ballistisk missil, melder AFP. Missilet ble skutt opp av houthi-militsen og var på vei mot den østlige delen av Saudi-Arabia, ifølge koalisjonen. Spenningen har økt den siste tiden mellom S",
+      "date_label": "29.10.2026",
+      "timestamp": 1793236756
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793236441
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Finsk og amerikansk utenriksminister møtes torsdag",
+      "url": "https://www.nrk.no/nyheter/finsk-og-amerikansk-utenriksminister-motes-torsdag-1.18067652",
+      "summary": "Den finske og amerikanske utenriksministeren skal møtes torsdag. Møtet mellom Elina Valtonen og Marco Rubio skjer i Washington D.C, opplyser finske myndigheter. De to skal blant annet diskutere krigen i Ukraina. – Møtet med utenriksminister Marco Rubio kommer ",
+      "date_label": "29.10.2026",
+      "timestamp": 1793233916
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793232025
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793232015
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Opplysninger om 40.000 ansatte i USAs sikkerhetsdepartement lekket på nettet",
+      "url": "https://www.nrk.no/nyheter/opplysninger-om-40.000-ansatte-i-usas-sikkerhetsdepartement-lekket-pa-nettet-1.18067628",
+      "summary": "En lekkasjenettside har offentliggjort opplysninger om mer enn 40.000 ansatte i USAs sikkerhetsdepartement (DHS), blant dem personer som arbeider med overvåking og etterretning. Det er organisasjonen Distributed Denial of Secrets som onsdag offentliggjorde opp",
+      "date_label": "29.10.2026",
+      "timestamp": 1793230693
     },
     {
       "source": "NRK Siste",
@@ -1041,16 +1111,6 @@
       "summary": "Da været stod på som verst forrige uke, fikk et fiskefartøy fiskeredskap i propellen og stans på båten.",
       "date_label": "28.10.2026",
       "timestamp": 1793187151
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793187026
     },
     {
       "source": "NRK Oslo",
@@ -3941,66 +4001,6 @@
       "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
       "date_label": "26.10.2026",
       "timestamp": 1793014142
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Stunning photos capture October's Hunter's Moon around the world",
-      "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-      "summary": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
-      "date_label": "26.10.2026",
-      "timestamp": 1793014059
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Flere hundre evakuert i Oslo sentrum – frykter krankollaps",
-      "url": "https://www.nrk.no/stor-oslo/flere-hundre-evakuert-i-oslo-sentrum--_-frykter-krankollaps-1.18064857",
-      "summary": "Politiet har sperret av deler av området rundt Strandgata 19 i Oslo sentrum. De har i tillegg evakuert tilstøtende bygg. Årsaken er en tårnkran som har fått en skjevstilling, skriver politiet i politiloggen. – Som igjen medfører økt risiko for at kranen kan ko",
-      "date_label": "26.10.2026",
-      "timestamp": 1793014014
-    },
-    {
-      "source": "NRK Kultur",
-      "category": "kultur",
-      "topic": "kultur",
-      "title": "Stem på «Årets artist»!",
-      "url": "https://www.nrk.no/kultur/nominert-til-_p3-gull_-2026-1.18053856",
-      "summary": "Disse fem kan vinne den gjeve tittelen på «P3 Gull».",
-      "date_label": "26.10.2026",
-      "timestamp": 1793012784
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Høyt press på SNR: Ber kommunar om å hente pasientar",
-      "url": "https://www.nrk.no/mr/hogt-belegg-pa-sjukehuset-nordmore-og-romsdal-1.18064919",
-      "summary": "Måndag har SNR-sjukehuset på Hjelset 24 pasientar som er ferdig behandla. Helse Møre og Romsdal ber kommunar om å hente pasientar.",
-      "date_label": "26.10.2026",
-      "timestamp": 1793012671
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Et historisk kyss",
-      "url": "https://www.jarlsbergavis.no/et-historisk-kyss/s/80-26-9846",
-      "summary": "Fredag ble en ekstra spesiell dag for Frøydis Lie Stabæk og Hans Jacob Paulsen. Ikke bare giftet de seg; de var også ett av parene som var med på å gjøre dette til et historisk øyeblikk for den gamle smia i Holmestrand sentrum.",
-      "date_label": "26.10.2026",
-      "timestamp": 1793012465
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
-      "date_label": "26.10.2026",
-      "timestamp": 1793011726
     }
   ]
 }
