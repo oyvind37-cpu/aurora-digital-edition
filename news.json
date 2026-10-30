@@ -1,7 +1,197 @@
 {
-  "updated": "2026-10-30T19:29:17Z",
+  "updated": "2026-10-30T23:09:07Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793398852
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Utrolig Hakimi-show – involvert i fem mål",
+      "url": "https://www.nrk.no/sport/utrolig-hakimi-show-_-involvert-i-fem-mal-1.18069895",
+      "summary": "Achraf Hakimi var i storform da Paris-Saint Germain vant 5-1 borte mot Le Havre i franske Ligue 1. Høyrebacken fra Marokko stod for hele fem målpoeng da han scoret tre mål og assisterte to. De to andre målscorerne for PSG var Mika Godts og Senny Mayulu. Dermed",
+      "date_label": "30.10.2026",
+      "timestamp": 1793398751
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Gullballen-kåringen: Så mange poeng skilte stjernene",
+      "url": "https://www.nrk.no/sport/gullballen-karingen_-sa-mange-poeng-skilte-stjernene-1.18069749",
+      "summary": "Harry Kane vant Gullballen med den minste marginen siden dagens stemmesystem ble innført. Engelskmannen slo Kylian Mbappé med 28 poeng. Det skriver nyhetsbyrået AFP, som henviser til prisutdeleren France Football. Magasinet offentliggjorde den detaljerte stemm",
+      "date_label": "30.10.2026",
+      "timestamp": 1793398536
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793398312
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Soaring cost of Halloween treats spooks shoppers",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793396072
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Sammenligner egen bransje med mafia: – Vi trenger hjelp",
+      "url": "https://www.nrk.no/nordland/okokrim_-kystfiskarlaget-sammenligner-egen-bransje-med-mafia-1.18069141",
+      "summary": "Leder av Norges Kystfiskarlag er ikke overrasket over Økokrims storaksjon mot fiskerinæringen. Han sier fiskere tier om juks av redsel for å miste levebrødet.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793395025
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793394794
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793393718
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793393521
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Blodrød dag på Wall Street",
+      "url": "https://www.nrk.no/nyheter/blodrod-dag-pa-wall-street-1.18069874",
+      "summary": "Salget av teknologiaksjer på New York-børsene akselererte fredag, drevet av bekymringer om at KI-feberen på Wall Street har presset prisene for høyt. Teknologifallet ble utløst av skuffende kvartalsresultater fra Intel og Amazon, som ble lagt frem sent torsdag",
+      "date_label": "30.10.2026",
+      "timestamp": 1793393497
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Russisk veto mot Vest-Sahara-resolusjon",
+      "url": "https://www.nrk.no/nyheter/russisk-veto-mot-vest-sahara-resolusjon-1.18069868",
+      "summary": "Russland overraska ved å nytte seg av vetoretten som dei fem stormaktene har i FNs Tryggingsråd. Dei stansa dermed eit amerikansk resolusjonsforslag om konflikten i Vest-Sahara. I USAs forslag var alle lovnader om ei folkeavrøysting borte, og Marokkos forslag ",
+      "date_label": "30.10.2026",
+      "timestamp": 1793393075
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793392911
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Griseforskning gir håp for nyrepasienter",
+      "url": "https://www.nrk.no/innlandet/forskning-pa-grisehjerter-kan-vaere-godt-nytt-for-mennesker-1.18053476",
+      "summary": "Her er grisen Grynte på vei inn i en CT-maskin for å få hjertet sitt skannet. Funnene kan bli viktige for mennesker.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793392638
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793392486
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "USA godkjenner salg av Patriot-missiler til Ukraina",
+      "url": "https://www.nrk.no/nyheter/usa-godkjenner-salg-av-patriot-missiler-til-ukraina-1.18069865",
+      "summary": "USA har godkjent salget av 500 PAC-3-missiler til luftvernsystemet Patriot til Ukraina. Salget har en anslått verdi på 2,1 milliarder dollar, tilsvarende rundt 19 milliarder norske kroner. Norge delfinansierer kjøpet sammen med Ukraina, Canada og Tyskland. Mid",
+      "date_label": "30.10.2026",
+      "timestamp": 1793391963
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "5000 døde av ebola i Kongo",
+      "url": "https://www.nrk.no/nyheter/5000-dode-av-ebola-i-kongo-1.18069780",
+      "summary": "Det melder Reuters, som siterer nye tall fra myndighetene i Kongo. Tidligere denne uken bekreftet lokale myndigheter i Kongo at antall smittede har passert 10.000. Utbruddet begynte i mai, og har spred seg til flere land.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793391552
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "– Lokalpolitikerne har undergravet sin egen stolthet",
+      "url": "https://www.jarlsbergavis.no/lokalpolitikerne-har-undergravet-sin-egen-stolthet/o/80-26-10317",
+      "summary": "Togjubileum, politiker-kåthet og torsk: Dette er blant temaene i Jarlsberg-spaltist Olaf Brastads oktobertekst.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793390400
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Glimt fyrer løs mot Tripic: – Han gjør det 100 prosent med vilje",
+      "url": "https://www.nrk.no/sport/bodo_glimt-viking-i-seriefinalen-1.18069832",
+      "summary": "",
+      "date_label": "30.10.2026",
+      "timestamp": 1793390325
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fikk kuttet turene fra 76 til 6: – Hun blir sittende innelukket",
+      "url": "https://www.nrk.no/sorlandet/fikk-kuttet-turene-fra-76-til-6_-_-hun-blir-sittende-innelukket-1.18069401",
+      "summary": "Etter fylkeskommunens nye TT-regler har Ann Helen mistet nesten hele transporttilbudet sitt. Nå klager Lister-rådet på ordningen, mens samferdselslederen innrømmer at avtalen har rammet skjevt.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793389253
+    },
     {
       "source": "NRK Norge",
       "category": "norge",
@@ -103,16 +293,6 @@
       "timestamp": 1793384695
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-      "date_label": "30.10.2026",
-      "timestamp": 1793384247
-    },
-    {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
@@ -193,16 +373,6 @@
       "timestamp": 1793382567
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "date_label": "30.10.2026",
-      "timestamp": 1793382421
-    },
-    {
       "source": "BBC Business",
       "category": "okonomi",
       "topic": "okonomi",
@@ -213,16 +383,6 @@
       "timestamp": 1793382070
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "date_label": "30.10.2026",
-      "timestamp": 1793381983
-    },
-    {
       "source": "NRK Oslo",
       "category": "lokalt",
       "topic": "lokalt",
@@ -231,16 +391,6 @@
       "summary": "Politiet er i nedre del av Karl Johans gate i Oslo, der en person har blitt utsatt for vold. – Gjerningspersonen har løpt fra stedet og vi er i søk.",
       "date_label": "30.10.2026",
       "timestamp": 1793381357
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
-      "date_label": "30.10.2026",
-      "timestamp": 1793381120
     },
     {
       "source": "Jarlsberg Avis",
@@ -801,16 +951,6 @@
       "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
       "date_label": "30.10.2026",
       "timestamp": 1793359418
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "date_label": "30.10.2026",
-      "timestamp": 1793359386
     },
     {
       "source": "NRK Norge",
@@ -1391,6 +1531,16 @@
       "summary": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.",
       "date_label": "30.10.2026",
       "timestamp": 1793340650
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793340502
     },
     {
       "source": "BBC World",
@@ -3126,7 +3276,7 @@
       "source": "BBC Business",
       "category": "okonomi",
       "topic": "okonomi",
-      "title": "Chancellor says government has 'moral duty' to help young people out of work",
+      "title": "Chancellor says government has 'moral duty' to help young people who are out of work",
       "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
       "summary": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\".",
       "date_label": "29.10.2026",
@@ -3851,156 +4001,6 @@
       "summary": "Som ventet holder den amerikanske sentralbanken renten uendret. Styringsrenten holdes innenfor det nåværende intervallet på 3,75 til 4 prosent. Samtidig erkjente USAs sentralbank at inflasjonen «fortsatt er høy» og antydet at ytterligere rentehevinger kan komm",
       "date_label": "28.10.2026",
       "timestamp": 1793211823
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "The Budget explained in less than one minute",
-      "url": "https://www.bbc.co.uk/news/videos/crkg70lnlx9yo?at_medium=RSS&at_campaign=rss",
-      "summary": "What the Budget means for you in under a minute",
-      "date_label": "28.10.2026",
-      "timestamp": 1793211463
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Haaland uteblir fra Manchester City-kamp – ikke i troppen mot Brighton",
-      "url": "https://www.nrk.no/sport/haaland-uteblir-fra-manchester-city-kamp-_-ikke-i-troppen-mot-brighton-1.18067451",
-      "summary": "Erling Braut Haaland spiller ikke når Manchester City møter Brighton i ligacupen onsdag. Det ble klart da City bekreftet troppen en drøy time før kampstart i Manchester. City-manager Enzo Maresca avslørte tirsdag at Haaland var en av fem spillere som ble sendt",
-      "date_label": "28.10.2026",
-      "timestamp": 1793211377
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
-      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793211144
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Midtnytt: Elbil-boom før nyttår",
-      "url": "https://www.nrk.no/video/DKTL98102826",
-      "summary": "",
-      "date_label": "28.10.2026",
-      "timestamp": 1793210986
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Melding om mulig skyting i Drammen",
-      "url": "https://www.nrk.no/nyheter/melding-om-mulig-skyting-i-drammen-1.18067450",
-      "summary": "Politiet har fått melding om at det skal ha blitt avfyrt skudd i Dronninggata i Drammen. Det skal ha vært en krangel i forkant, og flere personer har løpt fra området. Politiet mener det ikke er fare for allmennheten og at bakgrunnen er en konflikt mellom to g",
-      "date_label": "28.10.2026",
-      "timestamp": 1793210818
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Eiendomsskatt på næringseiendommer kan på sikt gi kommunen 49 millioner kroner ekstra i året",
-      "url": "https://www.sandeavis.no/eiendomsskatt-pa-naringseiendommer-kan-pa-sikt-gi-kommunen-49-millioner-kroner-ekstra-i-aret/s/80-26-10170",
-      "summary": "Nye takster viser at næringseiendommene i Holmestrand har en samlet verdi på rundt sju milliarder kroner. Med eiendomsskatt kan det gi kommunen opptil 49 millioner kroner i året.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793210400
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Eiendomsskatt på næringseiendommer kan på sikt gi kommunen 49 millioner kroner ekstra i året",
-      "url": "https://www.jarlsbergavis.no/eiendomsskatt-pa-naringseiendommer-kan-pa-sikt-gi-kommunen-49-millioner-kroner-ekstra-i-aret/s/80-26-10170",
-      "summary": "Nye takster viser at næringseiendommene i Holmestrand har en samlet verdi på rundt sju milliarder kroner. Med eiendomsskatt kan det gi kommunen opptil 49 millioner kroner i året.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793210400
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Berget avansement på overtid",
-      "url": "https://www.nrk.no/tromsogfinnmark/nm-cup-3.-runde_-tromso-mot-haugesund-1.18066842",
-      "summary": "Tromsø slo Haugesund 3-2 etter ellevilt overtidsdrama.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793210194
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Mange ble rammet av strømbrudd",
-      "url": "https://www.jarlsbergavis.no/mange-rammet-av-strombrudd/s/80-26-10640",
-      "summary": "Opp mot 1.800 kunder i Holmestrand mistet strømmen i en periode onsdag kveld. Strømbruddet var over i løpet av to timer.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793209850
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Here is what you need to know about the payment that millions will receive from January.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793209657
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-      "url": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793208881
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Strømbrudd i Holmestrand",
-      "url": "https://www.nrk.no/vestfoldogtelemark/strombrudd-i-holmestrand-1.18067462",
-      "summary": "Rett i underkant av 1800 husstander var en periode uten strøm i Holmestrand, viser en oversikt fra Lede. Rundt klokka 19 ser det ut til at de fleste har fått strømmen tilbake. Klokka 20 er fremdeles 79 husstander uten strøm. Lede opplyser at feilen er funnet o",
-      "date_label": "28.10.2026",
-      "timestamp": 1793208636
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Frykter vinterens strømpriser: – Klarer ikke høyere priser enn i dag",
-      "url": "https://www.nrk.no/vestfoldogtelemark/stromprisene-vinteren-2026-kan-bli-dobbelt-sa-hoye-som-i-fjor-1.18066882",
-      "summary": "Striregn har fylt på vannmagasinene, men strømmen blir likevel dyrere denne vinteren. Dobbelt så dyr som forrige vinter, mener strømanalytiker.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793208580
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Maia (24) kan få plass i fylkestinget: – Irriterer meg over kollektivtilbudet i nordfylket",
-      "url": "https://www.jarlsbergavis.no/maia-24-kan-fa-plass-i-fylkestinget-irriterer-meg-over-kollektivtilbudet-i-nordfylket/s/80-26-10377",
-      "summary": "For snaut to år siden gjorde Maia Søe Paulsen (24) holmestranding av seg. Nå er hun satt opp på 2. plass på nominasjonskomiteens første listeforslag til fylkestinget for Fremskrittspartiet. Hun har allerede fått prøvd seg selv i en mediestorm.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793207400
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Trump kalla Noreg eit «shit house»-land: No går norske utedoar viralt",
-      "url": "https://www.nrk.no/artikkel/trump-kalla-noreg-eit-shit-house-land-no-gar-norske-utedoar-viralt-1531152",
-      "summary": "",
-      "date_label": "28.10.2026",
-      "timestamp": 1793206730
     }
   ]
 }
