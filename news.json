@@ -1,14 +1,124 @@
 {
-  "updated": "2026-10-29T21:22:47Z",
+  "updated": "2026-10-30T01:18:52Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+      "date_label": "30.10.2026",
+      "timestamp": 1793322662
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Endelige valgtall fra Israel: Ingen fikk flertall",
+      "url": "https://www.nrk.no/nyheter/endelige-valgtall-fra-israel_-ingen-fikk-flertall-1.18068940",
+      "summary": "Ingen politiske blokker fikk rent flertall i det israelske parlamentet etter tirsdagens valg. Det er klart etter at alle stemmene nå skal være talt opp, ifølge avisen The Times of Israel. Det trengs 61 mandater for å få rent flertall i nasjonalforsamlingen, de",
+      "date_label": "30.10.2026",
+      "timestamp": 1793320380
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new generation is embracing eye-catching patching and visible mends.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793318435
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Mann i 20-årene omkom under militærøvelse i Stjørdal",
+      "url": "https://www.nrk.no/nyheter/mann-i-20-arene-omkom-under-militaerovelse-i-stjordal-1.18068930",
+      "summary": "En mann i 20-årene omkom under en militærøvelse i Stjørdal torsdag kveld, opplyser politiet. De pårørende er varslet.",
+      "date_label": "30.10.2026",
+      "timestamp": 1793317890
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793312272
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Myndighetene i Kyiv: Én drept i russisk angrep",
+      "url": "https://www.nrk.no/nyheter/myndighetene-i-kyiv_-en-drept-i-russisk-angrep-1.18068922",
+      "summary": "En person er drept i et russisk missilangrep på Kyiv, ifølge byens militæradministrasjon. Det melder nyhetsbyrået Reuters. Russland angrep byen med ballistiske missiler torsdag kveld, ifølge byens ordfører Vitalij Klitsjko. Han meldte om angrepet på meldingstj",
+      "date_label": "29.10.2026",
+      "timestamp": 1793311433
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Målfest og Hansen-scoring etter spesiell VAR-situasjon",
+      "url": "https://www.nrk.no/sport/malfest-og-hansen-scoring-etter-spesiell-var-situasjon-1.18068881",
+      "summary": "Barcelona vartet opp med festfotball da de gjestet HB Køge i Mesterligaen torsdag kveld. Det var bare spilt sju minutter da gjestene ropte på straffe. Dommeren vinket spillet videre og Køge gikk i angrep. Først da det ble avsluttet stoppet dommeren opp og fikk",
+      "date_label": "29.10.2026",
+      "timestamp": 1793310786
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Everton knuste Newcastle – ble bråk i sluttminuttene",
+      "url": "https://www.nrk.no/sport/everton-knuste-newcastle-_-ble-brak-i-sluttminuttene-1.18068906",
+      "summary": "Everton slo Newcastle 3-1 i ligacupen tirsdag. Laget møter sensasjonsklubben Fleetwood fra nivå tre i kvartfinalen. James Garner, Hayden Hackney og Thierno Barry scoret målene for de blå. I sluttminuttene var det håndgemeng ved flere anledninger, og det endte ",
+      "date_label": "29.10.2026",
+      "timestamp": 1793310194
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Young athlete and former minister among victims of Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793309615
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793309472
+    },
     {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Ulykke på militært område i Stjørdal",
+      "title": "Bystyret utsetter turistskatten – får støtte fra NHO",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "summary": "",
+      "date_label": "29.10.2026",
+      "timestamp": 1793309168
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Mann omkom under militærøvelse",
       "url": "https://www.nrk.no/trondelag/ulykke-pa-militaert-omrade-i-stjordal-1.18068913",
-      "summary": "Nødetatene rykket ut til en alvorlig ulykke på et militært område i Stjørdal.",
+      "summary": "En mann i 20-årene omkom under en militærøvelse i Stjørdal torsdag kveld, opplyser politiet.",
       "date_label": "29.10.2026",
       "timestamp": 1793308490
     },
@@ -53,6 +163,16 @@
       "timestamp": 1793307239
     },
     {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Watch: What leaked audio reveals about Spain train crash",
+      "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793307025
+    },
+    {
       "source": "NRK Sport",
       "category": "sport",
       "topic": "sport",
@@ -61,6 +181,16 @@
       "summary": "Alexander Zverev slo Tallon Griekspoor i kvartfinalen i Wien torsdag og sikret dermed at han mandag vil toppe ATP-rankingen for første gang i karrieren. Den 29-årige tyskeren var allerede sikker på å toppe lista ved sesongslutt, men torsdagens seier betyr at h",
       "date_label": "29.10.2026",
       "timestamp": 1793306054
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "date_label": "29.10.2026",
+      "timestamp": 1793305314
     },
     {
       "source": "NRK Norge",
@@ -73,14 +203,14 @@
       "timestamp": 1793305076
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Stygg situasjon i ishockeykamp – Oilers-spiller fraktet ut på båre",
+      "url": "https://www.nrk.no/sport/stygg-situasjon-i-ishockeykamp-_-oilers-spiller-fraktet-ut-pa-bare-1.18068853",
+      "summary": "En stygg situasjon førte til langvarig stopp i kampen mellom Narvik og Stavanger i eliteserien ishockey. Oilers-spiller Kristian Østby ble fraktet ut på båre. Det var lenge uvisst hvor alvorlig Østbys skade var, men sent torsdag kveld fikk TV 2 en oppmuntrende",
       "date_label": "29.10.2026",
-      "timestamp": 1793304905
+      "timestamp": 1793304789
     },
     {
       "source": "NRK Sport",
@@ -1161,16 +1291,6 @@
       "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
       "date_label": "29.10.2026",
       "timestamp": 1793266203
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Bodø/Glimt stenger pressen ute",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
-      "summary": "",
-      "date_label": "29.10.2026",
-      "timestamp": 1793266199
     },
     {
       "source": "BBC World",
@@ -3881,126 +4001,6 @@
       "summary": "",
       "date_label": "27.10.2026",
       "timestamp": 1793117801
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Voldshendelse med øks på Jessheim",
-      "url": "https://www.nrk.no/stor-oslo/voldshendelse-med-oks-pa-jessheim-1.18066384",
-      "summary": "Politiet har pågrepet en mann i 40-årene etter en voldshendelse på ei priva adresse på Jessheim tidligere i ettermiddag. – Det ble brukt et slagvåpen mot en mann i 60-årene på en privat adresse. Han er ikke alvorlig skadet og er tatt hånd om på legevakten. sie",
-      "date_label": "27.10.2026",
-      "timestamp": 1793117082
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "West warns of famine risk in Sudan as civil war grinds on",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793115706
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Lavrov: Ukraina-krigen vil fortsette og trolig eskalere",
-      "url": "https://www.nrk.no/nyheter/lavrov_-ukraina-krigen-vil-fortsette-og-trolig-eskalere-1.18066393",
-      "summary": "Den russiske utenriksministeren Sergej Lavrovs uttalelse kommer etter at statsminister Jonas Gahr Støre og den finske presidenten Alexander Stubb snakket med Putin tidligere i dag. Norge og Finland brakte ikke noe nytt til torgs, mener Lavrov. Han mener simpel",
-      "date_label": "27.10.2026",
-      "timestamp": 1793115005
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Røykutvikling i Jevnaker – brannvesenet har kontroll",
-      "url": "https://www.nrk.no/stor-oslo/roykutvikling-i-jevnaker-_-brannvesenet-har-kontroll-1.18066214",
-      "summary": "Samtlige nødetaterrykket 16.08 ut til melding om brann fra en tomannsbolig i Jevnaker. Det er meldt om kraftig røykutvikling, men ingen synlige flammer. – Brannvesenet jobber med å finne årsak til røykutviklingen, sier operasjonsleder Ståle Olstad Fuglaas i Sø",
-      "date_label": "27.10.2026",
-      "timestamp": 1793114497
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793114004
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Storbritannia tilbake i utvekslingsprogram",
-      "url": "https://www.nrk.no/nyheter/storbritannia-tilbake-i-utvekslingsprogram-1.18066391",
-      "summary": "Fra 1. januar 2027 er Storbritannia igjen en del av EUs skoleutvekslingsprogram Erasmus+, skriver NTB. Arbeidet med å igjen bli en del av programmet ble innledet i 2025 av daværende statsminister Keir Starmers i en avtale med EU i etterkant av Brexit. Mulighet",
-      "date_label": "27.10.2026",
-      "timestamp": 1793113864
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793113287
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Elektrikere advarer mot ny pensjonsordning",
-      "url": "https://www.nrk.no/stor-oslo/elektrikere-advarer-mot-ny-pensjonsordning-1.18066368",
-      "summary": "Elektromontørene i Oslo og Akershus advarer mot LOs forslag til ny avtalefestet pensjon (AFP), det skriver FriFagbevegelse. De frykter endringene vil gjøre det langt vanskeligere for fysiske arbeidere å gå av tidlig. I dag må man jobbe sju år i en bedrift med ",
-      "date_label": "27.10.2026",
-      "timestamp": 1793113282
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Stort smykkefunn i kloakken i Lillestrøm kobles til grove tyverier",
-      "url": "https://www.nrk.no/stor-oslo/stort-smykkefunn-i-kloakken-i-lillestrom-kobles-til-grove-tyverier-1.18066275",
-      "summary": "Over 2,4 kilo smykker og gull ble funnet i kloakken i Lillestrøm i november i fjor. Nå kobler politiet funnet til grove tyverier flere steder på Østlandet. – Politiet mener å kunne knytte dem til spesifikke adresser der det har blitt begått innbrudd, sier poli",
-      "date_label": "27.10.2026",
-      "timestamp": 1793113040
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Gamle vannrør kostet innbyggerne i Lørenskog millioner",
-      "url": "https://www.nrk.no/stor-oslo/gamle-vannror-kostet-innbyggerne-i-lorenskog-millioner-1.18066332",
-      "summary": "Vannlekkasjer kostet innbyggerne i Lørenskog nesten 15 millioner kroner i 2025, viser en ny statusrapport fra kommunen. Det skriver Romerikes Blad. Kommunen har skiftet ut i underkant av 14 kilometer med vannledninger siden 2020, men det gjenstår fortsatt mins",
-      "date_label": "27.10.2026",
-      "timestamp": 1793112268
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "How the beauty industry is boosting High Streets",
-      "url": "https://www.bbc.co.uk/news/videos/cmr4y51lp5zko?at_medium=RSS&at_campaign=rss",
-      "summary": "Marie Camara believes beauty and personal care businesses play a key role in supporting high streets.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793111710
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
-      "date_label": "27.10.2026",
-      "timestamp": 1793111379
     }
   ]
 }
