@@ -1,16 +1,176 @@
 {
-  "updated": "2026-10-31T14:50:26Z",
+  "updated": "2026-10-31T18:52:26Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "21-åring tok historisk EM-medalje – satser mot OL",
+      "url": "https://www.nrk.no/sport/21-aring-tok-historisk-em-medalje-_-satser-mot-ol-1.18070290",
+      "summary": "Martin Brekke-Jenssen (21) endte med sølv i U23-EM i Napoli. Det er den første norske EM-medaljen på 45 år. Resultatet gir samtidig et tydelig signal om at Norge igjen har en utøver som kan hevde seg helt i toppen internasjonalt i sin aldersklasse, skriver Nor",
+      "date_label": "31.10.2026",
+      "timestamp": 1793471595
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Person funnet livløs i vann i Rindal",
+      "url": "https://www.nrk.no/trondelag/person-funnet-livlos-i-vann-i-rindal-1.18070268",
+      "summary": "Politiet fikk klokken 15:00 melding om at en person var funnet livløs i et vann i Rindal kommune. – Nødetatene rykket ut og satte i gang livreddende førstehjelp, men livet sto ikke til å redde, opplyser operasjonsleder Einar Røstum. Politiet bekrefter at perso",
+      "date_label": "31.10.2026",
+      "timestamp": 1793470537
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Maskerte personar med skytevåpen tok seg inn på privat adresse",
+      "url": "https://www.nrk.no/vestland/maskerte-personar-med-skytevapen-tok-seg-inn-pa-privat-adresse-1.18070263",
+      "summary": "Politiet ynskjer tips etter at to maskerte og væpna personar tok seg inn på ei privat adresse i Kvam i Vestland. Hendinga skjedde natt til laurdag klokka 03.10 – Dei forsøkte å truge til seg verdiar ved bruk av skytevåpen, skriv operasjonsleiar Knut Dahl-Miche",
+      "date_label": "31.10.2026",
+      "timestamp": 1793470034
+    },
     {
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "date_label": "31.10.2026",
-      "timestamp": 1793457519
+      "timestamp": 1793469215
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Hjørnesteinsbedriften klarer ikke støykravet – ber om å få heve grensen",
+      "url": "https://www.nrk.no/nordland/fabrikk-far-ikke-ned-stoyen-_-ber-om-a-fa-slippe-krav-1.18062602",
+      "summary": "Hjørnesteinsbedriften i Kjøpsvik sliter med å holde seg innenfor støykravene. Nå søker de om å heve grensene. Det er naboene positiv til.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793467588
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Sønderknust Amin Chiakha tross to mål og seier i Fredrikstad",
+      "url": "https://www.nrk.no/sport/fredrikstad-mot-rosenborg-i-eliteserien-1.18070242",
+      "summary": "Eliteseriens toppscorer Amin Chiakha (20) laget to mål – men var likevel tydelig opprørt i Rosenborgs 3–0 seier i Fredrikstad lørdag. Dommeren bekrefter at det er anklager om rasisme.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793467226
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Chiakha herjet i RBK-seier",
+      "url": "https://www.nrk.no/sport/chiakha-herjet-i-rbk-seier-1.18070232",
+      "summary": "RBK slo lørdag tilbake etter NM-exiten mot HamKam onsdag og vant til slutt 3-0. Rosenborg hadde spilt sju kamper uten tap før det, men i seriespill er stadig rekken uten tap på sju intakt, og trønderne har vunnet 11 av de 14 siste. Chiakha sendte Rosenborg i l",
+      "date_label": "31.10.2026",
+      "timestamp": 1793467038
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Slik ble Langgaten forvandlet",
+      "url": "https://www.jarlsbergavis.no/slik-ble-langgaten-forvandlet/v/80-26-10694",
+      "summary": "Vestfold fylkeskommunen har laget denne filmen som viser hvor raskt Langgaten i Holmestrand ble forvandlet. Filmen starter med et historisk klipp om den tungt trafikkerte gata, og går deretter over til å vise hvordan det så ut rett før arbeidene startet i juni",
+      "date_label": "31.10.2026",
+      "timestamp": 1793466600
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "22. juli minnesmerke vandalisert",
+      "url": "https://www.nrk.no/vestland/22.-juli-minnesmerke-pa-askoy-utsett-for-haerverk-1.18070228",
+      "summary": "",
+      "date_label": "31.10.2026",
+      "timestamp": 1793464882
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Dansk TV 2 trekk tilbake narreprogram etter massiv kritikk",
+      "url": "https://www.nrk.no/nyheter/dansk-tv-2-trekk-tilbake-narreprogram-etter-massiv-kritikk-1.18070229",
+      "summary": "Dansk TV 2 trekte lørdag tilbake programmet «Alle elsker Rasmus» etter å ha fått mykje kritikk. I programmet trur den danske komikaren Rasmus Wallbridge at han er i gang med å realisere draumen om å lage ein film saman med den gode venen hans, Martin Johannes ",
+      "date_label": "31.10.2026",
+      "timestamp": 1793464622
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793464328
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Vålerenga-spillere har ikke fått lønn",
+      "url": "https://www.nrk.no/sport/valerenga-spillere-har-ikke-fatt-lonn-1.18070236",
+      "summary": "De fleste av Vålerengas kvinnelige spillere fikk ikke utbetalt lønn fredag, melder VG. Styreleder Mia Wedegren bekrefter nyheten overfor avisen og sier at Vålerenga har et likviditetsproblem. – Det er på grunn av at vi mangler noen betalinger til Vålerenga fot",
+      "date_label": "31.10.2026",
+      "timestamp": 1793463417
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Val di Fiemme avviser VM-ryktene – ikke aktuell som Falun-erstatter",
+      "url": "https://www.nrk.no/sport/val-di-fiemme-avviser-vm-ryktene-_-ikke-aktuell-som-falun-erstatter-1.18070231",
+      "summary": "Skitoppene i Val di Fiemme avfeier at det er aktuelt å være reservearrangør for VM dersom det må flyttes fra Falun. Det ble tidligere i uken meldt at Val di Fiemme var en kandidat om mesterskapet ikke kan arrangeres i Falun neste år. Det skjer i lyset av at Sv",
+      "date_label": "31.10.2026",
+      "timestamp": 1793462641
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "USA åtvarar Russland om terrorplanar mot Moskva i dag",
+      "url": "https://www.nrk.no/nyheter/usa-atvarar-russland-om-terrorplanar-mot-moskva-i-dag-1.18070211",
+      "summary": "Sikkerheitstenesta i Russland (FSB) opplyser at dei har fått ei åtvaring frå amerikansk etterretning om eit planlagt angrep mot Moskva laurdag. Den amerikanske ambassaden i Moskva skriv på X at dei er kjent med ein reell trussel om eit stort angrep mot Tsarits",
+      "date_label": "31.10.2026",
+      "timestamp": 1793461092
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "46 av 48 brear er i ferd med å forsvinne: – Det er ganske alarmerande",
+      "url": "https://www.nrk.no/mr/hundrevis-av-isbrear-forsvinn.-i-geirangerfjorden-og-naeroyfjorden-er-46-av-48-brear-doyande-1.18065778",
+      "summary": "Alle veit at breane smeltar, men kor fort veit ingen heilt sikkert. Hundrevis av brear i Noreg vil vere borte om få år. I verdsarvområda på Vestlandet er dei aller fleste utryddingstrua.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793460445
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793459780
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Binance: – 90 prosent av alle midlar er gjenoppretta",
+      "url": "https://www.nrk.no/nyheter/binance_-_-90-prosent-av-alle-midlar-er-gjenoppretta-1.18070147",
+      "summary": "Natt til fredag bekrefta kryptobørsen Binance at kryptovaluta til ein verdi av nesten 60 milliardar kroner vart stelt i eit hackarangrep. Laurdag opplyser Binance at dei sjølv har klart å dekka 90 prosent av beløpet som vart stelt. – Binance vil ta den økonomi",
+      "date_label": "31.10.2026",
+      "timestamp": 1793458274
     },
     {
       "source": "BBC World",
@@ -168,7 +328,7 @@
       "topic": "norge",
       "title": "Sviende nederlag for Bodø/Glimt-styret: Omstridt navneforslag ble nedstemt",
       "url": "https://www.nrk.no/nordland/sviende-nederlag-for-bodo_glimt-styret_-omstridt-navneforslag-ble-nedstemt-1.18070000",
-      "summary": "Til tross for advarsler om at en millionkontrakt kunne ryke, stemte et flertall av Bodø/Glimts medlemmer ned styrets forslag om å kalle stadion Arctic Arena.",
+      "summary": "En millionavtale knyttet til «Arctic Arena» er i det blå etter at det ble nedstemt på dagens årsmøte. Navnet kan ende opp med å bli foreslått på nytt, sier daglig leder.",
       "date_label": "31.10.2026",
       "timestamp": 1793447740
     },
@@ -571,6 +731,16 @@
       "summary": "Polens president Karol Nawrocki dropper en flyreise til Senegal. Det opplyser han selv i et innlegg på meldingstjenesten X. Det skjer etter en strid om landets grunnlovsdomstol. Flere hundre personer demonstrerte utenfor grunnlovsdomstolen i Warszawa fredag.",
       "date_label": "31.10.2026",
       "timestamp": 1793411805
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Enstemmig hovedutvalg om helseparken: – Sårt tiltrengt",
+      "url": "https://www.jarlsbergavis.no/enstemmig-hovedutvalg-om-helseparken-sart-tiltrengt/s/80-72-5813",
+      "summary": "- En stor og viktig sak for utvalget, sier utvalgslederen.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793411700
     },
     {
       "source": "Sande Avis",
@@ -3831,176 +4001,6 @@
       "summary": "Husker du hvordan det var?",
       "date_label": "29.10.2026",
       "timestamp": 1793262943
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Over 1.000 møtte opp: Slik tok Holmestrand farvel med toget gjennom byen",
-      "url": "https://www.jarlsbergavis.no/over-1-000-motte-opp-slik-tok-holmestrand-farvel-med-toget-gjennom-byen/g/80-26-9945",
-      "summary": "Klokken 00.42 lørdag 29. oktober 2016 stanset det aller siste toget i friluft ved torget i Holmestrand.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793262860
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Funn av granat på avfallsplass i Moss",
-      "url": "https://www.nrk.no/ostfold/funn-av-granat-pa-avfallsplass-i-moss-1.18067821",
-      "summary": "En granat er funnet på Solgård Avfallsplass i Moss, melder Moss Avis. Inntil videre har de ansatte stengt av avfallsplassen, opplyser politiet til NRK. – Vi fikk inn en telefon fra ansatte kvart på ni. Vi er nå i dialog med Forsvaret, som vi bruker på denne ty",
-      "date_label": "29.10.2026",
-      "timestamp": 1793262703
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793262211
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ukrainsk delegasjon besøker Olesjky for å kontrollere våpenhvile",
-      "url": "https://www.nrk.no/nyheter/ukrainsk-delegasjon-besoker-olesjky-for-a-kontrollere-vapenhvile-1.18067805",
-      "summary": "En delegasjon som ledes av Ukrainas ombudsmann for menneskerettigheter, Dmytro Lubinets, er på vei til russisk-okkuperte Olesjky i Kherson. Det opplyser Ukrainas sjefforhandler Davyd Arakhamia i et innlegg på Telegram torsdag. – Vi skal overvåke situasjonen og",
-      "date_label": "29.10.2026",
-      "timestamp": 1793262102
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Nyopprykket og i gullkampen: – Jeg er imponert",
-      "url": "https://www.nrk.no/mr/lise-klaveness-er-imponert-over-satsinga-pa-fotball-i-fylket---aafk-kan-ta-gull-i-toppserien-1.18067501",
-      "summary": "Aalesund er ett poeng unna førsteplassen i øverste divisjon. Lise Klaveness hyller satsinga på kvinnefotballen i fylket.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793261528
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "FN: Over 280.000 fordrevet i Jemen siden august",
-      "url": "https://www.nrk.no/nyheter/fn_-over-280.000-fordrevet-i-jemen-siden-august-1.18067770",
-      "summary": "Krigshandlinger har tvunget mer enn 281.000 mennesker til å flykte fra hjemmene sine i Jemen siden begynnelsen av august. Det opplyser FNs nødhjelpskontor (Ocha), ifølge Al Jazeera. Den siste tiden har det vært nye kamper mellom houthi-bevegelsen. og styrker s",
-      "date_label": "29.10.2026",
-      "timestamp": 1793261522
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793260473
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Russland hevder å ha skutt ned over 1000 ukrainske droner",
-      "url": "https://www.nrk.no/nyheter/russland-hevder-a-ha-skutt-ned-over-1000-ukrainske-droner-1.18067757",
-      "summary": "Det ble skutt ned 1214 ukrainske droner rettet mot Russland gjennom natten, ifølge det russiske forsvarsdepartementet. Det melder Reuters. Ifølge ordføreren i Moskva, Sergej Sobjanin, ble 613 droner sendt mot den russiske hovedstaden i natt, men han hevder at ",
-      "date_label": "29.10.2026",
-      "timestamp": 1793258788
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "NVE varsler betydelig høyere strømpriser på grunn av datasentre",
-      "url": "https://www.nrk.no/nyheter/nve-varsler-betydelig-hoyere-strompriser-pa-grunn-av-datasentre-1.18067733",
-      "summary": "Norge vil få betydelig høyere priser frem mot 2035 dersom kraftforbruket øker sterkt uten at det bygges ut ny kraftproduksjon, viser tall fra Norges vassdrags- og energidirektorat (NVE). Norge produserer i dag mer kraft enn vi bruker, med et overskudd på om la",
-      "date_label": "29.10.2026",
-      "timestamp": 1793258015
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Chancellor says government has 'moral duty' to help young people who are out of work",
-      "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\".",
-      "date_label": "29.10.2026",
-      "timestamp": 1793257018
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Færre døyr av overdoser i Oslo",
-      "url": "https://www.nrk.no/stor-oslo/faerre-doyr-av-overdoser-i-oslo-1.18067730",
-      "summary": "I 2025 blei det registrert narkotikautløyste dødsfall i alle fylka i landet. No viser tal frå Helsedirektoratet at færre døyr av overdose. I Akershus var det ni fleire overdosedødsfall enn året før. I Oslo var det derimot 14 færre som døydde av overdose samanl",
-      "date_label": "29.10.2026",
-      "timestamp": 1793255995
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "The Times: Fifa tjente 46 milliarder på VM-billetter",
-      "url": "https://www.nrk.no/sport/the-times_-fifa-tjente-46-milliarder-pa-vm-billetter-1.18067712",
-      "summary": "Det internasjonale fotballforbundet skal ha dratt inn enorme summer på salg av billetter til sommerens VM i Nord-Amerika. The Times har vært i kontakt med kilder som avslører at totalen landet på 5 milliarder dollar (46,8 milliarder kroner). Ifølge avisen er d",
-      "date_label": "29.10.2026",
-      "timestamp": 1793255962
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "'We need help for small businesses, not punishment'",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwxplv1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "People in Bilston react to the new Budget set out by Chancellor John Healey.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793255248
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793255096
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Equinor: Gassfunn i Nordsjøen kan være dobbelt så stort",
-      "url": "https://www.nrk.no/nyheter/equinor_-gassfunn-i-nordsjoen-kan-vaere-dobbelt-sa-stort-1.18067722",
-      "summary": "En ny avgrensningsbrønn i Afrodite-funnet nær Kvitebjørn-feltet viser at de utvinnbare gassvolumene kan være over dobbelt så store som tidligere anslått, ifølge Equinor. De utvinnbare volumene av gass og kondensat anslås nå til mellom 77 og 180 millioner fat o",
-      "date_label": "29.10.2026",
-      "timestamp": 1793254941
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Signalfeil på Oslo S",
-      "url": "https://www.nrk.no/stor-oslo/signalfeil-pa-oslo-s-1.18067669",
-      "summary": "Ein signalfeil på Oslo S fører til at toga køyrer saktare. Det opplyser Vy på nettsidene sine. Reisande må rekne med forseinkingar. Bane NOR arbeider med å rette feilen.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793254907
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Haulier blames fuel prices for diesel theft",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzdwjp03lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Martin Pinches said someone had stolen 400 litres of diesel from two of his lorries",
-      "date_label": "29.10.2026",
-      "timestamp": 1793254622
     }
   ]
 }
