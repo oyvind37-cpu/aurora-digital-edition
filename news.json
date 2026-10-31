@@ -1,7 +1,97 @@
 {
-  "updated": "2026-10-30T23:09:07Z",
+  "updated": "2026-10-31T02:29:55Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793412739
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793412136
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Ny demensplan vedtatt: – Viktig for at situasjonen skal kunne bedre seg",
+      "url": "https://www.sandeavis.no/ny-demensplan-vedtatt-viktig-for-at-situasjonen-skal-kunne-bedre-seg/s/80-72-5816",
+      "summary": "Hovedutvalget har enstemmig vedtatt kommunens nye demensplan med ekstra fokus på å ivareta de pårørende.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793412000
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Polens president avbryter reise",
+      "url": "https://www.nrk.no/nyheter/polens-president-avbryter-reise-1.18069904",
+      "summary": "Polens president Karol Nawrocki dropper en flyreise til Senegal. Det opplyser han selv i et innlegg på meldingstjenesten X. Det skjer etter en strid om landets grunnlovsdomstol. Flere hundre personer demonstrerte utenfor grunnlovsdomstolen i Warszawa fredag.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793411805
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Enstemmig hovedutvalg om helseparken: – Sårt tiltrengt",
+      "url": "https://www.sandeavis.no/enstemmig-hovedutvalg-om-helseparken-sart-tiltrengt/s/80-72-5813",
+      "summary": "- En stor og viktig sak for utvalget, sier utvalgslederen.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793411700
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793410353
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793410025
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793409103
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Energiministeren ikke skremt av havvindanalyse",
+      "url": "https://www.nrk.no/nyheter/energiministeren-ikke-skremt-av-havvindanalyse-1.18069903",
+      "summary": "Energiminister Terje Aasland (Ap) lar seg ikke skremme av Statnetts dystre prognoser for norsk havvind. Han har tenkt å prøve uansett. – Heldigvis er det ikke slik at regjeringens havvindsatsing baserer seg på én enkelt analyse fra Statnett. Vi har et veldig k",
+      "date_label": "31.10.2026",
+      "timestamp": 1793408325
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -9,8 +99,58 @@
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "date_label": "30.10.2026",
-      "timestamp": 1793398852
+      "date_label": "31.10.2026",
+      "timestamp": 1793407243
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793406598
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793405763
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Avis: Angrep mot ukrainsk energianlegg",
+      "url": "https://www.nrk.no/nyheter/avis_-angrep-mot-ukrainsk-energianlegg-1.18069900",
+      "summary": "Et energianlegg i Kyiv er rammet i et russisk angrep fredag kveld, melder avisen The Kyiv Independent. Fire bydeler i den ukrainske hovedstaden er uten strøm, ifølge energiselskapet DTEK. Det har så langt ikke kommet meldinger om døde eller sårede etter angrep",
+      "date_label": "31.10.2026",
+      "timestamp": 1793403215
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793402776
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793402357
     },
     {
       "source": "NRK Sport",
@@ -71,26 +211,6 @@
       "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
       "date_label": "30.10.2026",
       "timestamp": 1793394794
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-      "date_label": "30.10.2026",
-      "timestamp": 1793393718
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "date_label": "30.10.2026",
-      "timestamp": 1793393521
     },
     {
       "source": "NRK Siste",
@@ -903,9 +1023,9 @@
       "timestamp": 1793362603
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "Google value plunges by $500bn as its own AI search hits ad sales",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
       "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
@@ -3881,126 +4001,6 @@
       "summary": "Beboeren i det overtente huset på Nykirke var lenge savnet. Først seks timer senere kom han gående tilbake til brannstedet.",
       "date_label": "28.10.2026",
       "timestamp": 1793214000
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Cupsmell for Rosenborg - treneren forbannet",
-      "url": "https://www.nrk.no/sport/cupsmell-for-rosenborg---treneren-forbannet-1.18067375",
-      "summary": "Rosenborg har vist storform i Eliteserien i høst, men og slo HamKam 3.0 borte i forrige runde. Men hjemme mot samme lag i cupens 3. runde gikk de på en smell. Emil Konradsen Ceide hadde sendt hjemmelaget i ledelsen før pause, men mot slutten av oppgjøret tok H",
-      "date_label": "28.10.2026",
-      "timestamp": 1793213596
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Russisk kritikk mot Oslo-ordføreren",
-      "url": "https://www.nrk.no/stor-oslo/russisk-kritikk-mot-oslo-ordforeren-1.18067414",
-      "summary": "Oslo-ordfører Anne Lindboe (H) møter russisk kritikk etter at hun tok til orde for å nekte russiske skiløpere visum til verdenscupen i Holmenkollen i vinter. Det skriver Avisa Oslo. Lindboe uttalte at utøverne ikke «hører hjemme» i Holmenkollen. Russlands skip",
-      "date_label": "28.10.2026",
-      "timestamp": 1793213488
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Brann tok første stikk – enkel seier i Europacupen",
-      "url": "https://www.nrk.no/sport/brann-tok-forste-stikk-_-enkel-seier-i-europacupen-1.18067494",
-      "summary": "Brann vant 3–0 og fikk en alle tiders åpning på dobbeltoppgjøret mot polske Czarni Sosnowiec. Det er den første av to åttedelsfinalekamper i Europacupen for bergenserne. Brann fikk en drømmeåpning da Brenna Lovera banket inn 1–0 etter fem minutter. Seks minutt",
-      "date_label": "28.10.2026",
-      "timestamp": 1793213484
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "How did Flávio Bolsonaro end up in Miami?",
-      "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793213465
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Se tv-sendinga her",
-      "url": "https://www.nrk.no/video/DKMR98102826",
-      "summary": "",
-      "date_label": "28.10.2026",
-      "timestamp": 1793213135
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-      "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793213109
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Sørlandets TV-sending: Danse-influenser ble kopiert av KI",
-      "url": "https://www.nrk.no/video/DKSL98102826",
-      "summary": "",
-      "date_label": "28.10.2026",
-      "timestamp": 1793213013
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Three ways the Budget affects you",
-      "url": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Esyllt Carr explains how the chancellor's spending plans impact young people.",
-      "date_label": "28.10.2026",
-      "timestamp": 1793212376
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ordførere markerte motstand mot kutt av ambulanser",
-      "url": "https://www.nrk.no/video/DKNO98102826",
-      "summary": "",
-      "date_label": "28.10.2026",
-      "timestamp": 1793212237
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kveldens nyheter av Lorentz Berg",
-      "url": "https://www.nrk.no/video/DKVT98102826",
-      "summary": "",
-      "date_label": "28.10.2026",
-      "timestamp": 1793212051
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Bli med på kunstløpstrening i denne sendinga",
-      "url": "https://www.nrk.no/video/DKIN98102826",
-      "summary": "",
-      "date_label": "28.10.2026",
-      "timestamp": 1793211902
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "USA holder renten uendret",
-      "url": "https://www.nrk.no/nyheter/usa-holder-renten-uendret-1.18067488",
-      "summary": "Som ventet holder den amerikanske sentralbanken renten uendret. Styringsrenten holdes innenfor det nåværende intervallet på 3,75 til 4 prosent. Samtidig erkjente USAs sentralbank at inflasjonen «fortsatt er høy» og antydet at ytterligere rentehevinger kan komm",
-      "date_label": "28.10.2026",
-      "timestamp": 1793211823
     }
   ]
 }
