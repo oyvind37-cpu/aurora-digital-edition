@@ -1,7 +1,127 @@
 {
-  "updated": "2026-10-31T18:52:26Z",
+  "updated": "2026-10-31T22:25:07Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793484705
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "FBI: Nord-Korea stod bak tjuveriet av nesten 60 milliardar kroner i kryptovaluta",
+      "url": "https://www.nrk.no/nyheter/fbi_-nord-korea-stod-bak-tjuveriet-av-nesten-60-milliardar-kroner-i-kryptovaluta-1.18070245",
+      "summary": "FBI hevdar laurdag at det var Nord-Korea som stod bak tjuveriet på over 6 milliardar dollar i kryptovaluta frå kryptobørsen Binance. Vondsinna aktørar frå Nord-Korea vart observert i å kvitvaske dei stolne midlane ved å konvertere dei til Ethereum, hevdar FBI,",
+      "date_label": "31.10.2026",
+      "timestamp": 1793483311
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793482141
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Ny sjef trekker seg fra alpin-VM",
+      "url": "https://www.nrk.no/sport/ny-sjef-trekker-seg-fra-alpin-vm-1.18070313",
+      "summary": "Atle Skårdal er den andre på kort tid som sier opp VM-jobben, melder Fremover. – Atle har av personlige årsaker valgt å trekke seg fra jobben som sportssjef for VM i 2029, sier VM-sjef Knut-Eirik Dybdal til Fremover. Tidligere verdensmester Skårdal har tidlige",
+      "date_label": "31.10.2026",
+      "timestamp": 1793481869
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Full over­tenning i hus i Haram – alle personar er gjort greie for",
+      "url": "https://www.nrk.no/mr/brann-i-lokale-i-haram-pa-sunnmore-1.18070336",
+      "summary": "Det skal vere full overtenning i ein bustad i Haram. Brannvesenet jobbar med å sløkke brannen, og politiet har gjort greie for alle personane.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793480468
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Brann i ein bustad",
+      "url": "https://www.nrk.no/mr/brann-i-ein-bustad-1.18070330",
+      "summary": "Det brenn i ein bustad i Haram på Sunnmøre. Det melder politiet i politiloggen. Det skal ha vore eit arrangement på staden. Naudetatane er på veg. Det skal vere snakk om overtenning i fleire etasjar. Det er uvisst om det er spreiingsfare.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793480123
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trekker seg som sportssjef for Narvik-VM",
+      "url": "https://www.nrk.no/nordland/trekker-seg-som-sportssjef-for-narvik-vm-1.18070205",
+      "summary": "",
+      "date_label": "31.10.2026",
+      "timestamp": 1793478404
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Tottenham tok ny seier – Palace-stjerne utvist",
+      "url": "https://www.nrk.no/sport/tottenham-tok-ny-seier-_-palace-stjerne-utvist-1.18070307",
+      "summary": "Crystal Palace ble tidlig redusert til ti mann i bortekampen mot Tottenham i Premier League. Tottenham kunne til slutt juble for 2-0-seier og den tredje strake i serien. Med Jørgen Strand Larsen på skadelisten var Jean-Philippe Mateta et naturlig spissvalg for",
+      "date_label": "31.10.2026",
+      "timestamp": 1793475296
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Dortmund og Ryerson rystet Bayern i thriller",
+      "url": "https://www.nrk.no/sport/dortmund-og-ryerson-rystet-bayern-i-thriller-1.18070303",
+      "summary": "Dortmund og Julian Ryerson imponerte da de sikret 2-2 mot Bayern München etter dramatiske sluttminutter. Det betyr at det er fortsatt omtrent dødt løp i tittelracet i Bundesliga etter åtte kamper. Begge lag står med 18 poeng. Det var Bayern som tok første stik",
+      "date_label": "31.10.2026",
+      "timestamp": 1793474965
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793474546
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Sesongens første tap for Herrem og Sola",
+      "url": "https://www.nrk.no/sport/sesongens-forste-tap-for-herrem-og-sola-1.18070270",
+      "summary": "Sola måtte se seg slått i storkampen mot Storhamar. På bortebane endte det til slutt 23-26 for Camilla Herrem og co. – I dag var det gøy å spille, og kjedelig å tape. De har en veldig god målvakt som gjør det vanskelig for oss. Sånn ble det i dag, og det er se",
+      "date_label": "31.10.2026",
+      "timestamp": 1793473798
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Sandefjord vant skjebnekampen mot Aalesund",
+      "url": "https://www.nrk.no/sport/sandefjord-vant-skjebnekampen-mot-aalesund-1.18070288",
+      "summary": "Kjetil Rekdal og Aalesund er ille ute etter tap i bunnoppgjøret mot Sandefjord lørdag kveld. Gjestene vant 4-3. Det betyr at AaFK blir liggende på kvalik-plass, mens Sandefjord nå er tre poeng foran. – Vi møter et lag som er mye bedre enn oss, innrømmer Kjetil",
+      "date_label": "31.10.2026",
+      "timestamp": 1793473008
+    },
     {
       "source": "NRK Sport",
       "category": "sport",
@@ -83,6 +203,16 @@
       "timestamp": 1793466600
     },
     {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
+      "date_label": "31.10.2026",
+      "timestamp": 1793465747
+    },
+    {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
@@ -101,16 +231,6 @@
       "summary": "Dansk TV 2 trekte lørdag tilbake programmet «Alle elsker Rasmus» etter å ha fått mykje kritikk. I programmet trur den danske komikaren Rasmus Wallbridge at han er i gang med å realisere draumen om å lage ein film saman med den gode venen hans, Martin Johannes ",
       "date_label": "31.10.2026",
       "timestamp": 1793464622
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "date_label": "31.10.2026",
-      "timestamp": 1793464328
     },
     {
       "source": "NRK Sport",
@@ -248,7 +368,7 @@
       "topic": "norge",
       "title": "Fikk lyktestolpe over frontruta på E6",
       "url": "https://www.nrk.no/trondelag/fikk-lyktestolpe-over-frontruta-pa-e6-1.18070132",
-      "summary": "To biler fikk skader da en lyktestolpe veltet over veien nord for Steinkjer lørdag ettermiddag.",
+      "summary": "To biler fikk skader da en lyktestolpe veltet over veien sør for Steinkjer lørdag ettermiddag.",
       "date_label": "31.10.2026",
       "timestamp": 1793453592
     },
@@ -1693,9 +1813,9 @@
       "timestamp": 1793363815
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
       "title": "What we know about Binance's $6.3bn hack",
       "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
       "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
@@ -3881,126 +4001,6 @@
       "summary": "Et russisk droneangrep mot ukrainske Dnipro har kostet 13 mennesker livet, opplyser guvernør Oleksandr Hanzja. Dødsfallene knyttes til et angrep mot togstasjonen i Dnipro torsdag, ifølge Reuters. I tillegg til de drepte er minst fem andre såret, ifølge Hanzja.",
       "date_label": "29.10.2026",
       "timestamp": 1793267119
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793266304
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793266203
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793265425
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793264808
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Kvitfjell stepper inn etter Narviks nei – redder verdenscuprenn i alpint",
-      "url": "https://www.nrk.no/sport/kvitfjell-stepper-inn-etter-narviks-nei-_-redder-verdenscuprenn-i-alpint-1.18067743",
-      "summary": "De kommende VM-arrangørene i Narvik måtte si fra seg vinterens verdenscuprenn i alpint. Nå er det klart at rennene forblir på norsk jord og flyttes til Kvitfjell. Det får NTB bekreftet av Norges Skiforbund. Det internasjonale skiforbundet bekrefter også nyhete",
-      "date_label": "29.10.2026",
-      "timestamp": 1793264512
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Gjev pris til Demenskoret",
-      "url": "https://www.nrk.no/kultur/gjev-pris-til-demenskoret-1.18067874",
-      "summary": "Demenskoret til Oslo demensforeining er tildelt andreplassen i Alzheimer Europes «Anti-Stigma Award» for 2026. Det norske koret nådde heilt opp blant åtte finalistar, plukka ut blant kandidatar frå 44 demensorganisasjonar over heile Europa. Koret vart opphavle",
-      "date_label": "29.10.2026",
-      "timestamp": 1793264211
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ramma av ny vegpolitikk: – Har kome for seint til festen",
-      "url": "https://www.nrk.no/sorlandet/grimstad-har-bestemt-seg-om-e18-1.18067786",
-      "summary": "Noreg skal gjenbruke gammal veg i staden for å bygge nytt. I Grimstad fryktar dei ein motorveg som deler byen i to.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793264206
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Israel: Etterretningstjenesten bes om å undersøke påstått valgpåvirkning",
-      "url": "https://www.nrk.no/nyheter/israel_-etterretningstjenesten-bes-om-a-undersoke-pastatt-valgpavirkning-1.18067852",
-      "summary": "Lederen for Israels valgkommisjon Noam Sohlberg har bedt den israelske sikkerhetstjenesten Shin Bet om å etterforske påstått utenlandsk påvirkning av valget i Israel. Det melder de israelske avisene Haaretz, The Times of Israel og The Jerusalem Post. Etterfors",
-      "date_label": "29.10.2026",
-      "timestamp": 1793263839
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Israel: Etterretningstjenesten bes om å undersøke påsått valgpåvirkning",
-      "url": "https://www.nrk.no/nyheter/israel_-etterretningstjenesten-bes-om-a-undersoke-pasatt-valgpavirkning-1.18067852",
-      "summary": "Lederen for Israels valgkommisjon Noam Sohlberg har bedt den israelske sikkerhetstjenesten Shin Bet om å etterforske påstått utenlandsk påvirkning av valget i Israel. Det melder de israelske avisene Haaretz, The Times of Israel og The Jerusalem Post. Etterfors",
-      "date_label": "29.10.2026",
-      "timestamp": 1793263839
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "OD-dagen: – Får elever til å tenke på om de virkelig har det så ille på skolen",
-      "url": "https://www.nrk.no/video/55f9c785-883e-42a8-bd74-74d64625d0c5",
-      "summary": "Nesten 7000 elever ved videregående- og ungdomsskoler i Troms er i dag spredt for alle vinder for å samle inn penger. Årets inntekter fra Operasjon Dagsverk går til tryggere og bedre skoler i Sør-Afrika. Leder for Operasjon Dagsverk-komiteen i Troms, Alva Sjös",
-      "date_label": "29.10.2026",
-      "timestamp": 1793263530
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Festmiddag i Spania avlyst etter togulykke",
-      "url": "https://www.nrk.no/nyheter/festmiddag-i-spania-avlyst-etter-togulykke-1.18067817",
-      "summary": "Dronning Sonja er i Spania for å delta på åpningen av en kunstutstilling på Mueso Picasso i Malaga, men den planlagte festmiddagen er avlyst. Det bekrefter Slottet overfor TV 2. – Museo Picasso Málaga har bekreftet at den planlagte utstillingsåpningen består, ",
-      "date_label": "29.10.2026",
-      "timestamp": 1793263279
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Gjensyn: Da toget gikk gjennom Holmestrand by",
-      "url": "https://www.jarlsbergavis.no/gjensyn-da-toget-gikk-gjennom-holmestrand-by/s/80-26-9939",
-      "summary": "Husker du hvordan det var?",
-      "date_label": "29.10.2026",
-      "timestamp": 1793262943
     }
   ]
 }
