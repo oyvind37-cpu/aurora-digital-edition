@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-31T22:25:07Z",
+  "updated": "2026-11-01T01:24:27Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "date_label": "01.11.2026",
+      "timestamp": 1793494506
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Tenåring påkjørt av elsparkesyklist – sendt til sykehus",
+      "url": "https://www.nrk.no/nyheter/tenaring-pakjort-av-elsparkesyklist-_-sendt-til-sykehus-1.18070349",
+      "summary": "En ung mann er sendt til sykehus etter at han ble påkjørt av en elsparkesyklist i Fredrikstad, opplyser Øst politidistrikt. Mannen er i slutten av tenårene. Han skal ha vært bevisstløs i lengre tid etter hendelsen, men skal senere ha våknet igjen. Han ble send",
+      "date_label": "01.11.2026",
+      "timestamp": 1793492301
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "date_label": "01.11.2026",
+      "timestamp": 1793491927
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+      "date_label": "01.11.2026",
+      "timestamp": 1793487973
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -48,7 +88,7 @@
       "topic": "norge",
       "title": "Full over­tenning i hus i Haram – alle personar er gjort greie for",
       "url": "https://www.nrk.no/mr/brann-i-lokale-i-haram-pa-sunnmore-1.18070336",
-      "summary": "Det skal vere full overtenning i ein bustad i Haram. Brannvesenet jobbar med å sløkke brannen, og politiet har gjort greie for alle personane.",
+      "summary": "Eit hus i Haram er i full overtenning. Brannvesenet jobbar med å sløkke brannen, og politiet har gjort greie for alle personane.",
       "date_label": "31.10.2026",
       "timestamp": 1793480468
     },
@@ -1073,9 +1113,9 @@
       "timestamp": 1793392638
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
@@ -3961,46 +4001,6 @@
       "summary": "",
       "date_label": "29.10.2026",
       "timestamp": 1793268710
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "What we know so far about deadly Spain train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793268157
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Forseinkingar på T-bane linje 2 og 3",
-      "url": "https://www.nrk.no/stor-oslo/forseinkingar-pa-t-bane-linje-2-og-3-1.18067912",
-      "summary": "På grunn av stans på linje 2 og 3 mellom Borgen og Majorstuen, er det forseinkingar på linje 2 og 3 i følgje Ruter sine sider.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793268024
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Tilsett blei kjærast med drapsdømt pasient – Helsetilsynet varsla politiet",
-      "url": "https://www.nrk.no/mr/tilsett-pa-psykiatrisk-avdeling-etterforska-av-politiet-fordi-ho-er-kjaerast-med-drapsdomd-pasient-1.18067038",
-      "summary": "Kvinna var tilsett for å passe på mannen som drap ein 16-åring. No har ho mista autorisasjonen og blir etterforska av politiet.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793268004
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "13 drept i droneangrep i Dnipro i Ukraina",
-      "url": "https://www.nrk.no/nyheter/13-drept-i-droneangrep-i-dnipro-i-ukraina-1.18067872",
-      "summary": "Et russisk droneangrep mot ukrainske Dnipro har kostet 13 mennesker livet, opplyser guvernør Oleksandr Hanzja. Dødsfallene knyttes til et angrep mot togstasjonen i Dnipro torsdag, ifølge Reuters. I tillegg til de drepte er minst fem andre såret, ifølge Hanzja.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793267119
     }
   ]
 }
