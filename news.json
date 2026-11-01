@@ -1,16 +1,96 @@
 {
-  "updated": "2026-11-01T19:31:41Z",
+  "updated": "2026-11-01T22:59:46Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
+      "date_label": "01.11.2026",
+      "timestamp": 1793571951
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Se lesernes egne halloweenbilder",
+      "url": "https://www.jarlsbergavis.no/se-lesernes-egne-halloweenbilder/g/80-26-11405",
+      "summary": "",
+      "date_label": "01.11.2026",
+      "timestamp": 1793571003
+    },
     {
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "date_label": "01.11.2026",
+      "timestamp": 1793570101
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
       "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
       "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
       "date_label": "01.11.2026",
-      "timestamp": 1793560654
+      "timestamp": 1793567805
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Foreldre fekk halloween-sjokk: Fleire fann synåler i godteri",
+      "url": "https://www.nrk.no/artikkel/fann-synaler-i-godteri-pa-halloween-1531469",
+      "summary": "",
+      "date_label": "01.11.2026",
+      "timestamp": 1793566664
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fly har styrtet i Florida, melder lokalt brannvesen",
+      "url": "https://www.nrk.no/nyheter/fly-har-styrtet-i-florida_-melder-lokalt-brannvesen-1.18070760",
+      "summary": "Lokale myndigheter har bekreftet at et lite fly med ni passasjerer styrtet inn i en husvogn i nærheten av Greenacres i Palm Beach søndag ettermiddag lokal tid, ifølge flere amerikanske medier. En oversikt på Flightradar viser også at det er et mindre fly som h",
+      "date_label": "01.11.2026",
+      "timestamp": 1793564380
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Sæter-dobbel da Vålerenga knuste Tromsø",
+      "url": "https://www.nrk.no/sport/saeter-dobbel-da-valerenga-knuste-tromso-1.18070774",
+      "summary": "Vålerenga tok sin tredje strake seier i Eliteserien da de knuste Tromsø 4–0 på Intility Arena søndag kveld. Ole Sæter ble den store helten med to scoringer i første omgang. Allerede etter sju minutter fikk Tromsøs Vetle Skjærvik sitt andre gule kort da han fel",
+      "date_label": "01.11.2026",
+      "timestamp": 1793563620
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Her vil Tor-Evert frå «Der ingen skulle tru» byggje klyngetun for byfolk",
+      "url": "https://www.nrk.no/artikkel/her-vil-tor-evert-fra-der-ingen-skulle-tru-byggje-klyngetun-for-byfolk-1531104",
+      "summary": "",
+      "date_label": "01.11.2026",
+      "timestamp": 1793562612
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ansatt ved NTNU omkom i Rindal",
+      "url": "https://www.nrk.no/trondelag/ansatt-ved-ntnu-omkom-i-rindal-1.18070581",
+      "summary": "En mann i 30-årene omkom i Rindal lørdag ettermiddag.",
+      "date_label": "01.11.2026",
+      "timestamp": 1793561534
     },
     {
       "source": "NRK Norge",
@@ -106,9 +186,9 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Nedtur for TIL: Vålerenga leder 3-0",
+      "title": "TIL kollapset i Oslo: Tapte 4–0 og fikk to mann utvist",
       "url": "https://www.nrk.no/tromsogfinnmark/valerenga-mot-tromso-1.18067951",
-      "summary": "Følg kampen her.",
+      "summary": "Ole Sæter scoret sine to første seriemål for Vålerenga i 4-0-seieren over Tromsø, som røk på to røde kort.",
       "date_label": "01.11.2026",
       "timestamp": 1793555040
     },
@@ -356,9 +436,9 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Vart seriemeister etter maktdemonstrasjon - no ventar gullfeiring i Bergen",
+      "title": "Brann festar i Bergen etter seriegull",
       "url": "https://www.nrk.no/vestland/brann-sk-kvinner-er-seriemeistrar-i-toppserien-1.18070055",
-      "summary": "Brann kvinner er seriemeistrar i Toppserien etter ein overtydande 4–1 siger over LSK kvinner.",
+      "summary": "Brann kvinner er seriemeistrar i Toppserien etter ein overtydande 4–1 siger over LSK kvinner. I kveld festa dei blant glade bergensarar på Fotballpuben i Bergen",
       "date_label": "01.11.2026",
       "timestamp": 1793537396
     },
@@ -3921,86 +4001,6 @@
       "summary": "– Fire personer omkom og 11 ble skadet etter at et italiensk militærhelikopter styrtet i Bosnia-Hercegovina torsdag ettermiddag, opplyser Italias forsvarsdepartement ifølge Reuters. Helikopteret opererte under Den europeiske unions fredsbevarende oppdrag EUFOR",
       "date_label": "29.10.2026",
       "timestamp": 1793303251
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Nora Mørk sendte Esbjerg til semifinale i siste sekund",
-      "url": "https://www.nrk.no/sport/nora-mork-sendte-esbjerg-til-semifinale-i-siste-sekund-1.18068836",
-      "summary": "Uten Henny Reistad måtte Esbjerg slite veldig i cupkampen mot København, men Nora Mørks scoring på straffekast rett før slutt ga seier 32-31 og plass i Final Four i romjula. Reistad måtte ut med skade etter å ha herjet med 11 mål da Norge knuste Danmark i Gold",
-      "date_label": "29.10.2026",
-      "timestamp": 1793302568
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Nesten 7000 deltok på OD-dagen: – Litt stressende, men gøy!",
-      "url": "https://www.nrk.no/tromsogfinnmark/nesten-7000-ungdom-deltok-pa-od-dagen-i-troms-i-2026-1.18068638",
-      "summary": "Årets aksjon går til arbeidet for like rettigheter i skolen i Sør-Afrika. Et tema som engasjerte ungdom i Troms.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793302490
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Fiskeri-redaktør om Økokrims storaksjon: – Jeg er sjokkert",
-      "url": "https://www.nrk.no/nordland/fiskeri-redaktor-om-storaksjonen_-_-jeg-er-sjokkert-1.18068548",
-      "summary": "Politiet har pågrepet over 30 personer i det som kan bli norgeshistoriens største fiskerikrimsak.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793302034
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Jack Grealish ute av Everton-troppen grunnet disiplinærsak",
-      "url": "https://www.nrk.no/sport/jack-grealish-ute-av-everton-troppen-grunnet-disiplinaersak-1.18068814",
-      "summary": "Jack Grealish mangler i Everton-troppen som møter Newcastle i ligacupen i kveld. Klubben bekrefter at årsaken er brudd på disiplinærreglene. Grealish manglet også i helgens 0-2-tap for Arsenal i Premier League, men da ble det opplyst at han var syk. Everton me",
-      "date_label": "29.10.2026",
-      "timestamp": 1793301441
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793301070
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Alvorlig trafikkulykke i Tønsberg",
-      "url": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-i-tonsberg-1.18068715",
-      "summary": "",
-      "date_label": "29.10.2026",
-      "timestamp": 1793300980
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Trine Skei Grande ny leder i World Expression Forum (WEXFO)",
-      "url": "https://www.nrk.no/innlandet/trine-skei-grande-ny-leder-i-world-expression-forum-_wexfo_-1.18068727",
-      "summary": "Skei Grande har vært styremedlem i WEXFO i over to år og overtar nå ledervervet etter Aschehoug-sjef Mads Nygaard, som har hatt rollen siden etableringen av WEXFO i 2021, opplyser organisasjonen i en pressemelding. WEXFO er en global møteplass for ytringsfrihe",
-      "date_label": "29.10.2026",
-      "timestamp": 1793300513
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Lastebil mista fisk utover E39 i Førde",
-      "url": "https://www.nrk.no/vestland/lastebil-med-fisk-kolliderte-med-fleire-bilar-1.18068813",
-      "summary": "Ein lastebil mista lasta på E39 i Førde. Fleire bilar fekk kassar med fisk rett i fronten, og to personar er sende til legevakt.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793299985
     }
   ]
 }
