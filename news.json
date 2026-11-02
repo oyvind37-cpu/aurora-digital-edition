@@ -1,7 +1,117 @@
 {
-  "updated": "2026-11-01T22:59:46Z",
+  "updated": "2026-11-02T02:21:55Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Fiskekroken 9 solgt for 7,8 millioner - disse boligene ble solgt i oktober",
+      "url": "https://www.sandeavis.no/fiskekroken-9-solgt-for-7-8-millioner-disse-boligene-ble-solgt-i-oktober/f/80-72-5454",
+      "summary": "Disse eiendommene fikk nye eiere i oktober.",
+      "date_label": "02.11.2026",
+      "timestamp": 1793584800
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Russland: – Cyberangrep mot app",
+      "url": "https://www.nrk.no/nyheter/russland_-_-cyberangrep-mot-app-1.18070856",
+      "summary": "En mobilapp til russiske myndigheter er blitt utsatt for et cyberangrep, melder det statskontrollerte nyhetsbyrået TASS. Angrepet skal ha ført til at misvisende opplysninger ble videreformidlet til offentligheten, ifølge myndighetene. Meldingen kommer få timer",
+      "date_label": "02.11.2026",
+      "timestamp": 1793584544
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "date_label": "02.11.2026",
+      "timestamp": 1793583942
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "date_label": "02.11.2026",
+      "timestamp": 1793582307
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "date_label": "02.11.2026",
+      "timestamp": 1793582125
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ikke opplysninger om omkomne på bakken etter flystyrt",
+      "url": "https://www.nrk.no/nyheter/ikke-opplysninger-om-omkomne-pa-bakken-etter-flystyrt-1.18070855",
+      "summary": "Det er foreløpig ikke tegn til at noen på bakken ble rammet i flystyrten i Palm Beach. Det sier guvernøren i Florida, Ron DeSantis. Ni mennesker, som alle var om bord i flyet, døde i flystyrten søndag. Flyet styrtet i bakken i en bratt vinkel, med svært stor h",
+      "date_label": "02.11.2026",
+      "timestamp": 1793580488
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "date_label": "02.11.2026",
+      "timestamp": 1793579112
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "date_label": "02.11.2026",
+      "timestamp": 1793578530
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ukraina: Flyalarm-app er hacket",
+      "url": "https://www.nrk.no/nyheter/ukraina_-flyalarm-app-er-hacket-1.18070854",
+      "summary": "Appen som ukrainere bruker for å bli varslet om russiske luftangrep er blitt hacket. Det sier Ukrainas luftforsvar, melder Reuters. Appen skal i en kort tidsperiode ha vist en atomalarm. – Appen ser ut til å ha blitt utsatt for fiendtlig påvirkning, skriver lu",
+      "date_label": "02.11.2026",
+      "timestamp": 1793577595
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+      "date_label": "02.11.2026",
+      "timestamp": 1793576089
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Lokal våpenhvile i Ukraina er over",
+      "url": "https://www.nrk.no/nyheter/lokal-vapenhvile-i-ukraina-er-over-1.18070844",
+      "summary": "Våpenhvilen i den russisk-okkuperte byen Olesjky.i Ukraina er over. Det bekrefter Ukrainas menneskerettighetsombud Dmytro Lubinets. – Våpenhvilen, som varte fra 27. oktober til 1. november, er nå over, skriver Lubinets i et innlegg på meldingstjenesten X. Innl",
+      "date_label": "02.11.2026",
+      "timestamp": 1793574675
+    },
     {
       "source": "BBC Business",
       "category": "okonomi",
@@ -31,16 +141,6 @@
       "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
       "date_label": "01.11.2026",
       "timestamp": 1793570101
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793567805
     },
     {
       "source": "NRK Norge",
@@ -3901,106 +4001,6 @@
       "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
       "date_label": "29.10.2026",
       "timestamp": 1793307025
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Zverev blir verdensener for første gang",
-      "url": "https://www.nrk.no/sport/zverev-blir-verdensener-for-forste-gang-1.18068758",
-      "summary": "Alexander Zverev slo Tallon Griekspoor i kvartfinalen i Wien torsdag og sikret dermed at han mandag vil toppe ATP-rankingen for første gang i karrieren. Den 29-årige tyskeren var allerede sikker på å toppe lista ved sesongslutt, men torsdagens seier betyr at h",
-      "date_label": "29.10.2026",
-      "timestamp": 1793306054
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kommune­analytikar: – Ørsta og Volda er dei mest opplagde kommunane i heile landet å slå saman",
-      "url": "https://www.nrk.no/mr/telemarksforsking-har-laga-rapport-om-samanslaing-mellom-orsta-og-volda-1.18065522",
-      "summary": "Ein ny rapport vil ikkje gi noko tilråding om kva Ørsta og Volda bør gjere i framtida. Men ein analytikar innanfor kommuneøkonomi er ikkje i tvil om at dei to kommunane bør slå seg saman.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793305076
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Stygg situasjon i ishockeykamp – Oilers-spiller fraktet ut på båre",
-      "url": "https://www.nrk.no/sport/stygg-situasjon-i-ishockeykamp-_-oilers-spiller-fraktet-ut-pa-bare-1.18068853",
-      "summary": "En stygg situasjon førte til langvarig stopp i kampen mellom Narvik og Stavanger i eliteserien ishockey. Oilers-spiller Kristian Østby ble fraktet ut på båre. Det var lenge uvisst hvor alvorlig Østbys skade var, men sent torsdag kveld fikk TV 2 en oppmuntrende",
-      "date_label": "29.10.2026",
-      "timestamp": 1793304789
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Stygg situasjon i EHL-kamp – Oilers-spiller fraktet ut på båre",
-      "url": "https://www.nrk.no/sport/stygg-situasjon-i-ehl-kamp-_-oilers-spiller-fraktet-ut-pa-bare-1.18068853",
-      "summary": "En stygg situasjon førte til langvarig stopp i kampen mellom Narvik og Stavanger i eliteserien ishockey. Oilers-spiller Kristian Østby ble fraktet ut på båre. Det overskygget Narviks 1-0-seier etter forlengning. Snaut halvveis i siste periode jaget Narvik-spil",
-      "date_label": "29.10.2026",
-      "timestamp": 1793304789
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kraftig nedgang for tech-aksjer i USA",
-      "url": "https://www.nrk.no/nyheter/kraftig-nedgang-for-tech-aksjer-i-usa-1.18068425",
-      "summary": "Tech-selskapet Alphabet – som eier Google – falt med 12 prosent på Nasdaq-børsen torsdag. Det skjer etter at selskapet la frem skuffende kvartalsresultater onsdag. Etter at New York-børsen stengte torsdag falt også Amazon-aksjene kraftig. Få minutter etter ste",
-      "date_label": "29.10.2026",
-      "timestamp": 1793304625
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793304357
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Sjødronene til Langøya kan forsvinne: Slik svarer Noah om tungtrafikken gjennom sentrum",
-      "url": "https://www.jarlsbergavis.no/sjodronene-til-langoya-kan-forsvinne-slik-svarer-noah-om-tungtrafikken-gjennom-sentrum/s/80-26-10664",
-      "summary": "De selvgående fartøyene har halvert Noahs tungtransport gjennom Holmestrand sentrum. Nylig ble de lagt ut for salg.",
-      "date_label": "29.10.2026",
-      "timestamp": 1793304000
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Masseslagsmål med jernstang i Lørenskog",
-      "url": "https://www.nrk.no/stor-oslo/masseslagsmal-med-jernstang-i-lorenskog-1.18068764",
-      "summary": "Politiet er ved Løkenhagen i Lørenskog hvor det har vært et masseslagsmål mellom 20 til 30 personer. – Det er ikke opplysninger om at noen er alvorlig skadd, skriver politiet. Det er tatt beslag i en jernstang og en drill. Det skal ha dreid seg om en konflikt ",
-      "date_label": "29.10.2026",
-      "timestamp": 1793303938
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Skuespiller Patrick Stewart er død, 86 år gammel",
-      "url": "https://www.nrk.no/nyheter/skuespiller-patrick-stewart-er-dod_-86-ar-gammel-1.18068863",
-      "summary": "Skuespiller Patrick Stewart, kjent for mange fra Star Trek og X-Men, har gått bort. Han ble 86 år gammel. En talsperson for familien forteller om dødsfallet, melder flere amerikanske medier. Hans siste periode ble preget av alzheimers og demens. – Vi vil for a",
-      "date_label": "29.10.2026",
-      "timestamp": 1793303545
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Fire døde i militærhelikopterstyrt i Bosnia",
-      "url": "https://www.nrk.no/nyheter/fire-dode-i-militaerhelikopterstyrt-i-bosnia-1.18068749",
-      "summary": "– Fire personer omkom og 11 ble skadet etter at et italiensk militærhelikopter styrtet i Bosnia-Hercegovina torsdag ettermiddag, opplyser Italias forsvarsdepartement ifølge Reuters. Helikopteret opererte under Den europeiske unions fredsbevarende oppdrag EUFOR",
-      "date_label": "29.10.2026",
-      "timestamp": 1793303251
     }
   ]
 }
