@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-04T17:56:14Z",
+  "updated": "2026-11-04T23:33:48Z",
   "source_count": 11,
   "items": [
     {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Mor og datter funnet døde i Canada – mistenker grizzlybjørnangrep",
-      "url": "https://www.nrk.no/nyheter/mor-og-datter-funnet-dode-i-canada-_-mistenker-grizzlybjornangrep-1.18073920",
-      "summary": "– Det er foreløpig ikke klart om mer enn én bjørn har vært involvert, heter det i en uttalelse fra naturoppsynstjenesten i British Columbia sent tirsdag kveld. Moren og datteren hadde gått tur i nærheten av hjemmet sitt i Bella Coola. Familien meldte dem savne",
-      "date_label": "04.11.2026",
-      "timestamp": 1793814450
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+      "date_label": "05.11.2026",
+      "timestamp": 1793835028
     },
     {
       "source": "BBC World",
@@ -20,7 +20,247 @@
       "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
       "date_label": "04.11.2026",
-      "timestamp": 1793814358
+      "timestamp": 1793832523
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Como jubler videre: Vant 9-1",
+      "url": "https://www.nrk.no/sport/como-jubler-videre_-vant-9-1-1.18074081",
+      "summary": "Italienske Como er høstens sensasjonslag i mesterligaen. Onsdag kveld vant de hele 9-1 borte mot franske Lens. Como har nå 13 plussmål og har tatt ni av 12 mulige poeng så langt. Tapet kom mot Feyenoord. Ingen har scoret flere mål på sine fire første kamper i ",
+      "date_label": "04.11.2026",
+      "timestamp": 1793830394
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "New York-børsene opp etter valget",
+      "url": "https://www.nrk.no/nyheter/new-york-borsene-opp-etter-valget-1.18074083",
+      "summary": "Alle børsindeksene i New York var markert opp onsdag etter mellomvalget som Demokratene vant. Den industritunge Dow Jones-indeksen steg 3 prosent, den bredere S&P 500 var opp 1,6 prosent, og teknologitunge Nasdaq tok seg opp 1,4 prosent. Bak oppgangen ligger e",
+      "date_label": "04.11.2026",
+      "timestamp": 1793830002
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793828475
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Avgått kommunedirektør får ett års etterlønn",
+      "url": "https://www.nrk.no/nordland/avgatt-kommunedirektor-far-ett-ars-etterlonn-1.18074011",
+      "summary": "",
+      "date_label": "04.11.2026",
+      "timestamp": 1793826185
+    },
+    {
+      "source": "NRK Oslo",
+      "category": "lokalt",
+      "topic": "lokalt",
+      "title": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
+      "url": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020",
+      "summary": "– For at folk som kunne ha de samme mulighetene til å reise som før og kunne komme seg rundt uten å bruke bilen, så øker vi antallet elsykler, sier byrådsleder Eirik Lae Solberg (H) til VG. Det totale taket for elektriske utleiekjøretøy forblir på 16.000, men ",
+      "date_label": "04.11.2026",
+      "timestamp": 1793825898
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Nytt ansikt på førsteplass: Hamre topper Senterpartiets liste",
+      "url": "https://www.jarlsbergavis.no/nytt-ansikt-pa-forsteplass-hamre-topper-senterpartiets-liste/s/80-26-11855",
+      "summary": "",
+      "date_label": "04.11.2026",
+      "timestamp": 1793822400
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793821486
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Jude Bellingham vartet opp med kunstmål da han ble historisk i Real Madrid-seier",
+      "url": "https://www.nrk.no/sport/jude-bellingham-vartet-opp-med-kunstmal-da-han-ble-historisk-i-real-madrid-seier-1.18073902",
+      "summary": "Real Madrid så lenge ut til å gå på en smell borte mot AEK Athen onsdag. Hjemmelaget ledet både 1–0 og 2-1, men gigantene fra Madrid kjempet seg tilbake og fikk med seg alle tre poengene tilbake til Spania etter at kaptein Federico Valverde scoret på overtid. ",
+      "date_label": "04.11.2026",
+      "timestamp": 1793821190
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Liverpool-smell i Tyrkia: – Hvor er Alisson!?",
+      "url": "https://www.nrk.no/sport/liverpool-smell-i-tyrkia_-_-hvor-er-alisson__-1.18073811",
+      "summary": "Liverpool fikk det nok en gang tøft i Tyrkia. På de siste seks kampene i landet sto rødtrøyene med fem tap og et uavgjortresultat før kampen mot Fenerbahçe onsdag. Etter 25 minutter så det likevel lyst ut da Trey Nyoni scoret sitt første mål for klubben. Få mi",
+      "date_label": "04.11.2026",
+      "timestamp": 1793821147
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793821133
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Bråk i Ap i Arendal: Vedtok at partiet skal snu i skulesak",
+      "url": "https://www.nrk.no/sorlandet/partiet-samla-til-ekstraordinaert-arsmote---vil-snu-i-skulesak-1.18073982",
+      "summary": "Medlemmene i Arendal Ap vil instruere ordførar Robert Norli og resten av bystyregruppa til å stanse nedlegging av skular. Trass i at det er vedteke i bystyret.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793820822
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Verdens helseorganisasjon godkjenner testing av ebola-vaksiner",
+      "url": "https://www.nrk.no/nyheter/verdens-helseorganisasjon-godkjenner-testing-av-ebola-vaksiner-1.18073970",
+      "summary": "Kunngjøringen kommer mens et stort utbrudd av ebola sprer seg i Kongo og noen av nabolandene. Minst 5300 mennesker har hittil dødd i epidemien. De nye vaksinene er utviklet spesifikt mot Bundibugyo-varianten av ebola, som er den som herjer i Afrika. Den ene av",
+      "date_label": "04.11.2026",
+      "timestamp": 1793820441
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Utleiehytte blåste på havet - ber om full frifinnelse i retten",
+      "url": "https://www.nrk.no/video/DKNO98110426",
+      "summary": "",
+      "date_label": "04.11.2026",
+      "timestamp": 1793817976
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Se Nordnytt: Bråk i Loppa kommune",
+      "url": "https://www.nrk.no/video/DKTR98110426",
+      "summary": "",
+      "date_label": "04.11.2026",
+      "timestamp": 1793817895
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Testar korleis den nye helsereforma kan sjå ut: – Ei lita legevakt på hjul",
+      "url": "https://www.nrk.no/tromsogfinnmark/senja-kommune-er-allereie-i-gang-med-samarbeidet-som-den-nye-helsereforma-legg-opp-til-1.18072086",
+      "summary": "Sjukehus og kommunar skal samarbeide tettare for å gi folk behandling nærare heimen, ifølge nye forslag. Fleire kommunar er allereie i gang med pilotprosjekt.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793817805
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "TV-nyheter: Ansatte ved brannstasjon frykter for helsa",
+      "url": "https://www.nrk.no/video/DKSL98110426",
+      "summary": "",
+      "date_label": "04.11.2026",
+      "timestamp": 1793817525
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trump: Iran-krigen er verdt det, til tross for valgnederlaget",
+      "url": "https://www.nrk.no/nyheter/trump_-iran-krigen-er-verdt-det_-til-tross-for-valgnederlaget-1.18073924",
+      "summary": "– Det stemmer i stor grad at Iran-krigen førte til at vi tapte valget, sa presidenten på en pressekonferanse onsdag. – Det med Iran var noe vi måtte gjøre, Det er verdt det, og vi fortsetter å gjøre det, sa han også. Han sa at USA vil sende flere skip til Iran",
+      "date_label": "04.11.2026",
+      "timestamp": 1793816720
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Midtnytt: Julehandelen er i gang",
+      "url": "https://www.nrk.no/video/DKTL98110426",
+      "summary": "",
+      "date_label": "04.11.2026",
+      "timestamp": 1793816694
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Håkon Lie serverer kveldens oppdatering",
+      "url": "https://www.nrk.no/video/DKVT98110426",
+      "summary": "",
+      "date_label": "04.11.2026",
+      "timestamp": 1793816218
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Widerøe-fly til Mo i Rana fikk ikke ut landingshjul – måtte lande i Bodø",
+      "url": "https://www.nrk.no/nordland/wideroe-fly-fra-trondheim-skulle-til-mo-i-rana-_-ma-lande-i-bodo-1.18073946",
+      "summary": "Bodø lufthavn satte full beredskap. Flyet klarte likevel å lande som normalt onsdag kveld.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793815370
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793815291
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Holmestrand-mann tiltalt for mishandling av samboer og barn over flere år",
+      "url": "https://www.jarlsbergavis.no/holmestrand-mann-tiltalt-for-mishandling-av-samboer-og-barn-over-flere-ar/s/80-26-11825",
+      "summary": "En mann bosatt i Holmestrand er tiltalt for å ha mishandlet samboeren og to barn i nære relasjoner. Ifølge tiltalen skal det ha pågått i flere år.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793815200
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Widerøe-fly fikk ikke ut landingshjul – Bodø lufthavn i full beredskap",
+      "url": "https://www.nrk.no/nordland/-wideroe-fly-fikk-ikke-ut-landingshjul-_-bodo-lufthavn-i-full-beredskap-1.18073786",
+      "summary": "Et Widerøe-fly fra Trondheim skulle lande i Mo i Rana onsdag kveld, men måtte i stedet lande i Bodø. Årsaken er at flyet først ikke fikk ut landingshjulet sitt, bekrefter Avinor og Widerøe til NRK. – Det stemmer at det er et Widerøe-fly som flyr til Bodø for å",
+      "date_label": "04.11.2026",
+      "timestamp": 1793814959
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Mor og datter funnet døde i Canada – mistenker grizzlybjørnangrep",
+      "url": "https://www.nrk.no/nyheter/mor-og-datter-funnet-dode-i-canada-_-mistenker-grizzlybjornangrep-1.18073920",
+      "summary": "– Det er foreløpig ikke klart om mer enn én bjørn har vært involvert, heter det i en uttalelse fra naturoppsynstjenesten i British Columbia sent tirsdag kveld. Moren og datteren hadde gått tur i nærheten av hjemmet sitt i Bella Coola. Familien meldte dem savne",
+      "date_label": "04.11.2026",
+      "timestamp": 1793814450
     },
     {
       "source": "NRK Siste",
@@ -41,16 +281,6 @@
       "summary": "",
       "date_label": "04.11.2026",
       "timestamp": 1793813086
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793812889
     },
     {
       "source": "Jarlsberg Avis",
@@ -81,16 +311,6 @@
       "summary": "",
       "date_label": "04.11.2026",
       "timestamp": 1793811814
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793811764
     },
     {
       "source": "Sande Avis",
@@ -206,9 +426,9 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Skjebnekveld for Gjerpen: – Frykter litt at jeg står arbeidsledig i kveld",
+      "title": "Skjebnedager for Gjerpen: – Frykter litt at jeg står arbeidsledig i kveld",
       "url": "https://www.nrk.no/vestfoldogtelemark/gjerpen-handball-trues-med-konkurs-1.18073652",
-      "summary": "Onsdag kveld avgjøres framtiden til Gjerpen Håndball.",
+      "summary": "Onsdag kveld skulle framtiden til Gjerpen Håndball avgjøres. Men styret klarte ikke å bestemme seg.",
       "date_label": "04.11.2026",
       "timestamp": 1793808395
     },
@@ -231,16 +451,6 @@
       "summary": "Det skriver visepresidenten i et langt innlegg på X. «Det kommer til å bli mye intern strid og krangling om hva som skjedde og hvorfor. En av meningsmålerne jeg virkelig respekterer, sa til meg at det økonomiske budskapet vårt ikke var spisset nok i innspurten",
       "date_label": "04.11.2026",
       "timestamp": 1793807639
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793807497
     },
     {
       "source": "NRK Norge",
@@ -311,16 +521,6 @@
       "summary": "Johnson sa dette til staben sin i onsdag morgen, amerikansk tid, skriver CNN. Også AP og Reuters erfarer det samme. Johnson har vært speaker i Representantenes hus siden 2023.",
       "date_label": "04.11.2026",
       "timestamp": 1793805849
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793805194
     },
     {
       "source": "NRK Norge",
@@ -3801,206 +4001,6 @@
       "summary": "36 ferdigbehandlede pasienter blir liggende på Universitetssykehuset Nord-Norge (UNN) i påvente av et kommunalt tilbud.",
       "date_label": "02.11.2026",
       "timestamp": 1793599783
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793599534
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Superstjerne med guffen oppdagelse: – Glad for å være i live",
-      "url": "https://www.nrk.no/sport/superstjerne-med-guffen-oppdagelse_-_-glad-for-a-vaere-i-live-1.18070896",
-      "summary": "Tadej Pogacar (28) pådro seg flere bruddskader enn først antatt i krasjen i Vuelta a España. Det forteller sloveneren i et intervju med The Athletic. – For to uker siden var jeg i Slovenia, der jeg tok en ny CT-undersøkelse. Jeg visste at jeg hadde et brudd i ",
-      "date_label": "02.11.2026",
-      "timestamp": 1793599466
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793599254
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ålesund kommune går til sak mot staten",
-      "url": "https://www.nrk.no/mr/alesund-kommune-gar-til-sak-mot-staten-1.18070906",
-      "summary": "I dag startar ei rettssak mellom Ålesund kommune og Helse- og omsorgsdepartementet i Sunnmøre tingrett. Kommunen nektar å betale millionutgifter til pass og pleie for ein sterkt pleietrengande mann som kom flyttande. Pengestriden har halde på i fleire år, og d",
-      "date_label": "02.11.2026",
-      "timestamp": 1793598878
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Messi matchvinner da Inter Miami tok viktig seier",
-      "url": "https://www.nrk.no/sport/messi-matchvinner-da-inter-miami-tok-viktig-seier-1.18070893",
-      "summary": "Lionel Messi scoret vinnermålet og sendte Inter Miami opp på andreplass i den østlige avdelingen med 2-1-seier borte mot New England Revolution. Dániel Gazdag ga New England ledelsen tidlig i andre omgang i kampen søndag kveld, men et kvarter senere slo Miami ",
-      "date_label": "02.11.2026",
-      "timestamp": 1793596257
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Stor Ventura-opptur i Mexico – inne på viktig liste",
-      "url": "https://www.nrk.no/sport/stor-ventura-opptur-i-mexico-_-inne-pa-viktig-liste-1.18070887",
-      "summary": "Kristoffer Venturas knallsterke prestasjon i Mexico kan ha sikret ham spillerettigheter på PGA-touren i 2027. Den norske golfprofilen gikk den siste runden på åtte slag under par og endte på delt andreplass på 20 slag under par totalt. Det gir 76.-plass på ses",
-      "date_label": "02.11.2026",
-      "timestamp": 1793596199
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Stortingsforslag kan stanse datasentre – ordførere frykter tap av arbeidsplasser",
-      "url": "https://www.nrk.no/vestfoldogtelemark/stortingsforslag-kan-stanse-datasentre-_-ordforere-frykter-tap-av-arbeidsplasser-1.18070882",
-      "summary": "Mange arbeidsplasser vil forsvinne i Fyresdal dersom det blir stopp i utbyggingen av det store datasenteret i kommunen. Det sier ordfører Erik Skjervagen fra Arbeiderpartiet. Rødt foreslår i Stortinget i morgen en midlertidig stans i etableringen av nye datase",
-      "date_label": "02.11.2026",
-      "timestamp": 1793594847
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Avføringsbanken i Harstad mangler donorer: – Håper flere melder seg",
-      "url": "https://www.nrk.no/tromsogfinnmark/avforingsbanken-i-harstad-mangler-donorer_-_-haper-flere-melder-seg-1.18065785",
-      "summary": "Avføringsbanken i Harstad mangler donorer. Behandlingen hjelper pasienter med tarminfeksjon. – Behandlingen var ubehagelig, men verdt det, sier Mette J. Dischington.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793594682
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-      "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793594400
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Milliongjeld og underskudd – nå er sjokoladebedriften konkurs",
-      "url": "https://www.jarlsbergavis.no/milliongjeld-og-underskudd-na-er-sjokoladebedriften-konkurs/s/80-26-10652",
-      "summary": "Sjokoladebedriften Odin Chocolate AS i Hof har meldt oppbud. Advokat Thor Tidemann Bjønnes i Tønsberg er oppnevnt som bostyrer.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793593800
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Trump makes final campaign push in final weekend before election",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793592268
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-      "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793591918
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Minst 12 utlendinger døde i togulykken i Spania",
-      "url": "https://www.nrk.no/nyheter/minst-12-utlendinger-dode-i-togulykken-i-spania-1.18070859",
-      "summary": "Til sammen er 12 utlendinger bekreftet omkommet i togulykken i Spania 28. oktober. Det opplyser spanske myndigheter, melder nyhetsbyrået AFP. Blant de 66 omkomne som er identifisert, er 12 utlendinger. Fire av dem var fra USA. De andre var fra Canada, Japan, A",
-      "date_label": "02.11.2026",
-      "timestamp": 1793591366
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Overvåkingssenter: Tankskip truffet i Persiabukta",
-      "url": "https://www.nrk.no/nyheter/-overvakingssenter_-tankskip-truffet-i-persiabukta-1.18070858",
-      "summary": "Et tankskip i Persiabukta er truffet av to prosjektiler, opplyser det britiske senteret for maritim sikkerhet (UKMTO). Alle om bord på skipet er gjort rede for, og det har ikke kommet meldinger om utslipp. Hendelsen skal ha skjedd rundt 72 nautiske mil øst for",
-      "date_label": "02.11.2026",
-      "timestamp": 1793588281
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Fiskekroken 9 solgt for 7,8 millioner - disse boligene ble solgt i oktober",
-      "url": "https://www.sandeavis.no/fiskekroken-9-solgt-for-7-8-millioner-disse-boligene-ble-solgt-i-oktober/f/80-72-5454",
-      "summary": "Disse eiendommene fikk nye eiere i oktober.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793584800
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Russland: – Cyberangrep mot app",
-      "url": "https://www.nrk.no/nyheter/russland_-_-cyberangrep-mot-app-1.18070856",
-      "summary": "En mobilapp til russiske myndigheter er blitt utsatt for et cyberangrep, melder det statskontrollerte nyhetsbyrået TASS. Angrepet skal ha ført til at misvisende opplysninger ble videreformidlet til offentligheten, ifølge myndighetene. Meldingen kommer få timer",
-      "date_label": "02.11.2026",
-      "timestamp": 1793584544
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793583942
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793582307
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ikke opplysninger om omkomne på bakken etter flystyrt",
-      "url": "https://www.nrk.no/nyheter/ikke-opplysninger-om-omkomne-pa-bakken-etter-flystyrt-1.18070855",
-      "summary": "Det er foreløpig ikke tegn til at noen på bakken ble rammet i flystyrten i Palm Beach. Det sier guvernøren i Florida, Ron DeSantis. Ni mennesker, som alle var om bord i flyet, døde i flystyrten søndag. Flyet styrtet i bakken i en bratt vinkel, med svært stor h",
-      "date_label": "02.11.2026",
-      "timestamp": 1793580488
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Democrats have high hopes for midterms - but are the polls right?",
-      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793579112
     }
   ]
 }
