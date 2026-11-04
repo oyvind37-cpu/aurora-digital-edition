@@ -1,7 +1,187 @@
 {
-  "updated": "2026-11-03T22:22:16Z",
+  "updated": "2026-11-04T02:39:02Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "To savnet etter brann i fabrikk i Taiwan",
+      "url": "https://www.nrk.no/nyheter/to-savnet-etter-brann-i-fabrikk-i-taiwan-1.18072945",
+      "summary": "Fem personer er skadd og to er savnet etter en brann ved en av elektronikkselskapet Panasonics fabrikker i Taiwan. Det opplyser lokale myndigheter onsdag morgen, ifølge Reuters. Brannen brøt ut tidlig onsdag morgen, og redningsmannskaper jobber nå på stedet.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793759747
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Decision Desk: Demokratene får flertall i Representantenes hus",
+      "url": "https://www.nrk.no/nyheter/decision-desk_-demokratene-far-flertall-i-representantenes-hus-1.18072938",
+      "summary": "Analysebyrået Decision Desk HQ fast at Demokratene får flertall i Representantenes hus. Hvem som får flertall i Senatet er fortsatt ikke klart. Før valget hadde Republikanerne et syltynt flertall på 218 av 435 mandater i Representantenes hus. I Huset er alle s",
+      "date_label": "04.11.2026",
+      "timestamp": 1793758831
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Demokratene vinner guvernørvalget i Georgia",
+      "url": "https://www.nrk.no/nyheter/demokratene-vinner-guvernorvalget-i-georgia-1.18072942",
+      "summary": "Demokraten Keisha Lance Bottoms vinner guvernørvalget i den amerikanske delstaten Georgia, melder NBC News. Den tidligere Atlanta-ordføreren slo den republikanske kandidaten, milliardæren Rick Jackson. Seieren gjør at Demokratene overtar guvernørmakten i delst",
+      "date_label": "04.11.2026",
+      "timestamp": 1793758429
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Ap-smell i ny måling: – Dette er vi selvfølgelig ikke fornøyd med",
+      "url": "https://www.sandeavis.no/ap-smell-i-ny-maling-dette-er-vi-selvfolgelig-ikke-fornoyd-med/s/80-72-6149",
+      "summary": "– Det viktigste for oss er hvilken politikk som skal føres, og hva som er best for innbyggerne i kommunen.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793757600
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793756166
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Demokratene kaprer senatsplass i Nord-Carolina",
+      "url": "https://www.nrk.no/nyheter/demokratene-kaprer-senatsplass-i-nord-carolina-1.18072934",
+      "summary": "Demokraten Roy Cooper vinner kampen om en plass i Senatet for delstaten Nord-Carolina, melder NBC News og CNN. Cooper slo republikaneren Michael Whatley. Seieren betyr at Demokratene overtar et mandat som Republikanerne tidligere har hatt, etter at den republi",
+      "date_label": "04.11.2026",
+      "timestamp": 1793755631
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Én person til sykehus etter brann i Hamar",
+      "url": "https://www.nrk.no/nyheter/en-person-til-sykehus-etter-brann-i-hamar-1.18072929",
+      "summary": "Det brenner natt til onsdag i andre etasje i en firemannsbolig i Hamar. Totalt 13 personer er registrert på adressen. Alle er gjort rede for. – Det pågår røykdykking og slukkearbeid. Én person er kjørt til Hamar sykehus, opplyser operasjonsleder Haagen Løvseth",
+      "date_label": "04.11.2026",
+      "timestamp": 1793753830
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trump: USA har ingen umiddelbare planer om å angripe Iran",
+      "url": "https://www.nrk.no/nyheter/trump_-usa-har-ingen-umiddelbare-planer-om-a-angripe-iran-1.18072919",
+      "summary": "– USA har ingen umiddelbare planer om å angripe Iran, sier president Donald Trump i et intervju med Financial Times. Han antyder at han er tilfreds med situasjonen i konflikten. – Det ser ut til at vi får alt vi vil ha, sier Trump i det seks minutter lange tel",
+      "date_label": "04.11.2026",
+      "timestamp": 1793751218
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793750975
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "date_label": "04.11.2026",
+      "timestamp": 1793750675
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793750599
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "summary": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793750597
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793750316
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Velgere bekymret for økte kostnader",
+      "url": "https://www.nrk.no/nyheter/velgere-bekymret-for-okte-kostnader-1.18072913",
+      "summary": "De økte levekostnadene har stor betydning for velgerne, viser en meningsmåling hos CNN, Flere enn fire av ti mener familiens situasjon er verre enn for to år siden. To av ti sier den er bedre, mens resten sier situasjonen er lik.",
+      "date_label": "04.11.2026",
+      "timestamp": 1793748288
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Carney: Russiske spillere utestenges fra junior-VM i ishockey i Canada",
+      "url": "https://www.nrk.no/sport/carney_-russiske-spillere-utestenges-fra-junior-vm-i-ishockey-i-canada-1.18072895",
+      "summary": "Russland og Belarus ikke får delta i junior-VM i ishockey som starter i Canada i romjula. Det sier Canadas statsminister Mark Carney. Han opplyser også at Canada vil nekte visum til russiske og belaruske spillere. – Så lenge Russland og Belarus støtter denne u",
+      "date_label": "04.11.2026",
+      "timestamp": 1793747793
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Visumnekt for russiske spillere i junior-VM",
+      "url": "https://www.nrk.no/nyheter/visumnekt-for-russiske-spillere-i-junior-vm-1.18072911",
+      "summary": "Russland og Belarus får likevel ikke delta i junior-VM i ishockey i Canada i romjula. Canadas statsminister Mark Carney gjør det klart at spillerne nektes visum, melder den kanadiske rikskringkasteren CBC. Beslutningen kommer til tross for at Idrettens voldgif",
+      "date_label": "04.11.2026",
+      "timestamp": 1793747616
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "De første valglokalene stenger",
+      "url": "https://www.nrk.no/nyheter/de-forste-valglokalene-stenger-1.18072909",
+      "summary": "Valglokalene er nå stengt i Indiana og Kentucky (bildet). De spennende vippestatene South Carolina og Ohio stenger henholdsvis klokken 01 og 02. Stemmerettsgrupper melder at valgdagen forløper normalt over hele landet. Det var på forhånd bekymring knyttet til ",
+      "date_label": "04.11.2026",
+      "timestamp": 1793746921
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Brann i tomannsbolig i Tromsø",
+      "url": "https://www.nrk.no/nyheter/brann-i-tomannsbolig-i-tromso-1.18072900",
+      "summary": "Nødetatene rykket like før midnatt tirsdag kveld ut til Tromsdalen i Tromsø etter melding om brann i en tomannsbolig. – Alle personer med tilhold i bygget skal ifølge våre meldinger ha kommet seg ut. Det er pr. nå ikke meldt om at noen er skadet, opplyser oper",
+      "date_label": "04.11.2026",
+      "timestamp": 1793746900
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -10,7 +190,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
       "date_label": "03.11.2026",
-      "timestamp": 1793743449
+      "timestamp": 1793745959
     },
     {
       "source": "NRK Siste",
@@ -46,9 +226,9 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Tafatt Bodø/Glimt skuffet: – De får ikke til noen ting",
+      "title": "Tafatt Bodø/Glimt: – De får ikke til noen ting",
       "url": "https://www.nrk.no/sport/mesterligaen_-tafatt-bodo_glimt-tok-ett-poeng-mot-lille-1.18072822",
-      "summary": "Glimt var stort sett ett nummer for små mot Lille i førsteomgang. Andreomgangen var det imidlertid høyere nivå på.",
+      "summary": "Glimt var stort sett et par nummer for små mot Lille i førsteomgang. Litt flate batterier, tror kapteinen.",
       "date_label": "03.11.2026",
       "timestamp": 1793742528
     },
@@ -638,7 +818,7 @@
       "topic": "verden",
       "title": "Mining giant joins fight to stop killer toad march across Australia",
       "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
       "date_label": "03.11.2026",
       "timestamp": 1793718301
     },
@@ -3821,186 +4001,6 @@
       "summary": "Ein tidlegare avdelingsdirektør i ein bydel i Oslo er tiltalt for grov økonomisk utruskap etter at nærmare 2,6 millionar kronar blei utbetalt frå Oslo kommune til eit privat selskap, skriv NTB. Utbetalingane skal ha skjedd frå 29. oktober 2018 til 13. mai 2021",
       "date_label": "01.11.2026",
       "timestamp": 1793516991
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793516455
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-      "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793513037
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Fire omkom i oktobertrafikken – laveste antall registrert",
-      "url": "https://www.nrk.no/nyheter/fire-omkom-i-oktobertrafikken-_-laveste-antall-registrert-1.18070370",
-      "summary": "Det er fem færre enn i samme måned i fjor, og det laveste antallet som er registrert i måneden oktober. Hittil i år har 98 personer mistet livet i trafikken, mot 93 på samme tid i fjor, viser foreløpige tall fra Statens vegvesen. – Det er positivt at det er få",
-      "date_label": "01.11.2026",
-      "timestamp": 1793512634
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "FN-ansatt i Jemen er død",
-      "url": "https://www.nrk.no/nyheter/fn-ansatt-i-jemen-er-dod-1.18070367",
-      "summary": "En FN-ansatt i Jemen er død etter å ha vært tatt til fange av houthi-militsen. Det sier FN. Mohammad el Shami har vært i gruppens varetekt siden juni 2024. Familien har ikke fått noe informasjon om hva som var årsaken til dødsfallet eller omstendighetene rundt",
-      "date_label": "01.11.2026",
-      "timestamp": 1793510915
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793510762
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Trumps milliardsøksmål mot WSJ er avvist",
-      "url": "https://www.nrk.no/nyheter/trumps-milliardsoksmal-mot-wsj-er-avvist-1.18070365",
-      "summary": "En føderal dommer har avvist Donald Trumps søksmål mot The Wall Street Journal om et brev Trump skal ha sendt til Jeffrey Epstein. Presidenten krevde 10 milliarder dollar. Dommer Darrin Gayles i Miami mener Trump «griper etter halmstrå» og forsøker å konstruer",
-      "date_label": "01.11.2026",
-      "timestamp": 1793507658
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "To vikingvåpen dukket opp – kan stamme fra gravfunn",
-      "url": "https://www.jarlsbergavis.no/to-vikingvapen-dukket-opp-kan-stamme-fra-gravfunn/s/80-26-10886",
-      "summary": "To vikingvåpen fra området rundt Hem er blant de siste gjenstandene som er levert inn til Hof Historielags kulturminneprosjekt.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793507400
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Trump: – Bolsonaro kan bli så lenge han vil",
-      "url": "https://www.nrk.no/nyheter/trump_-_-bolsonaro-kan-bli-sa-lenge-han-vil-1.18070361",
-      "summary": "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil». Det sier president Donald Trump til journalister på en halloweenfest i Mar-a-Lago i Florida natt til søndag. Bolsonaro",
-      "date_label": "01.11.2026",
-      "timestamp": 1793504680
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Bergen: To menn til legevakt etter fallulykke",
-      "url": "https://www.nrk.no/nyheter/bergen_-to-menn-til-legevakt-etter-fallulykke-1.18070359",
-      "summary": "To unge menn er sendt til legevakt etter en fallulykke i Sædalen i Bergen natt til søndag. – Det var ikke alvorlige skader. De ble tatt med på legevakten for en sjekk, men begge to fremsto uskadet, sier operasjonsleder Tatjana Knappen i Vest politidistrikt til",
-      "date_label": "01.11.2026",
-      "timestamp": 1793501036
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Ekteparet må være tilgjengelige døgnet rundt: – Medmennesker i en vanskelig tid",
-      "url": "https://www.sandeavis.no/ekteparet-ma-vare-tilgjengelige-dognet-rundt-medmennesker-i-en-vanskelig-tid/f/80-72-5675",
-      "summary": "Hege og Jan Kristian Hverven har drevet begravelsesbyrå i fem år og har ingen planer om å gi seg.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793498400
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "36 migranter reddet fra drivende båt utenfor Nederland",
-      "url": "https://www.nrk.no/nyheter/36-migranter-reddet-fra-drivende-bat-utenfor-nederland-1.18070358",
-      "summary": "Nederlandske myndigheter reddet lørdag 36 migranter fra en drivende gummibåt utenfor landets sørkyst. To menn er pågrepet, mistenkt for menneskesmugling. Båten ble funnet utenfor Breskens, som ligger på den andre siden av Nordsjøen fra Storbritannia. Det er fo",
-      "date_label": "01.11.2026",
-      "timestamp": 1793497508
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793497046
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793494506
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793493972
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793493684
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793492853
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Tenåring påkjørt av elsparkesyklist – sendt til sykehus",
-      "url": "https://www.nrk.no/nyheter/tenaring-pakjort-av-elsparkesyklist-_-sendt-til-sykehus-1.18070349",
-      "summary": "En ung mann er sendt til sykehus etter at han ble påkjørt av en elsparkesyklist i Fredrikstad, opplyser Øst politidistrikt. Mannen er i slutten av tenårene. Han skal ha vært bevisstløs i lengre tid etter hendelsen, men skal senere ha våknet igjen. Han ble send",
-      "date_label": "01.11.2026",
-      "timestamp": 1793492301
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
-      "date_label": "01.11.2026",
-      "timestamp": 1793492225
     }
   ]
 }
