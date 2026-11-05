@@ -1,7 +1,87 @@
 {
-  "updated": "2026-11-04T23:33:48Z",
+  "updated": "2026-11-05T03:41:24Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Demokratiaktivist dømt til ti års fengsel i Hongkong",
+      "url": "https://www.nrk.no/nyheter/demokratiaktivist-domt-til-ti-ars-fengsel-i-hongkong-1.18074104",
+      "summary": "Joshua Wong er dømt til ti års fengsel i en domstol i Hongkong for å ha samarbeidet med krefter i utlandet, noe som rammes av byens strenge sikkerhetslov. Det melder Reuters. 30-åringen har i mange år vært en av de mest kjente lederne for kampen for mer demokr",
+      "date_label": "05.11.2026",
+      "timestamp": 1793848333
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Rachel (50) flyttet godterisuksessen fra turistgryta til en garasje",
+      "url": "https://www.sandeavis.no/rachel-50-flyttet-godterisuksessen-fra-turistgryta-til-en-garasje/s/80-57-50998",
+      "summary": "Dropskokingen tok av på TikTok, men stresset tok overhånd. Nå har Rachel åpnet drømmebutikken hjemme i skogen.",
+      "date_label": "05.11.2026",
+      "timestamp": 1793847000
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Politiet etterforsker dødsfallet til Bayerns visestatsminister",
+      "url": "https://www.nrk.no/nyheter/politiet-etterforsker-dodsfallet-til-bayerns-visestatsminister-1.18074101",
+      "summary": "Tysk politi etterforsker det brå dødsfallet til Hubert Aiwanger, visestatsminister i delstaten Bayern. Han ble funnet død på et hotellrom i Berlin. 55-åringen ble funnet død onsdag. – Formålet med etterforskningen er å fastslå den konkrete dødsårsaken og omste",
+      "date_label": "05.11.2026",
+      "timestamp": 1793845012
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Ønsker å skape folkefest: – Det er kjempestort",
+      "url": "https://www.sandeavis.no/onsker-a-skape-folkefest-det-er-kjempestort/s/80-72-6095",
+      "summary": "– Vi prøver å involvere mange i klubben slik at dette skal bli en god opplevelse for alle, sier treneren.",
+      "date_label": "05.11.2026",
+      "timestamp": 1793844000
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fagforeningen NTL bytter navn til Forent",
+      "url": "https://www.nrk.no/nyheter/fagforeningen-ntl-bytter-navn-til-forent-1.18074100",
+      "summary": "Fagforbundet Norsk Tjenestemannslag bytter navn til Forent etter nesten 80 år, opplyser forbundet i en pressemelding. Leder Kjersti Barsok forklarer at forbundet har endret seg mye siden 1947, og at mange medlemmer i dag jobber utenfor staten. Det nye navnet s",
+      "date_label": "05.11.2026",
+      "timestamp": 1793842954
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nord-Korea bekrefter nye raketttester",
+      "url": "https://www.nrk.no/nyheter/nord-korea-bekrefter-nye-raketttester-1.18074099",
+      "summary": "Nord-Korea bekrefter at landet har testet et nytt luftvernsystem og langtrekkende kryssermissiler, melder det statlige nordkoreanske nyhetsbyrået KCNA. Sør-Koreas militære opplyste onsdag at rakettene ble skutt ut mot Japanhavet, skriver NTB.",
+      "date_label": "05.11.2026",
+      "timestamp": 1793840679
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Australia's oldest department store David Jones folds after 188 years",
+      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+      "date_label": "05.11.2026",
+      "timestamp": 1793840362
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Interest rates expected to rise for first time in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+      "date_label": "05.11.2026",
+      "timestamp": 1793836809
+    },
     {
       "source": "BBC Business",
       "category": "okonomi",
@@ -3921,86 +4001,6 @@
       "summary": "Et to måneder gammelt spedbarn er blant de drepte, opplyser guvernøren i distriktet. Angrepet skjedde i Planadas, vest i Colombia, skriver nyhetsbyrået AFP.",
       "date_label": "02.11.2026",
       "timestamp": 1793602809
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "SV krever kraftige skatteøkninger",
-      "url": "https://www.nrk.no/nyheter/sv-krever-kraftige-skatteokninger-1.18070904",
-      "summary": "På fredag starter budsjettforhandlingene. I dag krever SV at skattene økes kraftig. – Det er greit at folk blir rike, men de må også bidra etter evne, sier Marthe Hammer, finanspolitisk tilsperson i SV. SV vil øke skattene med 25 mrd. kroner for de rikeste. Bl",
-      "date_label": "02.11.2026",
-      "timestamp": 1793602216
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kari døde på fjelltur – Høyesterett dropper å se på saken",
-      "url": "https://www.nrk.no/nordland/tok-ulykken-pa-higravtindan-til-hoyesterett.-fikk-avslag-1.18069573",
-      "summary": "Høyesterett avslår å behandle dødsulykken på Higravtindan. Bistandsadvokat Mette Yvonne Larsen mener likevel at saken har fått positive følger.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793601601
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Ruter: Årskort lønner seg ikke",
-      "url": "https://www.nrk.no/stor-oslo/ruter_-arskort-lonner-seg-ikke-1.18070934",
-      "summary": "Etter at prisen på månedskort ble satt ned 1. november, koster et årskort med Ruter like mye som 15 månedskort. – Så lenge prisene gjelder, lønner det seg derfor å kjøpe månedskort, skriver Ruter på sine nettsider. Ifølge kollektivselskapet er grunnen til at å",
-      "date_label": "02.11.2026",
-      "timestamp": 1793601280
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ny direktøravtale: Slutt på betaling av pendling og reisetid",
-      "url": "https://www.nrk.no/sapmi/ny-direktoravtale-klar_-slutt-pa-betaling-av-pendling-eller-reisetid-1.18066254",
-      "summary": "Ny sametingsdirektør, Kent Valio, får mindre betalt enn forgjengeren. Sametinget har fjernet alle tillegg for pendling og reisetid.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793600713
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Christmas donations gift demand up, charities say",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynrp0lg2yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Charities collecting Christmas presents for struggling families say demand has gone up.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793600568
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Christmas shoebox appeal launches to help children",
-      "url": "https://www.bbc.co.uk/news/articles/cv98zr5wxp21o?at_medium=RSS&at_campaign=rss",
-      "summary": "A gift-filled shoebox campaign launched for children who would otherwise go without this Christmas.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793600469
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kommunen vil ha flere som Karen og Martin",
-      "url": "https://www.nrk.no/innlandet/stange-kommune-vil-ha-flere-innbyggere-og-skal-auksjonere-bort-18-tomter-i-asbygda_-vallset-og-pa-es-1.18066961",
-      "summary": "Stange vil lokke flere til bygdene med billige tomter. Men er det nok til å få folk til å flytte?",
-      "date_label": "02.11.2026",
-      "timestamp": 1793600226
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Pasientkø: UNN og Tromsø kommune uenige om utskrivningsklare pasienter",
-      "url": "https://www.nrk.no/tromsogfinnmark/pasientko_-unn-og-tromso-kommune-uenige-om-utskrivingsklare-pasienter-1.18069324",
-      "summary": "36 ferdigbehandlede pasienter blir liggende på Universitetssykehuset Nord-Norge (UNN) i påvente av et kommunalt tilbud.",
-      "date_label": "02.11.2026",
-      "timestamp": 1793599783
     }
   ]
 }
