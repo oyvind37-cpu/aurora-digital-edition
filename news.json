@@ -1,7 +1,97 @@
 {
-  "updated": "2026-11-07T00:26:13Z",
+  "updated": "2026-11-07T06:30:06Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Mustafa (33) tapte 18 biler i flom: – Vi ble reddet ved et mirakel",
+      "url": "https://www.jarlsbergavis.no/mustafa-33-tapte-18-biler-i-flom-vi-ble-reddet-ved-et-mirakel/s/5-26-639386",
+      "summary": "Bruktbilhandler Mustafa Sharifi (33) ble rammet av uværet «Amy» lørdag 4. oktober i fjor. 18 personbiler ble totalskadet. For to måneder siden flyttet han forretningen til Bentsrud. Selskapet overlevde, uten ei krone i forsikringsoppgjør.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794025800
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trump bekrefter nye angrep mot iransk øy",
+      "url": "https://www.nrk.no/nyheter/trump-bekrefter-nye-angrep-mot-iransk-oy-1.18076273",
+      "summary": "USA har gjennomført nye angrep mot Iran. Det opplyser president Donald Trump til journalister. Ifølge Trump slo amerikanske styrker ut et lite iransk luftvernanlegg. Han sier angrepet varte en kort periode, melder NTB. Samtidig melder iranske medier at Iran ha",
+      "date_label": "07.11.2026",
+      "timestamp": 1794023564
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794021900
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "USA utlover dusør for info om Irans atomprogram",
+      "url": "https://www.nrk.no/nyheter/usa-utlover-dusor-for-info-om-irans-atomprogram-1.18076282",
+      "summary": "Det amerikanske utenriksdepartementet lokker med en dusør på 20 millioner dollar for informasjon om Irans atomprogram. Den som kommer med info, loves også «mulig relokalisering». Beløpet tilsvarer bortimot 190 millioner norske kroner. Det amerikanske militæret",
+      "date_label": "07.11.2026",
+      "timestamp": 1794018606
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Jeppe (19) blir leder for over 1.000 medlemmer: – En god del hobbyer satt til side",
+      "url": "https://www.sandeavis.no/jeppe-19-blir-leder-for-over-1-000-medlemmer-en-god-del-hobbyer-satt-til-side/s/80-72-6272",
+      "summary": "Sandesokningen vil ha unge AUF-ere inn i alle kommunestyrene ved neste valg.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794016800
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794015696
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Undersøker om brann i Kongsvinger kan være påsatt",
+      "url": "https://www.nrk.no/nyheter/undersoker-om-brann-i-kongsvinger-kan-vaere-pasatt-1.18076277",
+      "summary": "Politiet undersøker om brannen i en historisk bygning i Kongsvinger sent fredag kveld kan være påsatt. Det opplyser operasjonsleder Haagen Løvseth i Innlandet politidistrikt natt til lørdag. Slukkearbeidet pågår fortsatt og E16 vil trolig være stengt frem til ",
+      "date_label": "07.11.2026",
+      "timestamp": 1794015231
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794014867
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794014389
+    },
     {
       "source": "NRK Sport",
       "category": "sport",
@@ -13,6 +103,16 @@
       "timestamp": 1794009427
     },
     {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794008768
+    },
+    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -21,6 +121,16 @@
       "summary": "Paraguays president Santiago Peña er avsatt etter en riksrettssak, og visepresident Pedro Alliana har overtatt makten. Peña er nå pågrepet og satt i husarrest, ifølge lokale medier. Bakgrunnen for avsettelsen er kollapsen i en stor digitalbank som den tidliger",
       "date_label": "07.11.2026",
       "timestamp": 1794007650
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794007455
     },
     {
       "source": "NRK Siste",
@@ -3891,116 +4001,6 @@
       "summary": "UDI har besluttet å legge ned asylmottaket i Kvæfjord kommune i Troms. Det fører til at 15 ansatte mister jobben.",
       "date_label": "04.11.2026",
       "timestamp": 1793788150
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Boligprisene falt med 1 prosent i oktober",
-      "url": "https://www.nrk.no/nyheter/boligprisene-falt-med-1-prosent-i-oktober-1.18073195",
-      "summary": "Boligprisene i Norge falt med 1 prosent i oktober. Det kommer frem i ferske tall fra Eiendom Norge. Sesongjustert steg prisene med 0,1 prosent. – Det er normalt at boligprisene faller om høsten og i oktober i år var prisutviklingen svak i de fleste områdene i ",
-      "date_label": "04.11.2026",
-      "timestamp": 1793786415
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "How America voted in maps and charts",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793785998
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Johaug nominert til månedens europeiske friidrettsutøver",
-      "url": "https://www.nrk.no/sport/johaug-nominert-til-manedens-europeiske-friidrettsutover-1.18073316",
-      "summary": "Therese Johaug er blant de nominerte til utmerkelsen som månedens europeiske friidrettsutøver for oktober. Nominasjonen kommer etter seieren på 10 kilometer under Hytteplanmila der hun satte personlig beste med tida 30:51. Det europeiske friidrettsforbundet ha",
-      "date_label": "04.11.2026",
-      "timestamp": 1793785922
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Austbø fikk ny trener – Parker overtar West Ham",
-      "url": "https://www.nrk.no/sport/austbo-fikk-ny-trener-_-parker-overtar-west-ham-1.18073077",
-      "summary": "Scott Parker er ansatt som ny manager for Edvin Austbø og resten av spillerne i den engelske fotballklubben West Ham. London-klubben opplyser om ansettelsen onsdag. Parker erstatter portugisiske Nuno Espírito Santo, som tirsdag fikk sparken etter 13 spilte kam",
-      "date_label": "04.11.2026",
-      "timestamp": 1793785755
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Steinar Wangen anker drapsdom til Høyesterett",
-      "url": "https://www.nrk.no/vestfoldogtelemark/steinar-wangen-anker-drapsdom-til-hoyesterett-1.18073304",
-      "summary": "55-åringen, som i to rettsinstanser er dømt til 15 års forvaring for å ha drept en svensk kvinne i 2024, vil anke lagmannsrettsdommen til Høyesterett. Det jobbes nå med en ankeerklæring, opplyser forsvarer Gaute Nilsen til Moss Avis. Wangen har hele tiden nekt",
-      "date_label": "04.11.2026",
-      "timestamp": 1793785753
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Rekordhøy eksportverdi for norsk laks",
-      "url": "https://www.nrk.no/nordland/rekordhoy-eksportverdi-for-norsk-laks-1.18073129",
-      "summary": "Norge eksporterte laks til en verdi av 13 milliarder kroner i oktober. Samtidig faller den totale sjømateksporten.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793781999
-    },
-    {
-      "source": "NRK Kultur",
-      "category": "kultur",
-      "topic": "kultur",
-      "title": "Sigrid Bonde Tusvik er vinner av årets Boktober!",
-      "url": "https://www.nrk.no/artikkel/sigrid-bonde-tusvik-er-vinner-av-arets-boktober-1531245",
-      "summary": "– Jeg tror vi har scrollet oss ferdig. Nå kommer lesingen!",
-      "date_label": "04.11.2026",
-      "timestamp": 1793780548
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Arbeid med synkehull tar lengre tid enn antatt",
-      "url": "https://www.nrk.no/vestfoldogtelemark/arbeid-med-synkehull-tar-lengre-tid-enn-antatt-1.18073063",
-      "summary": "Synkehullet i Sandefjordsveien er større enn først antatt, opplyser Vestfold fylkeskommune. Hullet, som er rundt seks meter dypt og ble oppdaget natt til mandag, har oppstått fordi vann har vasket bort masser. Veien kommer til å være stengt i begge retninger f",
-      "date_label": "04.11.2026",
-      "timestamp": 1793779668
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Tears, celebrations and selfies: US midterms in pictures",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793779553
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Forsinkelser i togtrafikken på Østlandet",
-      "url": "https://www.nrk.no/stor-oslo/forsinkelser-i-togtrafikken-pa-ostlandet-1.18073133",
-      "summary": "Det er forsinkelser i togtrafikken i Oslo-området onsdag morgen. Det skyldes en feil på sporet mellom Lysaker og Stabekk. – Togene kjører med redusert hastighet, og forsinkelsene sprer seg til flere linjer, sier Olav Nordli, pressekontakt i Bane Nor. Ved 10-ti",
-      "date_label": "04.11.2026",
-      "timestamp": 1793778970
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793777978
     }
   ]
 }
