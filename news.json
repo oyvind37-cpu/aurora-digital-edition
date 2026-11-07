@@ -1,7 +1,127 @@
 {
-  "updated": "2026-11-06T20:49:54Z",
+  "updated": "2026-11-07T00:26:13Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Ruud fikk revansje i Paris – klar for første semifinale siden mai",
+      "url": "https://www.nrk.no/sport/ruud-fikk-revansje-i-paris-_-klar-for-forste-semifinale-siden-mai-1.18076278",
+      "summary": "Casper Ruud har storspilt i Paris denne uken. Nå er han klar for semifinale etter seier over Nuno Borges. Ruuds oppgjør mot portugiseren endte med 7-6 (7-5), 6-4. De to møttes for bare ni dager siden i Basel, og da snudde Borges kampen til seier. Ruud og Borge",
+      "date_label": "07.11.2026",
+      "timestamp": 1794009427
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Paraguays president avsatt og pågrepet",
+      "url": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275",
+      "summary": "Paraguays president Santiago Peña er avsatt etter en riksrettssak, og visepresident Pedro Alliana har overtatt makten. Peña er nå pågrepet og satt i husarrest, ifølge lokale medier. Bakgrunnen for avsettelsen er kollapsen i en stor digitalbank som den tidliger",
+      "date_label": "07.11.2026",
+      "timestamp": 1794007650
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Person til sykehus etter ulykke i Troms",
+      "url": "https://www.nrk.no/nyheter/person-til-sykehus-etter-ulykke-i-troms-1.18076203",
+      "summary": "En person er fraktet til sykehus med luftambulanse etter etter en trafikkulykke i Lyngen i Troms sent fredag kveld. Ifølge politiet satt det fire personer i bilen. De andre tre er fraktet til legevakt. Politiet opplyser at bilen skal ha kjørt av veien og rulle",
+      "date_label": "06.11.2026",
+      "timestamp": 1794005593
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Brann i historisk bygning i Kongsvinger",
+      "url": "https://www.nrk.no/artikkel/brann-i-historisk-bygning-i-kongsvinger-1532375",
+      "summary": "",
+      "date_label": "06.11.2026",
+      "timestamp": 1794004677
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Bygning har rast sammen i Brasil – flere titalls skadd",
+      "url": "https://www.nrk.no/nyheter/bygning-har-rast-sammen-i-brasil-_-flere-titalls-skadd-1.18076272",
+      "summary": "En fire etasjer høy bygning har rast sammen i millionbyen São Paulo i Brasil. Det melder den brasilianske TV-kanalen GloboNew, ifølge Reuters. Flere titalls personer skal være skadd etter ulykken fredag. Det er foreløpig ikke meldt om omkomne.",
+      "date_label": "06.11.2026",
+      "timestamp": 1794004395
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Barry-dobbel fikset Everton-seier",
+      "url": "https://www.nrk.no/sport/barry-dobbel-fikset-everton-seier-1.18076182",
+      "summary": "Coventry hadde ropt på to straffer og tatt ledelsen da Thierno Barry scoret to ganger og hjalp Everton til 3-1-seier i Premier League. Yann Gboho tuppet Coventry i ledelsen etter 52 minutter, men jubelen stilnet raskt. Barry utlignet få minutter senere med et ",
+      "date_label": "06.11.2026",
+      "timestamp": 1794002810
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "date_label": "06.11.2026",
+      "timestamp": 1794001790
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Brann i historisk bygning i Kongsvinger",
+      "url": "https://www.nrk.no/nyheter/brann-i-historisk-bygning-i-kongsvinger-1.18076202",
+      "summary": "Det brenner i den historiske bygningen Lunderbye Nor fra 1850-årene i Kongsvinger. – Vi har vært i kontakt med eier som bekrefter at huset er tomt, sier operasjonsleder Vidar Flokenes i Innlandet politidistrikt til NRK. E16 er stengt som følge av brannen.",
+      "date_label": "06.11.2026",
+      "timestamp": 1794001464
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Jonas Gahr Støre til G20-møtet i Miami",
+      "url": "https://www.nrk.no/nyheter/jonas-gahr-store-til-g20-motet-i-miami-1.18075859",
+      "summary": "Norges statsminister er invitert til G20-møtet i Miami, 14. og 15. desember. USA og president Donald Trump er vertskap for møtet, som samler de største økonomiene i verden. Arrangørlandet kan invitere gjesteland, og Norge skal også delta på årets møte. Norge h",
+      "date_label": "06.11.2026",
+      "timestamp": 1794000660
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Dømd til fengsel for kjøp og sal av sjeldne fugleegg",
+      "url": "https://www.nrk.no/mr/domd-til-fengsel-for-kjop-og-sal-av-sjeldne-fugleegg-1.18076193",
+      "summary": "",
+      "date_label": "06.11.2026",
+      "timestamp": 1793999852
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "date_label": "06.11.2026",
+      "timestamp": 1793999185
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Infantino-støtte fra Karibia – besøkte medlemsland",
+      "url": "https://www.nrk.no/sport/infantino-stotte-fra-karibia-_-besokte-medlemsland-1.18076082",
+      "summary": "Det karibiske fotballforbundet ønsker å se at Gianni Infantino fortsetter som Fifa-president. Det kommer fram i en uttalelse fredag. «Etter en formell hørings- og godkjenningsprosess som involverte medlemsforbundene, har de 25 CFU-medlemsforbundene som er tilk",
+      "date_label": "06.11.2026",
+      "timestamp": 1793998260
+    },
     {
       "source": "NRK Norge",
       "category": "norge",
@@ -23,16 +143,6 @@
       "timestamp": 1793995271
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "date_label": "06.11.2026",
-      "timestamp": 1793993830
-    },
-    {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
@@ -46,9 +156,9 @@
       "source": "NRK Kultur",
       "category": "kultur",
       "topic": "kultur",
-      "title": "Dette har skjedd på «P3 Gull» så langt",
+      "title": "«P3 Gull»: Fikk hederspris av Stoltenberg",
       "url": "https://www.nrk.no/artikkel/marstein-apna-ballet-1531107",
-      "summary": "Marstein åpnet sendingen.",
+      "summary": "Vinni vant «P3-prisen».",
       "date_label": "06.11.2026",
       "timestamp": 1793991827
     },
@@ -163,12 +273,22 @@
       "timestamp": 1793987858
     },
     {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "date_label": "06.11.2026",
+      "timestamp": 1793987042
+    },
+    {
       "source": "NRK Kultur",
       "category": "kultur",
       "topic": "kultur",
-      "title": "Se hvem som er på «P3 Gull»",
+      "title": "Se hvem som var på «P3 Gull»",
       "url": "https://www.nrk.no/artikkel/se-hvem-som-er-pa-p3-gull-2026-1531533",
-      "summary": "Kjendiser og artister strømmer til NRK Marienlyst for årets «P3 Gull». Se hvem som har ankommet den gule løperen her.",
+      "summary": "Kjendiser og artister strømmet til NRK Marienlyst for årets «P3 Gull». Se hvem som har gikk den gule løperen her.",
       "date_label": "06.11.2026",
       "timestamp": 1793986880
     },
@@ -191,6 +311,16 @@
       "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
       "date_label": "06.11.2026",
       "timestamp": 1793986555
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+      "date_label": "06.11.2026",
+      "timestamp": 1793985578
     },
     {
       "source": "NRK Oslo",
@@ -931,16 +1061,6 @@
       "summary": "Vålerenga opplyser fredag at de har sendt en forespørsel til Norges Fotballforbund om å utsette lørdagens kamp mot Kristiansund. Grunnen er et stort sykdomsutbrudd, skriver klubben på sine sider. – Vi har et pågående sykdomsutbrudd i spillergruppen. Av hensyn ",
       "date_label": "06.11.2026",
       "timestamp": 1793959732
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "date_label": "06.11.2026",
-      "timestamp": 1793959024
     },
     {
       "source": "NRK Siste",
@@ -3881,126 +4001,6 @@
       "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
       "date_label": "04.11.2026",
       "timestamp": 1793777978
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793775236
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Tenerife-spiller død etter hjertestans – spansk politi etterforsker saken",
-      "url": "https://www.nrk.no/sport/tenerife-spiller-dod-etter-hjertestans-_-spansk-politi-etterforsker-saken-1.18072997",
-      "summary": "Spansk politi har startet en etterforskning av situasjonen som førte til dødsfallet til Tenerife-spiller Jesús de Miguel (30), men det blir trolig ikke tatt ut tiltale i saken. De Miguel ble tirsdag morgen erklært død på sykehus etter å ha fått hjertestans i e",
-      "date_label": "04.11.2026",
-      "timestamp": 1793774576
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Forsinkelser på alle T-baner",
-      "url": "https://www.nrk.no/stor-oslo/forsinkelser-pa-alle-t-baner-1.18073057",
-      "summary": "Det er forsinkelser på alle linjer på T-banen i Oslo. Ifølge Ruters pressevakt skyldes dette en vekselfeil på Helsfyr. Feilen er nå rettet, opplyser Ruter kl. 07:35. Det vil fortsatt være følgeforsinkelser på opptil 20 minutter.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793773819
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Swim and gym prices set to rise above inflation",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793772799
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Tsjekkia slutter seg til Russland-boikott",
-      "url": "https://www.nrk.no/sport/tsjekkia-slutter-seg-til-russland-boikott-1.18073027",
-      "summary": "Tsjekkia og Latvia vil ikke møte opp til kamp dersom Russland får innpass i neste års ishockey-VM. Samtidig er tsjekkerne arrangør for et mesterskap allerede i januar. Dermed følger de initiativet de nordiske landene startet. Etter at Finland mandag bestemte s",
-      "date_label": "04.11.2026",
-      "timestamp": 1793771718
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Vingård fikk årets bedriftsutviklingspris",
-      "url": "https://www.nrk.no/vestfoldogtelemark/vingard-fikk-arets-bedriftsutviklingspris-1.18073006",
-      "summary": "Vingården Grubbestad Gård As i Sandefjord vant årets bedriftsutviklingspris i Vestfold. De får den for sitt nybrottsarbeid innen druedyrking, vinproduksjon og destinasjonsutvikling. Prisen deles ut av Innovasjon Norge og er på 50.000 kroner. Grubbestad gård er",
-      "date_label": "04.11.2026",
-      "timestamp": 1793771459
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Fv. 303 fortsatt stengt: Synkehullet var større enn antatt",
-      "url": "https://www.nrk.no/vestfoldogtelemark/fv.-303-fortsatt-stengt_-synkehullet-var-storre-enn-antatt-1.18072989",
-      "summary": "Fylkesvei 303 Sandefjordsveien er fortsatt stengt etter at det ble oppdaget et synkehull ved en midtrabatt mandag. Synkehullet er 3–4 meter dypt og fortsetter inn under veibanen. Arbeidet med å reparere synkehullet startet tirsdag kveld. Fylkeskommunen håpet å",
-      "date_label": "04.11.2026",
-      "timestamp": 1793768143
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Stort areal på Langøya rammet av utslipp: Anbefaler å la sementen ligge",
-      "url": "https://www.jarlsbergavis.no/stort-areal-pa-langoya-rammet-av-utslipp-anbefaler-a-la-forurensingen-ligge/s/80-26-11450",
-      "summary": "Politianmeldelsen ble henlagt, men Statsforvalteren har fulgt opp med å anbefale Noah å gjennomføre kompenserende tiltak på Langøya.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793766600
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Frivilligheten trenger mer enn fine ord",
-      "url": "https://www.jarlsbergavis.no/frivilligheten-trenger-mer-enn-fine-ord/o/80-26-10904",
-      "summary": "«Vi kan ikke ta frivilligheten som en selvfølge.»",
-      "date_label": "04.11.2026",
-      "timestamp": 1793766300
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Ble møtt av knuste ruter og hærverk: – Skuffelsen var stor",
-      "url": "https://www.sandeavis.no/ble-mott-av-knuste-ruter-og-harverk-skuffelsen-var-stor/s/80-57-45604",
-      "summary": "Flere biler ble utsatt for hærverk. Nå er Jens Boluri skuffet over politiets håndtering av saken.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793761200
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "To savnet etter brann i fabrikk i Taiwan",
-      "url": "https://www.nrk.no/nyheter/to-savnet-etter-brann-i-fabrikk-i-taiwan-1.18072945",
-      "summary": "Fem personer er skadd og to er savnet etter en brann ved en av elektronikkselskapet Panasonics fabrikker i Taiwan. Det opplyser lokale myndigheter onsdag morgen, ifølge Reuters. Brannen brøt ut tidlig onsdag morgen, og redningsmannskaper jobber nå på stedet.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793759747
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Decision Desk: Demokratene får flertall i Representantenes hus",
-      "url": "https://www.nrk.no/nyheter/decision-desk_-demokratene-far-flertall-i-representantenes-hus-1.18072938",
-      "summary": "Analysebyrået Decision Desk HQ fast at Demokratene får flertall i Representantenes hus. Hvem som får flertall i Senatet er fortsatt ikke klart. Før valget hadde Republikanerne et syltynt flertall på 218 av 435 mandater i Representantenes hus. I Huset er alle s",
-      "date_label": "04.11.2026",
-      "timestamp": 1793758831
     }
   ]
 }
