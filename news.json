@@ -1,7 +1,177 @@
 {
-  "updated": "2026-11-07T18:14:51Z",
+  "updated": "2026-11-07T21:58:52Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Rødt kort og høy temperatur da Real Madrid sikret komfortabel borteseier",
+      "url": "https://www.nrk.no/sport/rodt-kort-og-hoy-temperatur-da-real-madrid-sikret-komfortabel-borteseier-1.18076620",
+      "summary": "Kylian Mbappé scoret i sin sjuende strake kamp da Real Madrid sikret en overbevisende 3–0 seier borte mot Valencia lørdag kveld. Gjestene koblet et solid jerngrep om La Liga-oppgjøret litt over midtveis i den første omgangen. Nullen sprakk etter 27 minutter da",
+      "date_label": "07.11.2026",
+      "timestamp": 1794088670
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Dana White takker nei til å bli Trumps pressesekretær",
+      "url": "https://www.nrk.no/nyheter/dana-white-takker-nei-til-a-bli-trumps-pressesekretaer-1.18076663",
+      "summary": "President i kampsportforbundet UFC, Dana White, takker nei til tilbudet fra Donald Trump om å bli ny pressesekretær i Det hvite hus, melder Reuters. Jobben som pressetalsperson har vært ledig siden Katie Zacharia sa opp 16. oktober etter bare fem dager i jobbe",
+      "date_label": "07.11.2026",
+      "timestamp": 1794087737
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Ipswich Town's new club shop 'here to stay'",
+      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fans and players are delighted at the new \"activation space\" in the town centre.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794087632
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Can New Zealand's new government win over disillusioned voters?",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Polling shows the mood among Kiwis is low, with faith in politics even lower - with voters deserting the main parties at the polls.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794087376
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794086004
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Norris starter først i Brasil – massivt regnvær preget Formel 1-kvalifiseringen",
+      "url": "https://www.nrk.no/sport/norris-starter-forst-i-brasil-_-massivt-regnvaer-preget-formel-1-kvalifiseringen-1.18076600",
+      "summary": "McLaren-føreren Lando Norris var raskest i Formel 1-kvalifiseringen og starter fra pole position i São Paulo Grand Prix. Et voldsomt styrtregn førte til at den første kvalifiseringsrunden ble avbrutt i over én time. Da førerne fikk kjøre på banen igjen, var de",
+      "date_label": "07.11.2026",
+      "timestamp": 1794084668
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Tannlegestudentene kaster nesten bare plast: – Vi snakker om et overforbruk",
+      "url": "https://www.nrk.no/tromsogfinnmark/ny-studie-fra-tromso-og-bergen_-98-prosent-av-avfallet-hos-tannlegestudentene-er-plast-1.18076514",
+      "summary": "Den norske tannlegeforening sier dette er en utfordring de tar på alvor.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794084320
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Eisenkot får i oppdrag å danne regjering i Israel",
+      "url": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617",
+      "summary": "Israels president har gitt opposisjonsleder Gadi Eisenkot i oppdrag å prøve danne regjering. Hverken partiene som støtter statsminister Benjamin Netanyahu eller partiene som støtter Eisenkot fikk flertall ved valget 27. november. Netanyahus blokk fikk 53 plass",
+      "date_label": "07.11.2026",
+      "timestamp": 1794081804
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nytt luftvern på plass i Norge",
+      "url": "https://www.nrk.no/trondelag/nytt-luftvern-pa-plass-i-norge-1.18072101",
+      "summary": "Det har mulighet til å skyte ut tre ulike typer missiler samtidig, og skal gi bedre beskyttelse av landet.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794079507
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Paraguay's former president charged after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794079042
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Svensson-show senket Start: sørlendingene skimter stupet",
+      "url": "https://www.nrk.no/sport/svensson-show-senket-start_-sorlendingene-skimter-stupet--1.18076591",
+      "summary": "Jonas Svensson sto for både målgivende og scoring da medaljejagende Rosenborg feide over tabelljumboen Start. Vertene hadde kontroll på spillet i åpningsminuttene på Lerkendal, men slet med å få hull på byllen. Forløsningen kom like etter halvspilt førsteomgan",
+      "date_label": "07.11.2026",
+      "timestamp": 1794077619
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trump tilbyr Dana White jobben som pressetalsperson",
+      "url": "https://www.nrk.no/nyheter/trump-tilbyr-dana-white-jobben-som-pressetalsperson-1.18076605",
+      "summary": "President Donald Trump har tilbudt jobben som pressetalsperson for Det hvite hus til president i kampsportforbundet UFC, Dana White. Det skriver Trump på Truth Social. Jobben som pressetalsperson har vært ledig siden Katie Zacharia ble sagt opp 16. oktober ett",
+      "date_label": "07.11.2026",
+      "timestamp": 1794077206
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "I år får vi ei ekstra veke: – Blir fort konflikt av det",
+      "url": "https://www.nrk.no/nordland/veke-53-gjer-planlegging-vanskeleg-for-foreldre-med-delt-omsorg-1.18061571",
+      "summary": "Vanlegvis har året 52 veker, men ikkje i år. Det kan gje uante utfordringar for fleire.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794076972
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Norsk jubel i Champions League – Sola og Storhamar vant",
+      "url": "https://www.nrk.no/sport/norsk-jubel-i-champions-league-_-sola-og-storhamar-vant-1.18076613",
+      "summary": "Sola nedkjempet slovenske Krim 29-22 og tok sin andre strake seier i gruppespillet i Champions League. Storhamar vant i Danmark. Camilla Herrem og co. sto med fem strake tap i innledningen av puljespillet i den gjeve turneringen, men rekken stoppet da Sola for",
+      "date_label": "07.11.2026",
+      "timestamp": 1794076818
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Bergenser vitne til skytingen i Krakow: – Tydelig at det var noe dramatisk",
+      "url": "https://www.nrk.no/artikkel/minst-seks-dode-i-skyting-i-polen-1532407",
+      "summary": "",
+      "date_label": "07.11.2026",
+      "timestamp": 1794076581
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nye masseprotester i Frankrike",
+      "url": "https://www.nrk.no/nyheter/nye-masseprotester-i-frankrike-1.18076589",
+      "summary": "Tusener av mennesker protesterte over hele Frankrike igjen lørdag. Men myndighetene sier at antallet som er med, er lavere enn de tre foregående lørdagene. Ifølge myndighetene deltok 146.000 mennesker i protester over hele landet, inkludert rundt 46.000 i Pari",
+      "date_label": "07.11.2026",
+      "timestamp": 1794075665
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794075278
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -21,16 +191,6 @@
       "summary": "Carlos Alcaraz ble for sterk for Casper Ruud i Masters 1000-turneringen i Paris. Spanjolen vant 6-4, 6-4 i semifinalen. Ruud hang lenge godt med og hadde ledelsen i begge settene, men sterkt spansk spill gjorde oppgaven i overkant vanskelig for det norske tenn",
       "date_label": "07.11.2026",
       "timestamp": 1794074086
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "What we know about Krakow mass shooting so far",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794073709
     },
     {
       "source": "NRK Norge",
@@ -61,6 +221,16 @@
       "summary": "Lørdag kveld melder politiet om et trafikkuhell på E18 i sørgående retning mellom Oslo og Drammen. – Minst tre biler og syv personer er involverte i ulykken. Bilene er totalskadet, opplyser operasjonsleder i Sør-Øst politidistrikt, Victoria Hillveg. – Ingen pe",
       "date_label": "07.11.2026",
       "timestamp": 1794072095
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Søreide møtt med kraftig diesel-kritikk i nord: – Folk melder seg ut i protest",
+      "url": "https://www.nrk.no/nordland/hoyre-leder-ine-eriksen-soreide-fikk-kraftig-diesel-kritikk-fra-nordland-hoyre-1.18076470",
+      "summary": "Helt som forventet, svarer Høyre-lederen på kritikken, som ikke kunne gi noen drivstoff-lovnader til partifellene.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794072010
     },
     {
       "source": "NRK Norge",
@@ -206,6 +376,16 @@
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
+      "title": "Minst ni døde i skyting i Krakow",
+      "url": "https://www.nrk.no/nyheter/minst-ni-dode-i-skyting-i-krakow-1.18076530",
+      "summary": "Minst seks personer ble drept i skyting på hovedtorget i Krakow lørdag ettermiddag, opplyser polsk politi. Gjerningsperson ble skutt og pågrepet av politiet etter at han forsøkte å stikke av etter skytingen. I tillegg er det funnet tre døde personer hjemme hos",
+      "date_label": "07.11.2026",
+      "timestamp": 1794064745
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
       "title": "Minst seks døde i skyting i Polen",
       "url": "https://www.nrk.no/nyheter/minst-seks-dode-i-skyting-i-polen-1.18076530",
       "summary": "Minst fem personer er drept i skyting nær hovedtorget i Krakow sentrum i Polen. Gjerningspersonen er pågrepet. Det opplyser polsk politi, skriver Reuters. Ifølge den polske nyhetskanalen TVN24, som henviser til brannvesenet, skal minst 10 personer være skadet.",
@@ -236,6 +416,16 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
+      "title": "Dødsulykke på E6 i Lillehammer",
+      "url": "https://www.nrk.no/innlandet/en-person-omkom-i-ulykke-pa-e6-i-lillehammer-1.18076481",
+      "summary": "En mann i 50-årene omkom i en trafikkulykke på E6 i Lillehammer i ettermiddag.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794060936
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
       "title": "En alvorlig skadd i ulykke på E6 i Lillehammer",
       "url": "https://www.nrk.no/innlandet/en-person-skadd-i-ulykke-pa-e6-i-lillehammer-1.18076481",
       "summary": "En person skal være alvorlig skadd i en trafikkulykke på E6 i Lillehammer i ettermiddag.",
@@ -258,7 +448,7 @@
       "topic": "norge",
       "title": "Større oljeutslepp i Ålesund: – Ikkje funne noko som kan forklare",
       "url": "https://www.nrk.no/mr/storre-oljeutslepp-i-alesund_-kystvakta-aksjonerer-saman-med-politiet-1.18076482",
-      "summary": "Politiet har avslåst aksjonen etter eti større oljeutslepp i Ålesund. Ingen veit førebels kvar lekkasjen har oppstått.",
+      "summary": "Politiet har avblåst aksjonen etter eit større oljeutslepp i Ålesund. Ingen veit førebels kvar lekkasjen har oppstått.",
       "date_label": "07.11.2026",
       "timestamp": 1794060436
     },
@@ -581,16 +771,6 @@
       "summary": "Edvard Tallaksen hadde draget på damene og skulle overta familiens butikk i Kristiansand. I stedet ble han en av andre verdenskrigs mest nådeløse likvidatører.",
       "date_label": "07.11.2026",
       "timestamp": 1794036054
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794036000
     },
     {
       "source": "NRK Norge",
@@ -3821,186 +4001,6 @@
       "summary": "Liverpool fikk det nok en gang tøft i Tyrkia. På de siste seks kampene i landet sto rødtrøyene med fem tap og et uavgjortresultat før kampen mot Fenerbahçe onsdag. Etter 25 minutter så det likevel lyst ut da Trey Nyoni scoret sitt første mål for klubben. Få mi",
       "date_label": "04.11.2026",
       "timestamp": 1793821147
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793821133
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Bråk i Ap i Arendal: Vedtok at partiet skal snu i skulesak",
-      "url": "https://www.nrk.no/sorlandet/partiet-samla-til-ekstraordinaert-arsmote---vil-snu-i-skulesak-1.18073982",
-      "summary": "Medlemmene i Arendal Ap vil instruere ordførar Robert Norli og resten av bystyregruppa til å stanse nedlegging av skular. Trass i at det er vedteke i bystyret.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793820822
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Verdens helseorganisasjon godkjenner testing av ebola-vaksiner",
-      "url": "https://www.nrk.no/nyheter/verdens-helseorganisasjon-godkjenner-testing-av-ebola-vaksiner-1.18073970",
-      "summary": "Kunngjøringen kommer mens et stort utbrudd av ebola sprer seg i Kongo og noen av nabolandene. Minst 5300 mennesker har hittil dødd i epidemien. De nye vaksinene er utviklet spesifikt mot Bundibugyo-varianten av ebola, som er den som herjer i Afrika. Den ene av",
-      "date_label": "04.11.2026",
-      "timestamp": 1793820441
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Utleiehytte blåste på havet - ber om full frifinnelse i retten",
-      "url": "https://www.nrk.no/video/DKNO98110426",
-      "summary": "",
-      "date_label": "04.11.2026",
-      "timestamp": 1793817976
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Se Nordnytt: Bråk i Loppa kommune",
-      "url": "https://www.nrk.no/video/DKTR98110426",
-      "summary": "",
-      "date_label": "04.11.2026",
-      "timestamp": 1793817895
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Testar korleis den nye helsereforma kan sjå ut: – Ei lita legevakt på hjul",
-      "url": "https://www.nrk.no/tromsogfinnmark/senja-kommune-er-allereie-i-gang-med-samarbeidet-som-den-nye-helsereforma-legg-opp-til-1.18072086",
-      "summary": "Sjukehus og kommunar skal samarbeide tettare for å gi folk behandling nærare heimen, ifølge nye forslag. Fleire kommunar er allereie i gang med pilotprosjekt.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793817805
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "TV-nyheter: Ansatte ved brannstasjon frykter for helsa",
-      "url": "https://www.nrk.no/video/DKSL98110426",
-      "summary": "",
-      "date_label": "04.11.2026",
-      "timestamp": 1793817525
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Trump: Iran-krigen er verdt det, til tross for valgnederlaget",
-      "url": "https://www.nrk.no/nyheter/trump_-iran-krigen-er-verdt-det_-til-tross-for-valgnederlaget-1.18073924",
-      "summary": "– Det stemmer i stor grad at Iran-krigen førte til at vi tapte valget, sa presidenten på en pressekonferanse onsdag. – Det med Iran var noe vi måtte gjøre, Det er verdt det, og vi fortsetter å gjøre det, sa han også. Han sa at USA vil sende flere skip til Iran",
-      "date_label": "04.11.2026",
-      "timestamp": 1793816720
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Midtnytt: Julehandelen er i gang",
-      "url": "https://www.nrk.no/video/DKTL98110426",
-      "summary": "",
-      "date_label": "04.11.2026",
-      "timestamp": 1793816694
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Håkon Lie serverer kveldens oppdatering",
-      "url": "https://www.nrk.no/video/DKVT98110426",
-      "summary": "",
-      "date_label": "04.11.2026",
-      "timestamp": 1793816218
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Widerøe-fly til Mo i Rana fikk ikke ut landingshjul – måtte lande i Bodø",
-      "url": "https://www.nrk.no/nordland/wideroe-fly-fra-trondheim-skulle-til-mo-i-rana-_-ma-lande-i-bodo-1.18073946",
-      "summary": "Bodø lufthavn satte full beredskap. Flyet klarte likevel å lande som normalt onsdag kveld.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793815370
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793815291
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793815287
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Tiltalt for mishandling av samboer og barn over flere år: – Klar på at han er uskyldig",
-      "url": "https://www.jarlsbergavis.no/holmestrand-mann-tiltalt-for-mishandling-av-samboer-og-barn-over-flere-ar/s/80-26-11825",
-      "summary": "En mann bosatt i Holmestrand er tiltalt for å ha mishandlet samboeren og to barn i nære relasjoner. Ifølge tiltalen skal det ha pågått i flere år. Mannen nekter straffeskyld.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793815200
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Widerøe-fly fikk ikke ut landingshjul – Bodø lufthavn i full beredskap",
-      "url": "https://www.nrk.no/nordland/-wideroe-fly-fikk-ikke-ut-landingshjul-_-bodo-lufthavn-i-full-beredskap-1.18073786",
-      "summary": "Et Widerøe-fly fra Trondheim skulle lande i Mo i Rana onsdag kveld, men måtte i stedet lande i Bodø. Årsaken er at flyet først ikke fikk ut landingshjulet sitt, bekrefter Avinor og Widerøe til NRK. – Det stemmer at det er et Widerøe-fly som flyr til Bodø for å",
-      "date_label": "04.11.2026",
-      "timestamp": 1793814959
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Mor og datter funnet døde i Canada – mistenker grizzlybjørnangrep",
-      "url": "https://www.nrk.no/nyheter/mor-og-datter-funnet-dode-i-canada-_-mistenker-grizzlybjornangrep-1.18073920",
-      "summary": "– Det er foreløpig ikke klart om mer enn én bjørn har vært involvert, heter det i en uttalelse fra naturoppsynstjenesten i British Columbia sent tirsdag kveld. Moren og datteren hadde gått tur i nærheten av hjemmet sitt i Bella Coola. Familien meldte dem savne",
-      "date_label": "04.11.2026",
-      "timestamp": 1793814450
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Merz: Tror Trump vil omgå Kongressen med presidentordre",
-      "url": "https://www.nrk.no/nyheter/merz_-tror-trump-vil-omga-kongressen-med-presidentordre-1.18073858",
-      "summary": "Tysklands forbundskansler Friedrich Merz sa onsdag at han forventer at USAs president Donald Trump vil omgå Kongressen ved hjelp av presidentordrer, etter Det demokratiske partiets historiske seier i mellomvalget. Det skriver Reuters. – Trump har de siste to å",
-      "date_label": "04.11.2026",
-      "timestamp": 1793814171
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Seier nei til skulenedlegging i Kongsvinger – sjå meir i TV-sendinga kl. 19.55",
-      "url": "https://www.nrk.no/video/DKIN98110426",
-      "summary": "",
-      "date_label": "04.11.2026",
-      "timestamp": 1793813086
     }
   ]
 }
