@@ -1,7 +1,147 @@
 {
-  "updated": "2026-11-08T19:01:59Z",
+  "updated": "2026-11-08T22:46:43Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Sørloth målløs da López snudde toppkampen",
+      "url": "https://www.nrk.no/sport/sorloth-mallos-da-lopez-snudde-toppkampen-1.18077052",
+      "summary": "Alexander Sørloth ble byttet inn etter 60 minutter da Atlético Madrid tapte 1–2 hjemme mot Barcelona. Det var hjemmelaget som tok første stikk og gikk opp i ledelsen da Giuliano Simeone bredsidet ballen i mål etter innlegg fra Julián Álvarez. Etter flere misly",
+      "date_label": "08.11.2026",
+      "timestamp": 1794175639
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794175512
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fem mennesker døde i Gaza etter at sandvoll kollapset",
+      "url": "https://www.nrk.no/nyheter/fem-mennesker-dode-i-gaza-etter-at-sandvoll-kollapset-1.18077080",
+      "summary": "I Gaza mistet minst tre barn og to kvinner livet søndag i en hendelse som skyldtes kraftig regnvær. – En sandvoll kollapset oppå telt som huset fordrevne mennesker i en leir sør for Deir al-Balah, sa Mahmoud Bassal, som er talsmann for Gazas sivilforsvar. Vide",
+      "date_label": "08.11.2026",
+      "timestamp": 1794175271
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Sju av ti oljepionerer har fått avslag på erstatning",
+      "url": "https://www.nrk.no/nyheter/sju-av-ti-oljepionerer-har-fatt-avslag-pa-erstatning-1.18077024",
+      "summary": "70 prosent av oljepionerene som har søkt om kompensasjon, har fått avslag. Bare en liten del av pengene er utbetalt, skriver Aftenposten. Stortinget vedtok i fjor at oljearbeidere som ble syke av jobben i den tidlige fasen av oljeeventyret, skal få erstatning.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794173814
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Kjørte for fort uten gyldig førerkort - passasjer var i besittelse av narkotika",
+      "url": "https://www.jarlsbergavis.no/kjorte-for-fort-uten-gyldig-forerkort-passasjer-var-i-besittelse-av-narkotika/s/80-26-12674",
+      "summary": "",
+      "date_label": "08.11.2026",
+      "timestamp": 1794170733
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Matchvinneren om tribunekollapsen: – Det skal ikke skje",
+      "url": "https://www.nrk.no/nordland/blomberg-reiste-hjem-med-resten-av-laget-1.18077054",
+      "summary": "",
+      "date_label": "08.11.2026",
+      "timestamp": 1794170374
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Finne reddet Brann på overtid – berget uavgjort borte mot Fredrikstad",
+      "url": "https://www.nrk.no/sport/finne-reddet-brann-pa-overtid-_-berget-uavgjort-borte-mot-fredrikstad-1.18077046",
+      "summary": "Fredrikstad kom inn til oppgjøret mot Brann uten seier på de syv siste kampene i Eliteserien. Den rekken forlenget Bård Finne på overtid. FFK gikk rett i angrep på hjemmebane. Daniel Eid traff det nærmeste hjørnet, men Branns målvakt Simen Vidtun Nilsen var me",
+      "date_label": "08.11.2026",
+      "timestamp": 1794168988
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trygghetsalarm skal være gratis – Kristiansand krevde flere hundre kroner per måned",
+      "url": "https://www.nrk.no/sorlandet/trygghetsalarm-skal-vaere-gratis-_-kristiansand-krevde-flere-hundre-kroner-per-maned-1.18077037",
+      "summary": "Siden 2000 har Kristiansand kommune krevd egenbetaling for trygghetsalarmer. Fra 1. september har de vært gratis etter en presisering fra Helsedirektoratet, skriver Fædrelandsvennen.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794168581
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Aursnes melder forfall til landslagssamlingen",
+      "url": "https://www.nrk.no/sport/aursnes-melder-forfall-til-landslagssamlingen-1.18077038",
+      "summary": "Det bekrefter Fotballandslaget på X. «Fredrik Aursnes må melde forfall til kommende landslagssamling på grunn av lyskestrekk», skriver de. Inn i troppen kommer Hugo Vetlesen. Norge møter Wales og Danmark i Nasjonsligaen 14. og 17. november.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794168351
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Mangler lærere som kan undervise i kvensk: – Bare en finsklærer her",
+      "url": "https://www.nrk.no/kvensk/vadso-trenger-kvenskundervisning-og-laeremidler-pa-varanger-kvensk-1.18065057",
+      "summary": "Dagens skolebøker i kvensk skal endres, men kvenhovedstaden Vadsø har ingen som kan undervise i språket.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794168031
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794167882
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "IAEA: Strømmen er tilbake på atomkraftverk i Ukraina",
+      "url": "https://www.nrk.no/nyheter/iaea_-strommen-er-tilbake-pa-atomkraftverk-i-ukraina-1.18076978",
+      "summary": "Atomkraftverket i Zaporizjzja mistet i morges tilkoblingen til den siste eksterne strømforsyningen. Søndag kveld var strømmen tilbake. Det opplyser Det internasjonale atomenergibyrået (IAEA). Da strømmen forsvant fra kraftverket søndag morgen, måtte dieseldrev",
+      "date_label": "08.11.2026",
+      "timestamp": 1794166532
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Selvik imponerer i Frankrike – holdt nullen for andre kamp på rad",
+      "url": "https://www.nrk.no/sport/selvik-imponerer-i-frankrike-_-holdt-nullen-for-andre-kamp-pa-rad-1.18077012",
+      "summary": "Landslagskeeper Egil Selvik holdt igjen buret rent da Brest vant 2-0 mot Lyon i den siste kampen før landslagssamlingen. Rogalendingen hindret nettsus med to redninger i oppgjøret. Også forrige runde holdt Selvik nullen da Brest vant 2-0 mot Lorient i Ligue 1.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794166085
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Norris til topps i São Paulo Grand Prix – VM-vinneren snurret ut av seierskampen",
+      "url": "https://www.nrk.no/sport/norris-til-topps-i-sao-paulo-grand-prix-_-vm-vinneren-snurret-ut-av-seierskampen-1.18076975",
+      "summary": "McLaren-stjernen Lando Norris kontrollerte inn sesongens tredje seier da han vant São Paulo Grand Prix i Formel 1 søndag. McLaren-føreren Lando Norris var raskest i Formel 1-kvalifiseringen lørdag og startet fra pole position. VM-vinner Andrea Kimi Antonelli p",
+      "date_label": "08.11.2026",
+      "timestamp": 1794164903
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -71,16 +211,6 @@
       "summary": "Gjensidige har registrert 513 meldinger om skader i trafikken i løpet av helgen. Det glatte føret mange steder fortsetter, advarer selskapet. En kombinasjon av lave temperaturer, fuktighet og stedvis tåke fører til isete og svært vanskelige kjøreforhold. – Nå ",
       "date_label": "08.11.2026",
       "timestamp": 1794159651
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "date_label": "08.11.2026",
-      "timestamp": 1794159313
     },
     {
       "source": "NRK Norge",
@@ -168,7 +298,7 @@
       "topic": "verden",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
       "date_label": "08.11.2026",
       "timestamp": 1794153957
     },
@@ -208,7 +338,7 @@
       "topic": "sport",
       "title": "Håndballgutta vant målfest mot Tyrkia i EM-kvalifiseringen etter treg start",
       "url": "https://www.nrk.no/sport/handballgutta-vant-malfest-mot-tyrkia-i-em-kvalifiseringen-etter-treg-start-1.18076888",
-      "summary": "Tyrkia åpnet best i Istanbul, men Norges håndballherrer tok hjem nok en seier med 45-31 i EM-kvalifiseringen. I sin første kamp som landslagssjef så Magnus Andersson Norge score 40 ganger mot Georgia torsdag. Mot Tyrkia ga de seg ikke før det sto hele 45-31 i ",
+      "summary": "I sin første kamp som landslagssjef så Magnus Andersson Norge score 40 ganger mot Georgia torsdag. Mot Tyrkia ga de seg ikke før det sto hele 45-31 i Istanbul. EM-kvalifiseringen har dermed åpnet perfekt for Norge, som har to av to mulige seirer. Kampen starte",
       "date_label": "08.11.2026",
       "timestamp": 1794149135
     },
@@ -231,6 +361,16 @@
       "summary": "– Det vil bli opprettet en straffesak, sier politiadvokat Erlend Bakke til NRK. Han er mistenkt for kroppskrenkelse og uberettiget adgang, sier han. Den mistenkte har ikke fått oppnevnt noen forsvarer i saken. – Det vil bli gjennomført avhør med partene, sier ",
       "date_label": "08.11.2026",
       "timestamp": 1794148417
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fallulykke på tribunen",
+      "url": "https://www.nrk.no/sport/tromso---bodo_glimt-stoppet-etter-dramatikk-pa-bortetribunen-_-en-person-ble-sendt-til-sykehus-1.18076852",
+      "summary": "Én person ble sendt til sykehus etter at flere personer falt gjennom bortetribunen i Tromsø.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794147690
     },
     {
       "source": "NRK Norge",
@@ -3861,146 +4001,6 @@
       "summary": "Arbeiderpartiet møter budsjettpartnerne MDG, Rødt, Senterpartiet og SV til første forhandlingsmøte om neste års statsbudsjett fredag klokken 10. Forhandlingene vil foregå i statsrådssalen på Stortinget. Finanskomiteens leder Tuva Moflag (Ap) leder forhandlinge",
       "date_label": "05.11.2026",
       "timestamp": 1793887725
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Rebecca (37) er Jarlsbergs nye video-frilanser: – Gøy å være «på ballen» og teste ut ting",
-      "url": "https://www.jarlsbergavis.no/rebecca-37-er-jarlsbergs-nye-video-frilanser-goy-a-vare-pa-ballen-og-teste-ut-ting/s/80-26-12164",
-      "summary": "– Det er gøy å være litt «på ballen», både med enkle tester og mer dyptgripende undersøkelser. Det sier Rebecca Hvam Eriksen (37), som framover blir å se og høre på jarlsbergavis.no som Jarlsbergs nye video-frilanser.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793887456
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Test av bruktbutikker",
-      "url": "https://www.jarlsbergavis.no/test-av-bruktbutikker/v/80-26-12302",
-      "summary": "",
-      "date_label": "05.11.2026",
-      "timestamp": 1793887395
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "What does the raise in interest rates mean?",
-      "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793887344
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Så mye tjener den nye sykehusdirektøren",
-      "url": "https://www.nrk.no/nordland/sa-mye-tjener-den-nye-sykehusdirektoren-tonje-elisabeth-hansen-ved-nordlandssykehuset-1.18074849",
-      "summary": "Tjener 175.000 kroner mer enn forgjengeren.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793887137
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Framtida til legekontoret i Øverbygd er avgjort: – Bedre enn nedleggelse",
-      "url": "https://www.nrk.no/tromsogfinnmark/legekontoret-i-forsvarsbygda-overbygd-i-malselv-bestar-_-som-utekontor-1.18074320",
-      "summary": "Etter halvannet år i uvisshet har innbyggerne i Øverbygd nå fått avslutning. Legekontoret i forsvarsbygda består – men ikke i full drift.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793887081
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793886663
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Bra at FrP oppdager busstilbudet i Hof – men hvor var de da kuttene ble vedtatt?",
-      "url": "https://www.jarlsbergavis.no/bra-at-frp-oppdager-busstilbudet-i-hof-men-hvor-var-de-da-kuttene-ble-vedtatt/o/80-26-11987",
-      "summary": "«Det er lett å være misfornøyd med et dårlig busstilbud. Den virkelige prøven kommer når pengene skal fordeles og prioriteringene skal gjøres.»",
-      "date_label": "05.11.2026",
-      "timestamp": 1793884855
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Faisal Islam: How high will interest rates go?",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793884630
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Three ways the interest rate rise could affect you",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793884110
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Nærbutikk blir mer tilgjengelig: – Folk er glade",
-      "url": "https://www.nrk.no/sorlandet/naerbutikken-pa-mykland-far-fjernbetjent-kassalosning-1.18074669",
-      "summary": "Nærbutikken på Mykland har slitt økonomisk, men nå bevilger politikerne penger til en fjernbetjent kasseløsning. Tiltaket tas godt imot av bygdas innbyggere.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793883902
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "7500 høner avlivet – forbudt å selge egg fra flere gårder",
-      "url": "https://www.nrk.no/rogaland/7500-honer-avlivet-etter-utbrudd-av-fugleinfluensa-pa-jaeren-_-forbudt-a-selge-egg-fra-flere-garder-1.18074018",
-      "summary": "Mattilsynet innfører forbud mot direktesalg av egg fra gårder innenfor en radius på ti kilometer. Samtidig frykter bøndene på Jæren videre smittespredning av fugleinfluensa.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793883510
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Sverige gjeninnfører midlertidig indre grensekontroll",
-      "url": "https://www.nrk.no/nyheter/sverige-gjeninnforer-midlertidig-indre-grensekontroll--1.18074709",
-      "summary": "Den svenske regjeringen har besluttet å gjeninnføre indre grensekontroll i en periode på seks måneder. Begrunnelsen er alvorlige trusler mot den allmenne orden og indre sikkerhet, opplyser den svenske regjeringen i en pressemelding. Videre skriver regjeringen ",
-      "date_label": "05.11.2026",
-      "timestamp": 1793882759
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Her ble 15 biler avskiltet",
-      "url": "https://www.jarlsbergavis.no/her-ble-15-biler-avskiltet/s/80-26-12194",
-      "summary": "15 biler ble avskiltet da Statens vegvesen og politiet gjennomførte en trafikkontroll på E18 onsdag.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793882218
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Justisdepartementet i dialog med kongehuset før Høiby-pågripelse",
-      "url": "https://www.nrk.no/nyheter/justisdepartementet-i-dialog-med-kongehuset-for-hoiby-pagripelse-1.18074722",
-      "summary": "Spesialenheten for politisaker har undersøkt om ansatte i politiet varslet Det kongelige hoff (DKH) før Marius Borg Høiby ble pågrepet søndag 4. august 2024. Det har tidligere blitt kjent at Høiby ble varslet om pågripelsen av sin mor, dronning Mette-Marit. De",
-      "date_label": "05.11.2026",
-      "timestamp": 1793880511
     }
   ]
 }
