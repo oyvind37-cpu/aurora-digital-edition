@@ -1,7 +1,107 @@
 {
-  "updated": "2026-11-07T21:58:52Z",
+  "updated": "2026-11-08T01:17:04Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794098265
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "E6 åpnet igjen etter alvorlig ulykke",
+      "url": "https://www.nrk.no/nyheter/e6-apnet-igjen-etter-alvorlig-ulykke-1.18076693",
+      "summary": "E6 er åpnet igjen etter en alvorlig ulykke ved Lillehammer lørdag ettermiddag. En mann i 50-årene mistet livet etter å ha frontkollidert med en lastebil. Føreren av lastebilen ble ikke alvorlig skadet.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794096444
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Paven ber unge om å stifte familie",
+      "url": "https://www.nrk.no/nyheter/paven-ber-unge-om-a-stifte-familie-1.18076692",
+      "summary": "Pave Leo oppfordrer unge mennesker til å tørre å gifte seg og få barn. Det sa paven under et besøk i Uruguay, ifølge AFP. – Ikke vær redde for «for alltid», sa paven foran et fullsatt stadion i hovedstaden Montevideo. Bakgrunnen for oppfordringen er at det fød",
+      "date_label": "08.11.2026",
+      "timestamp": 1794095464
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Kraftig jordskjelv sentralt i Japan",
+      "url": "https://www.nrk.no/nyheter/kraftig-jordskjelv-sentralt-i-japan-1.18076688",
+      "summary": "Et jordskjelv med en styrke foreløpig målt til 5,7 har rammet det sentrale Japan, ifølge det meteorologiske instituttet. Meldingen kom tidlig natt til søndag norsk tid. Ifølge kringkasteren NHK er det ikke fare for tsunamier. (NTB)",
+      "date_label": "08.11.2026",
+      "timestamp": 1794094198
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794092555
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794092329
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Brite drept og flere utlendinger såret i Krakow",
+      "url": "https://www.nrk.no/nyheter/brite-drept-og-flere-utlendinger-saret-i-krakow-1.18076686",
+      "summary": "En britisk statsborger er drept og flere utlendinger er såret etter skytingen i Krakow i Polen. De sårede kommer fra Storbritannia, Tyskland, Østerrike, Portugal og Russland, opplyser det polske innenriksdepartementet, ifølge Reuters. Departementet har foreløp",
+      "date_label": "07.11.2026",
+      "timestamp": 1794091973
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Støre: – Vi står sammen i solidaritet med Polen",
+      "url": "https://www.nrk.no/nyheter/store_-_-vi-star-sammen-i-solidaritet-med-polen-1.18076673",
+      "summary": "Statsminister Jonas Gahr Støre (Ap) sender sine kondolanser etter skytingen i Polen. – Min dypeste medfølelse går til ofrene, pårørende og alle dem som er berørt av den forferdelige skytingen i Krakow, skriver Støre på X. – Mine tanker går også til alle fra Po",
+      "date_label": "07.11.2026",
+      "timestamp": 1794091824
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "date_label": "07.11.2026",
+      "timestamp": 1794089999
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Hendelse mellom lasteskip og militære i Omanbukta",
+      "url": "https://www.nrk.no/nyheter/hendelse-mellom-lasteskip-og-militaere-i-omanbukta-1.18076664",
+      "summary": "Et lasteskip og militære styrker har vært involvert i en «hendelse» i Omanbukta, melder Reuters. Hendelsen skjedde rundt 33 kilometer øst for De forente arabiske emirater, opplyser det britiske sjøfartsorganet UKMTO lørdag. Det er foreløpig ikke kjent hva slag",
+      "date_label": "07.11.2026",
+      "timestamp": 1794089681
+    },
     {
       "source": "NRK Sport",
       "category": "sport",
@@ -36,21 +136,11 @@
       "source": "BBC Business",
       "category": "okonomi",
       "topic": "okonomi",
-      "title": "Can New Zealand's new government win over disillusioned voters?",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Polling shows the mood among Kiwis is low, with faith in politics even lower - with voters deserting the main parties at the polls.",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "date_label": "07.11.2026",
       "timestamp": 1794087376
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "What we know so far after Krakow gun attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794086004
     },
     {
       "source": "NRK Sport",
@@ -168,7 +258,7 @@
       "topic": "verden",
       "title": "US offers $20m reward for information about Iran's nuclear programme",
       "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "date_label": "07.11.2026",
       "timestamp": 1794075278
     },
@@ -3911,96 +4001,6 @@
       "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
       "date_label": "04.11.2026",
       "timestamp": 1793832523
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Como jubler videre: Vant 9-1",
-      "url": "https://www.nrk.no/sport/como-jubler-videre_-vant-9-1-1.18074081",
-      "summary": "Italienske Como er høstens sensasjonslag i mesterligaen. Onsdag kveld vant de hele 9-1 borte mot franske Lens. Como har nå 13 plussmål og har tatt ni av 12 mulige poeng så langt. Tapet kom mot Feyenoord. Ingen har scoret flere mål på sine fire første kamper i ",
-      "date_label": "04.11.2026",
-      "timestamp": 1793830394
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "New York-børsene opp etter valget",
-      "url": "https://www.nrk.no/nyheter/new-york-borsene-opp-etter-valget-1.18074083",
-      "summary": "Alle børsindeksene i New York var markert opp onsdag etter mellomvalget som Demokratene vant. Den industritunge Dow Jones-indeksen steg 3 prosent, den bredere S&P 500 var opp 1,6 prosent, og teknologitunge Nasdaq tok seg opp 1,4 prosent. Bak oppgangen ligger e",
-      "date_label": "04.11.2026",
-      "timestamp": 1793830002
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Raste i historisk seier: – Ikke sånn spillet skal være",
-      "url": "https://www.nrk.no/rogaland/historisk-viking-seier-i-mesterligaen-_-slo-sabah-fc-4_1-1.18072343",
-      "summary": "Straffebom, fem mål, rødt kort og hissige scener. Det manglet ikke på dramatikk da Viking skrev klubbhistorie i Mesterligaen.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793829257
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793828475
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Avgått kommunedirektør får ett års etterlønn",
-      "url": "https://www.nrk.no/nordland/avgatt-kommunedirektor-far-ett-ars-etterlonn-1.18074011",
-      "summary": "",
-      "date_label": "04.11.2026",
-      "timestamp": 1793826185
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
-      "url": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020",
-      "summary": "– For at folk som kunne ha de samme mulighetene til å reise som før og kunne komme seg rundt uten å bruke bilen, så øker vi antallet elsykler, sier byrådsleder Eirik Lae Solberg (H) til VG. Det totale taket for elektriske utleiekjøretøy forblir på 16.000, men ",
-      "date_label": "04.11.2026",
-      "timestamp": 1793825898
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Nytt ansikt på førsteplass: Hamre topper Senterpartiets liste",
-      "url": "https://www.jarlsbergavis.no/nytt-ansikt-pa-forsteplass-hamre-topper-senterpartiets-liste/s/80-26-11855",
-      "summary": "",
-      "date_label": "04.11.2026",
-      "timestamp": 1793822400
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Jude Bellingham vartet opp med kunstmål da han ble historisk i Real Madrid-seier",
-      "url": "https://www.nrk.no/sport/jude-bellingham-vartet-opp-med-kunstmal-da-han-ble-historisk-i-real-madrid-seier-1.18073902",
-      "summary": "Real Madrid så lenge ut til å gå på en smell borte mot AEK Athen onsdag. Hjemmelaget ledet både 1–0 og 2–1, men gigantene fra Madrid kjempet seg tilbake og fikk med seg alle tre poengene tilbake til Spania etter at kaptein Federico Valverde scoret på overtid. ",
-      "date_label": "04.11.2026",
-      "timestamp": 1793821190
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Liverpool-smell i Tyrkia: – Hvor er Alisson!?",
-      "url": "https://www.nrk.no/sport/liverpool-smell-i-tyrkia_-_-hvor-er-alisson__-1.18073811",
-      "summary": "Liverpool fikk det nok en gang tøft i Tyrkia. På de siste seks kampene i landet sto rødtrøyene med fem tap og et uavgjortresultat før kampen mot Fenerbahçe onsdag. Etter 25 minutter så det likevel lyst ut da Trey Nyoni scoret sitt første mål for klubben. Få mi",
-      "date_label": "04.11.2026",
-      "timestamp": 1793821147
     }
   ]
 }
