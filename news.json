@@ -1,7 +1,107 @@
 {
-  "updated": "2026-11-08T01:17:04Z",
+  "updated": "2026-11-08T07:28:32Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+      "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794121862
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Utagering og promillekøyring natt til søndag",
+      "url": "https://www.nrk.no/mr/politisaker-i-more-og-romsdal-1.12802957",
+      "summary": "",
+      "date_label": "08.11.2026",
+      "timestamp": 1794121748
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Brann i bolig i Kristiansand",
+      "url": "https://www.nrk.no/nyheter/brann-i-bolig-i-kristiansand-1.18076698",
+      "summary": "En bolig på Søm i Kristiansand er totalskadd etter en brann, melder politiet. – Det er mye flammer og røyk fra stedet. Ses fra store deler av bysiden og trafikanter på E18 over Varoddbrua, skriver operasjonsleder Eyvind Formo. To personer i et nabohus ble førs",
+      "date_label": "08.11.2026",
+      "timestamp": 1794113777
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Ekteparet må være tilgjengelige døgnet rundt: – Medmennesker i en vanskelig tid",
+      "url": "https://www.jarlsbergavis.no/ekteparet-ma-vare-tilgjengelige-dognet-rundt-medmennesker-i-en-vanskelig-tid/f/80-26-12617",
+      "summary": "Hege og Jan Kristian Hverven har drevet begravelsesbyrå i fem år og har ingen planer om å gi seg.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794112200
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Falsk flyalarm nord i Israel",
+      "url": "https://www.nrk.no/nyheter/falsk-flyalarm-nord-i-israel-1.18076697",
+      "summary": "Flyalarmen som tidlig søndag morgen gikk nord i Israel, var falsk alarm, opplyser det israelske militæret, ifølge Reuters. Alarmene ble utløst etter mistanke om at fiendtlige droner eller fly hadde tatt seg inn over grensen. Militæret i Israel opplyser nå at d",
+      "date_label": "08.11.2026",
+      "timestamp": 1794111489
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794110592
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Tenåringer angrep politiet på Finnsnes",
+      "url": "https://www.nrk.no/nyheter/tenaringer-angrep-politiet-pa-finnsnes-1.18076695",
+      "summary": "To tenåringer er pågrepet etter et slagsmål på et utested på Finnsnes i Troms, melder NTB. Politiet rykket ut like før midnatt, men situasjonen kom raskt ut av kontroll. Flere personer gikk til angrep på patruljen og ødela en politibil. To gutter i slutten av ",
+      "date_label": "08.11.2026",
+      "timestamp": 1794110438
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Var du i avisa for 12 år siden? Se hvem som dukket opp",
+      "url": "https://www.sandeavis.no/var-du-i-avisa-for-12-ar-siden-se-hvem-som-dukket-opp/s/80-72-6434",
+      "summary": "Sjekk hvem som stilte opp i lokalavisa i 2014!",
+      "date_label": "08.11.2026",
+      "timestamp": 1794103200
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Melding om våpentrussel på fest i Stavanger",
+      "url": "https://www.nrk.no/nyheter/melding-om-vapentrussel-pa-fest-i-stavanger-1.18076694",
+      "summary": "Politiet rykket ut til en privat fest i Stavanger natt til søndag etter at en person truet andre med et våpen. Det viste seg å være et luftvåpen, opplyser Sør-Vest politidistrikt i politiloggen. Gjestene løp i frykt ut på gaten. Politiet fikk raskt kontroll på",
+      "date_label": "08.11.2026",
+      "timestamp": 1794102856
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794102461
+    },
     {
       "source": "BBC Technology",
       "category": "teknologi",
@@ -36,6 +136,16 @@
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
+      "title": "Flere skadet etter kraftig jordskjelv sentralt i Japan",
+      "url": "https://www.nrk.no/nyheter/flere-skadet-etter-kraftig-jordskjelv-sentralt-i-japan-1.18076688",
+      "summary": "Minst 22 personer ble skadet da et jordskjelv med styrke 5,5 rammet Shizuoka-prefekturet i det sentrale Japan. Butikkvinduer ble knust, og folk rømte ut av bygninger. Ifølge kringkasteren NHK er det ikke fare for tsunamier. Skjelvet inntraff rundt klokka 1 nat",
+      "date_label": "08.11.2026",
+      "timestamp": 1794094198
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
       "title": "Kraftig jordskjelv sentralt i Japan",
       "url": "https://www.nrk.no/nyheter/kraftig-jordskjelv-sentralt-i-japan-1.18076688",
       "summary": "Et jordskjelv med en styrke foreløpig målt til 5,7 har rammet det sentrale Japan, ifølge det meteorologiske instituttet. Meldingen kom tidlig natt til søndag norsk tid. Ifølge kringkasteren NHK er det ikke fare for tsunamier. (NTB)",
@@ -51,16 +161,6 @@
       "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
       "date_label": "08.11.2026",
       "timestamp": 1794092555
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "What we know so far after Krakow gun attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794092329
     },
     {
       "source": "NRK Siste",
@@ -133,9 +233,9 @@
       "timestamp": 1794087632
     },
     {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
@@ -343,16 +443,6 @@
       "timestamp": 1794071400
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794071364
-    },
-    {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
@@ -556,7 +646,7 @@
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "Får sølv i dag, men tapte for Vålerenga",
+      "title": "Tapte for Vålerenga, men fekk sølvmedaljar",
       "url": "https://www.nrk.no/mr/aafk-spelarane-fekk-solvmedaljar-i-toppserien-etter-vanskeleg-kamp-1.18076081",
       "summary": "Aalesund fekk det knalltøft i avslutningskampen mot Vålerenga laurdag. Men rett etter kampen fekk dei likevel utdelt sølvmedaljar til stor jubel.",
       "date_label": "07.11.2026",
@@ -2063,6 +2153,16 @@
       "timestamp": 1793959732
     },
     {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Før tok titusenvis idrettsmerket – nå stupar interessa",
+      "url": "https://www.nrk.no/vestfoldogtelemark/besteforeldra-dine-tok-det-kvart-ar-_-no-droppar-dei-unge-idrettsmerket-1.18054741",
+      "summary": "I over hundre år har idrettsmerket samla nordmenn til lengdehopp, kulestøyt og 60-meter på landets idrettsbanar. Nå er tradisjonen i ferd med å døy ut.",
+      "date_label": "06.11.2026",
+      "timestamp": 1793959115
+    },
+    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -2081,6 +2181,16 @@
       "summary": "Etter over halvannet år overrasket Undergrunn fansen med en helt ny låt.",
       "date_label": "06.11.2026",
       "timestamp": 1793958593
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Her bor pleietrengende uten tillatelse",
+      "url": "https://www.nrk.no/vestfoldogtelemark/her-bor-pleietrengende-uten-tillatelse-1.18066171",
+      "summary": "I flere år har Kviteseid kommune bosatt sårbare og pleietrengende personer i en bygning uten gyldig brukstillatelse.",
+      "date_label": "06.11.2026",
+      "timestamp": 1793957861
     },
     {
       "source": "Jarlsberg Avis",
@@ -3891,116 +4001,6 @@
       "summary": "Dropskokingen tok av på TikTok, men stresset tok overhånd. Nå har Rachel åpnet drømmebutikken hjemme i skogen.",
       "date_label": "05.11.2026",
       "timestamp": 1793847000
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Politiet etterforsker dødsfallet til Bayerns visestatsminister",
-      "url": "https://www.nrk.no/nyheter/politiet-etterforsker-dodsfallet-til-bayerns-visestatsminister-1.18074101",
-      "summary": "Tysk politi etterforsker det brå dødsfallet til Hubert Aiwanger, visestatsminister i delstaten Bayern. Han ble funnet død på et hotellrom i Berlin. 55-åringen ble funnet død onsdag. – Formålet med etterforskningen er å fastslå den konkrete dødsårsaken og omste",
-      "date_label": "05.11.2026",
-      "timestamp": 1793845012
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793844563
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Ønsker å skape folkefest: – Det er kjempestort",
-      "url": "https://www.sandeavis.no/onsker-a-skape-folkefest-det-er-kjempestort/s/80-72-6095",
-      "summary": "– Vi prøver å involvere mange i klubben slik at dette skal bli en god opplevelse for alle, sier treneren.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793844000
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Fagforeningen NTL bytter navn til Forent",
-      "url": "https://www.nrk.no/nyheter/fagforeningen-ntl-bytter-navn-til-forent-1.18074100",
-      "summary": "Fagforbundet Norsk Tjenestemannslag bytter navn til Forent etter nesten 80 år, opplyser forbundet i en pressemelding. Leder Kjersti Barsok forklarer at forbundet har endret seg mye siden 1947, og at mange medlemmer i dag jobber utenfor staten. Det nye navnet s",
-      "date_label": "05.11.2026",
-      "timestamp": 1793842954
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Nord-Korea bekrefter nye raketttester",
-      "url": "https://www.nrk.no/nyheter/nord-korea-bekrefter-nye-raketttester-1.18074099",
-      "summary": "Nord-Korea bekrefter at landet har testet et nytt luftvernsystem og langtrekkende kryssermissiler, melder det statlige nordkoreanske nyhetsbyrået KCNA. Sør-Koreas militære opplyste onsdag at rakettene ble skutt ut mot Japanhavet, skriver NTB.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793840679
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793840362
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Laura Sides faced a dilemma of whether to find out if she would inherit her father's condition.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793838729
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
-      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
-      "summary": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793838637
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793836240
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793833967
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "date_label": "04.11.2026",
-      "timestamp": 1793832523
     }
   ]
 }
