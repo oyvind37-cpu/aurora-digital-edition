@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-08T22:46:43Z",
+  "updated": "2026-11-09T02:03:49Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Merz vil ha Ilse Aigner som Tysklands første kvinnelige president",
+      "url": "https://www.nrk.no/nyheter/merz-vil-ha-ilse-aigner-som-tysklands-forste-kvinnelige-president-1.18077088",
+      "summary": "Tysklands forbundskansler Friedrich Merz sier han ønsker å utpeke Ilse Aigner til landets neste president i 2027. 61-åringen blir i så fall landets første kvinnelige president. Aigner tilhører CDUs søsterparti CSU og er i dag leder av delstatsparlamentet i Bay",
+      "date_label": "09.11.2026",
+      "timestamp": 1794189542
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Russland hevder de har skutt ned nær 40 droner i Leningrad-regionen",
+      "url": "https://www.nrk.no/nyheter/russland-hevder-de-har-skutt-ned-naer-40-droner-i-leningrad-regionen-1.18077087",
+      "summary": "Guvernør Aleksandr Drozdenko i Leningrad-regionen hevder russiske styrker mandag har skutt ned 38 droner over regionen. Da guvernøren la ut meldingen på Telegram, skrev han at nedskytingene fortsatt pågikk, men ga ingen ytterligere detaljer. Leningrad-regionen",
+      "date_label": "09.11.2026",
+      "timestamp": 1794188381
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "date_label": "09.11.2026",
+      "timestamp": 1794185406
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trump venter at Rubio fortsetter",
+      "url": "https://www.nrk.no/nyheter/trump-venter-at-rubio-fortsetter-1.18077082",
+      "summary": "USAs president Donald Trump regner med at Marco Rubio fortsetter som utenriksminister. Det sa Trump i et intervju med TV-programmet «60 Minutes» på den amerikanske kanalen CBS, melder Reuters. På spørsmål om Rubios framtid i regjeringen, svarte presidenten at ",
+      "date_label": "09.11.2026",
+      "timestamp": 1794184531
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Doing these things now will help you save money at Christmas",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "date_label": "09.11.2026",
+      "timestamp": 1794182954
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "date_label": "09.11.2026",
+      "timestamp": 1794180858
+    },
     {
       "source": "NRK Sport",
       "category": "sport",
@@ -16,7 +76,7 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
       "date_label": "08.11.2026",
@@ -31,6 +91,16 @@
       "summary": "I Gaza mistet minst tre barn og to kvinner livet søndag i en hendelse som skyldtes kraftig regnvær. – En sandvoll kollapset oppå telt som huset fordrevne mennesker i en leir sør for Deir al-Balah, sa Mahmoud Bassal, som er talsmann for Gazas sivilforsvar. Vide",
       "date_label": "08.11.2026",
       "timestamp": 1794175271
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "date_label": "08.11.2026",
+      "timestamp": 1794173856
     },
     {
       "source": "NRK Siste",
@@ -141,16 +211,6 @@
       "summary": "McLaren-stjernen Lando Norris kontrollerte inn sesongens tredje seier da han vant São Paulo Grand Prix i Formel 1 søndag. McLaren-føreren Lando Norris var raskest i Formel 1-kvalifiseringen lørdag og startet fra pole position. VM-vinner Andrea Kimi Antonelli p",
       "date_label": "08.11.2026",
       "timestamp": 1794164903
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "date_label": "08.11.2026",
-      "timestamp": 1794162173
     },
     {
       "source": "NRK Sport",
@@ -3941,66 +4001,6 @@
       "summary": "Sjødronene har fått en blytung start og vurderes nå solgt. Asko og Noah har begge et ansvar for at regningen for fiaskoen ikke havner hos beboerne i Skolegaten.",
       "date_label": "05.11.2026",
       "timestamp": 1793890387
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "To personer kritisk skadd etter påkjørsel i Ås",
-      "url": "https://www.nrk.no/stor-oslo/to-personer-kritisk-skadd-etter-pakjorsel-i-as-1.18074973",
-      "summary": "To personer er fraktet til sykehus etter en påkjørsel i Ås. Begge de påkjørte, som er i 80-årene, var våkne da nødetatene kom fram til stedet. Nødetatene er på stedet, og det må påregnes kø og forsinkelser i området. Politiet ber bilister om å finne alternativ",
-      "date_label": "05.11.2026",
-      "timestamp": 1793889857
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793888980
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Watch: How rapist Brand was never far from controversy",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793888901
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Oppdal videregående ble evakuert etter funn av kjemisk stoff",
-      "url": "https://www.nrk.no/trondelag/elever-pa-oppdal-videregaende-evakuert-etter-funn-av-kjemisk-stoff-1.18074933",
-      "summary": "Oppdal videregående ble evakuert på grunn av eksplosjonsfare fra et kjemisk stoff inne på skolen.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793888361
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kollegaer dømde til fengsel i ni og seks år etter grov vald og valdtekt på brakkerigg",
-      "url": "https://www.nrk.no/mr/to-menn-domde-til-9-og-6-ars-fengsel-for-vald-og-valdtekt-pa-brakkerigg-i-ulstein-1.18063110",
-      "summary": "På ein brakkerigg i Ulstein blei mannen påført skadar som kunne kosta han livet. No er to kollegaer dømde til lange fengselsstraffer.",
-      "date_label": "05.11.2026",
-      "timestamp": 1793888279
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Budsjettforhandlinger starter fredag klokken 10",
-      "url": "https://www.nrk.no/nyheter/budsjettforhandlinger-starter-fredag-klokken-10-1.18074904",
-      "summary": "Arbeiderpartiet møter budsjettpartnerne MDG, Rødt, Senterpartiet og SV til første forhandlingsmøte om neste års statsbudsjett fredag klokken 10. Forhandlingene vil foregå i statsrådssalen på Stortinget. Finanskomiteens leder Tuva Moflag (Ap) leder forhandlinge",
-      "date_label": "05.11.2026",
-      "timestamp": 1793887725
     }
   ]
 }
