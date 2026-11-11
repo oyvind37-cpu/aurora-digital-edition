@@ -1,14 +1,144 @@
 {
-  "updated": "2026-11-10T23:30:08Z",
+  "updated": "2026-11-11T02:57:37Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794365279
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794364876
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trumps BBC-søksmål går videre",
+      "url": "https://www.nrk.no/nyheter/trumps-bbc-soksmal-gar-videre-1.18078857",
+      "summary": "En amerikansk føderal dommer har gitt USAs president Donald Trump grønt lys til å gå videre med ærekrenkelses-søksmålet på minst 10 milliarder dollar mot BBC. Trump saksøkte den britiske kringkasteren i desember i fjor etter at en BBC-dokumentar hadde redigert",
+      "date_label": "11.11.2026",
+      "timestamp": 1794362733
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Innbyggerne må betale kommunens gjeld - slik vil det påvirke lommeboka di",
+      "url": "https://www.sandeavis.no/innbyggerne-ma-betale-kommunens-gjeld-slik-vil-det-pavirke-lommeboka-di/s/80-72-6962",
+      "summary": "Det store underskuddet til Holmestrand kommune vil gi økte levekostnader.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794362400
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794359680
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794358880
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794356762
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794356382
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794356353
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794356287
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794356204
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "date_label": "11.11.2026",
+      "timestamp": 1794355327
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Dronangrep mørkla deler av Zelenskyjs hjemby",
+      "url": "https://www.nrk.no/nyheter/dronangrep-morkla-deler-av-zelenskyjs-hjemby-1.18078854",
+      "summary": "Strømmen gikk i deler av den sentralukrainske byen Kryvyj Rih etter et droneangrep, opplyste lederen for byens forsvarsråd, Oleksandr Vilkul, på Telegram natt til onsdag. Angrepet rammet også vann- og varmeforsyningen, ifølge Vilkul. – Vi stabiliserer vann- og",
+      "date_label": "11.11.2026",
+      "timestamp": 1794355251
+    },
     {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
       "title": "Over 11.000 ebolatilfeller i Kongo",
       "url": "https://www.nrk.no/nyheter/over-11.000-ebolatilfeller-i-kongo-1.18078851",
-      "summary": "Antallet bekreftede ebolatilfeller i Den demokratiske republikken Kongo har nådd 11.042, viser tall fra landets myndigheter tirsdag. Over 5000 personer har mistet livet siden utbruddet startet i mai i år.",
+      "summary": "Antallet bekreftede ebolatilfeller i Den demokratiske republikken Kongo har nådd 11.042, viser tall fra landets myndigheter tirsdag. 5387 personer har mistet livet siden utbruddet startet i mai. Det er dermed det nest største og nest dødeligste ebolautbruddet ",
       "date_label": "10.11.2026",
       "timestamp": 1794351520
     },
@@ -31,16 +161,6 @@
       "summary": "Esbjergs stolte hjemmestatistikk ble satt på prøve av Ikast tirsdag, men anført av nimålsscorer Henny Reistad halte vertene i land 28-27-seier i dansk eliteserie håndball. Esbjerg har ikke tapt hjemme i dansk liga på halvannet år, men serielederen var ille ute",
       "date_label": "10.11.2026",
       "timestamp": 1794349339
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794349065
     },
     {
       "source": "NRK Siste",
@@ -161,6 +281,16 @@
       "summary": "En logo-krangel mellom Bodø/Glimt og en supporterpodkast kan ende opp med å bli advokatmat.",
       "date_label": "10.11.2026",
       "timestamp": 1794342564
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "date_label": "10.11.2026",
+      "timestamp": 1794342004
     },
     {
       "source": "Jarlsberg Avis",
@@ -1383,9 +1513,9 @@
       "timestamp": 1794289124
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
       "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
       "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
@@ -1513,9 +1643,9 @@
       "timestamp": 1794276000
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
       "title": "Qantas to outsource 850 local jobs with most roles moving to India",
       "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
       "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
@@ -3871,136 +4001,6 @@
       "summary": "President i kampsportforbundet UFC, Dana White, takker nei til tilbudet fra Donald Trump om å bli ny pressesekretær i Det hvite hus, melder Reuters. Jobben som pressetalsperson har vært ledig siden Katie Zacharia sa opp 16. oktober etter bare fem dager i jobbe",
       "date_label": "07.11.2026",
       "timestamp": 1794087737
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Ipswich Town's new club shop 'here to stay'",
-      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fans and players are delighted at the new \"activation space\" in the town centre.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794087632
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794087376
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Norris starter først i Brasil – massivt regnvær preget Formel 1-kvalifiseringen",
-      "url": "https://www.nrk.no/sport/norris-starter-forst-i-brasil-_-massivt-regnvaer-preget-formel-1-kvalifiseringen-1.18076600",
-      "summary": "McLaren-føreren Lando Norris var raskest i Formel 1-kvalifiseringen og starter fra pole position i São Paulo Grand Prix. Et voldsomt styrtregn førte til at den første kvalifiseringsrunden ble avbrutt i over én time. Da førerne fikk kjøre på banen igjen, var de",
-      "date_label": "07.11.2026",
-      "timestamp": 1794084668
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Tannlegestudentene kaster nesten bare plast: – Vi snakker om et overforbruk",
-      "url": "https://www.nrk.no/tromsogfinnmark/ny-studie-fra-tromso-og-bergen_-98-prosent-av-avfallet-hos-tannlegestudentene-er-plast-1.18076514",
-      "summary": "Den norske tannlegeforening sier dette er en utfordring de tar på alvor.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794084320
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Eisenkot får i oppdrag å danne regjering i Israel",
-      "url": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617",
-      "summary": "Israels president har gitt opposisjonsleder Gadi Eisenkot i oppdrag å prøve danne regjering. Hverken partiene som støtter statsminister Benjamin Netanyahu eller partiene som støtter Eisenkot fikk flertall ved valget 27. november. Netanyahus blokk fikk 53 plass",
-      "date_label": "07.11.2026",
-      "timestamp": 1794081804
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Nytt luftvern på plass i Norge",
-      "url": "https://www.nrk.no/trondelag/nytt-luftvern-pa-plass-i-norge-1.18072101",
-      "summary": "Det har mulighet til å skyte ut tre ulike typer missiler samtidig, og skal gi bedre beskyttelse av landet.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794079507
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Paraguay's former president charged after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794079042
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Svensson-show senket Start: sørlendingene skimter stupet",
-      "url": "https://www.nrk.no/sport/svensson-show-senket-start_-sorlendingene-skimter-stupet--1.18076591",
-      "summary": "Jonas Svensson sto for både målgivende og scoring da medaljejagende Rosenborg feide over tabelljumboen Start. Vertene hadde kontroll på spillet i åpningsminuttene på Lerkendal, men slet med å få hull på byllen. Forløsningen kom like etter halvspilt førsteomgan",
-      "date_label": "07.11.2026",
-      "timestamp": 1794077619
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Trump tilbyr Dana White jobben som pressetalsperson",
-      "url": "https://www.nrk.no/nyheter/trump-tilbyr-dana-white-jobben-som-pressetalsperson-1.18076605",
-      "summary": "President Donald Trump har tilbudt jobben som pressetalsperson for Det hvite hus til president i kampsportforbundet UFC, Dana White. Det skriver Trump på Truth Social. Jobben som pressetalsperson har vært ledig siden Katie Zacharia ble sagt opp 16. oktober ett",
-      "date_label": "07.11.2026",
-      "timestamp": 1794077206
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "I år får vi ei ekstra veke: – Blir fort konflikt av det",
-      "url": "https://www.nrk.no/nordland/veke-53-gjer-planlegging-vanskeleg-for-foreldre-med-delt-omsorg-1.18061571",
-      "summary": "Vanlegvis har året 52 veker, men ikkje i år. Det kan gje uante utfordringar for fleire.",
-      "date_label": "07.11.2026",
-      "timestamp": 1794076972
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Norsk jubel i Champions League – Sola og Storhamar vant",
-      "url": "https://www.nrk.no/sport/norsk-jubel-i-champions-league-_-sola-og-storhamar-vant-1.18076613",
-      "summary": "Sola nedkjempet slovenske Krim 29-22 og tok sin andre strake seier i gruppespillet i Champions League. Storhamar vant i Danmark. Camilla Herrem og co. sto med fem strake tap i innledningen av puljespillet i den gjeve turneringen, men rekken stoppet da Sola for",
-      "date_label": "07.11.2026",
-      "timestamp": 1794076818
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Bergenser vitne til skytingen i Krakow: – Tydelig at det var noe dramatisk",
-      "url": "https://www.nrk.no/artikkel/minst-seks-dode-i-skyting-i-polen-1532407",
-      "summary": "",
-      "date_label": "07.11.2026",
-      "timestamp": 1794076581
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Nye masseprotester i Frankrike",
-      "url": "https://www.nrk.no/nyheter/nye-masseprotester-i-frankrike-1.18076589",
-      "summary": "Tusener av mennesker protesterte over hele Frankrike igjen lørdag. Men myndighetene sier at antallet som er med, er lavere enn de tre foregående lørdagene. Ifølge myndighetene deltok 146.000 mennesker i protester over hele landet, inkludert rundt 46.000 i Pari",
-      "date_label": "07.11.2026",
-      "timestamp": 1794075665
     }
   ]
 }
