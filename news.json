@@ -1,7 +1,537 @@
 {
-  "updated": "2026-11-12T16:20:18Z",
+  "updated": "2026-11-12T22:19:00Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Zelenskyj: Blir krigens største fangeutveksling",
+      "url": "https://www.nrk.no/nyheter/zelenskyj_-blir-krigens-storste-fangeutveksling-1.18080861",
+      "summary": "Under fredssamtalene i Abu Dhabi ble Ukraina og Russland enige om en større fangeutveksling. Torsdag kveld sier Ukrainas president Volodymyr Zelenskyj at dette blir den største utvekslingen så langt i krigen. Uttalelsen kommer mens han er i Dublin for å møte U",
+      "date_label": "12.11.2026",
+      "timestamp": 1794521342
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Italiensk jubel tross tabbe fra Donnarumma",
+      "url": "https://www.nrk.no/sport/italiensk-jubel-tross-tabbe-fra-donnarumma-1.18080797",
+      "summary": "Italia overtar ledelsen i gruppe A1 i nasjonsligaen etter at de vant 3–1 hjemme mot Frankrike. Det var franskmennene som tok ledelsen etter en brøler av Italia-målvakt Gianluigi Donnarumma. Manchester City-målvakten sendte ballen rett til Michael Olise, som en",
+      "date_label": "12.11.2026",
+      "timestamp": 1794519678
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Samlet industrien og ministeren i Lyngen",
+      "url": "https://www.nrk.no/tromsogfinnmark/samlet-industrien-og-ministeren-i-lyngen-1.18080667",
+      "summary": "Spørsmål om krig og beredskap ble stilt på Industriens dag i Lyngen. – Vi vet ikke hva som kommer rundt neste sving, sier arrangøren.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794519421
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Historiske Kane reddet England",
+      "url": "https://www.nrk.no/sport/historiske-kane-reddet-england-1.18080803",
+      "summary": "Harry Kane ble historisk, og var tungen på vektskålen da England slo Kroatia 2–1 i London. Ballon d'Or-vinneren spilte torsdag sin 126. kamp med flagget på brystet. Dermed passerte han Peter Shilton, og er nå i ensom majestet den engelskmannen med flest landsk",
+      "date_label": "12.11.2026",
+      "timestamp": 1794519412
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fall i Nvidia-aksjen dro ned Wall Street",
+      "url": "https://www.nrk.no/nyheter/fall-i-nvidia-aksjen-dro-ned-wall-street-1.18080841",
+      "summary": "Nedgangen i aksjene til brikkeprodusenten Nvidia dro ned verdiene på børsen i New York torsdag. Til tross for oppgang i energisektoren, endte indeksene på Wall Street i rødt da handelen stengte torsdag. Nedgangen i Nvidia fortsatte etter Jensen Huangs avgang s",
+      "date_label": "12.11.2026",
+      "timestamp": 1794519150
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Vålerenga-smell etter snøkaoset – knust av Nidaros",
+      "url": "https://www.nrk.no/sport/valerenga-smell-etter-snokaoset-_-knust-av-nidaros-1.18080825",
+      "summary": "Serieleder Vålerenga gikk på et sjeldent tap i 0-4-kampen mot Nidaros. Oppgjøret kom sent i gang som følge av flytrøbbel for Oslo-laget. Nidaros har hatt en svært solid start på sesongen, og tomålsscorer Leonards Rimjans, Anton Öhman og Joachim Barmoen sørget ",
+      "date_label": "12.11.2026",
+      "timestamp": 1794519117
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794518841
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794517242
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Togtrafikken flyt igjen på Oslo S",
+      "url": "https://www.nrk.no/nyheter/togtrafikken-flyt-igjen-pa-oslo-s-1.18080836",
+      "summary": "Det var tidlegare problem grunna ein jordfeil, skreiv Vy på sine nettsider. Klokka 22:03 kunne Bane NOR opplyse at alt er i orden. Feilen ramma togtrafikken på Austlandet og gjeld både Vy, Flytoget og SJ Nord.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794516912
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nok et tap for Narvik Hockey",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "summary": "",
+      "date_label": "12.11.2026",
+      "timestamp": 1794516813
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Amerikanske forhandlarar i Dublin for å møte Zelenskyj",
+      "url": "https://www.nrk.no/nyheter/amerikanske-forhandlarar-i-dublin-for-a-mote-zelenskyj-1.18080830",
+      "summary": "Spesialutsendingane Steve Witkoff og Jared Kushner har landa i Dublin, etter dei var i Moskva for Ukraina-samtalar tidlegare torsdag. Det er venta at EU sitt toppmøte fredag handlar om dei pågåande samtalane mellom stormaktene om krigen i Ukraina. TIdlegare to",
+      "date_label": "12.11.2026",
+      "timestamp": 1794516153
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Skuffa etter ministermøte - fekk ikkje sluttdato for Sotra-kaoset",
+      "url": "https://www.nrk.no/artikkel/skuffa-etter-ministermote-fekk-ikkje-sluttdato-for-sotra-kaoset-1532882",
+      "summary": "",
+      "date_label": "12.11.2026",
+      "timestamp": 1794516004
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "FN-sjefen refser inntektsboom i oljebransjen: – Moralsk uakseptabelt",
+      "url": "https://www.nrk.no/nyheter/fn-sjefen-refser-inntektsboom-i-oljebransjen_-_-moralsk-uakseptabelt-1.18080796",
+      "summary": "Rekordinntekter fører til at FN-sjef, Antonio Guterres, krever at lands regjeringer setter befolkningene sine foran penger. – Regjeringene er nødt til å beskytte interessene til sitt folk – ikke interessene til en gruppe selskap, sier FN-sjefen til nyhetsbyråe",
+      "date_label": "12.11.2026",
+      "timestamp": 1794515299
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Carlsen reddet remis etter tabbe – henger bak teten",
+      "url": "https://www.nrk.no/sport/carlsen-reddet-remis-etter-tabbe-_-henger-bak-teten-1.18080823",
+      "summary": "Magnus Carlsen står fortsatt uten seier i gruppespillet i Total Chess-pilotturneringen i Budapest. Mot amerikanske Abhimanyu Mishra ble det to remis dagen etter at det ble samme resultat mot Anish Giri. I gruppespillet er det 1 poeng for remis og 3 for seier, ",
+      "date_label": "12.11.2026",
+      "timestamp": 1794515023
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794514863
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Pepperkakebyen åpner lørdag",
+      "url": "https://www.nrk.no/video/1a5d9bda-0c4e-46ba-ae02-78d76846be07",
+      "summary": "For 35. gang er Pepperkakebyen i Bergen klar til å ta imot store og små. Men fornøyelsen koster. Arrangøren forsvarer billettprisen.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794514266
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794514156
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Mia Synnøve (37) fra Holmestrand danket ut 400 søkere: – Det er litt vilt å tenke på",
+      "url": "https://www.jarlsbergavis.no/mia-synnove-37-fra-holmestrand-danket-ut-400-sokere-det-er-litt-vilt-a-tenke-pa/s/80-26-12794",
+      "summary": "Etter en karriere som har tatt henne fra TV-produksjoner som «Farmen» og «71 grader nord» til treningsbransjen og mote, har Holmestrand-bosatte Mia Synnøve Hansen (37) sikret seg en ny og spennende jobb.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794513600
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Konkurstruet klubb har valgt nytt styre",
+      "url": "https://www.nrk.no/innlandet/konkurstruet-klubb-har-valgt-nytt-styre-1.18080806",
+      "summary": "Vegard Jensrud ble torsdag kveld enstemmig valgt som ny styreleder i Raufoss toppfotball på et ekstraordinært årsmøte i den konkurstruede klubben. Samtidig tar Monica Engejordet over som nestleder i klubben. Ifølge klubben var nærmere 70 personer var til stede",
+      "date_label": "12.11.2026",
+      "timestamp": 1794512996
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Norsk jubelkveld tross uavgjort i Mesterligaen – helnorsk scoringsliste",
+      "url": "https://www.nrk.no/sport/norsk-jubelkveld-tross-uavgjort-i-mesterligaen-_-helnorsk-scoringsliste-1.18080652",
+      "summary": "Etter 1–1 i den «norske duellen» mellom Barcelona og Arsenal var det nettopp de norske kvinnene som hadde mest å juble for. For både Caroline Graham Hansen og Frida Leonhardsen Maanum både startet og var toneangivende i mesterligakampen. Første stikk var det A",
+      "date_label": "12.11.2026",
+      "timestamp": 1794512392
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794512017
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Regjeringen vil hindre russiske idrettsutøvere i Norge",
+      "url": "https://www.nrk.no/sport/regjeringen-vil-hindre-russiske-idrettsutovere-i-norge-1.18080781",
+      "summary": "Regjeringen ønsker å hindre profesjonelle utøvere og støtteapparat fra Russland og Belarus innreise i Norge så lenge krigen i Ukraina pågår. – Norge har allerede en restriktiv visumpraksis for russiske og belarusiske borgere, men strammer nå inn ytterligere på",
+      "date_label": "12.11.2026",
+      "timestamp": 1794511939
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Regjeringa nektar russiske atletar å konkurrere i Noreg",
+      "url": "https://www.nrk.no/nyheter/regjeringa-nektar-russiske-atletar-a-konkurrere-i-noreg-1.18080795",
+      "summary": "Ingen idrettsutøvarar frå verken Russland eller Belarus får konkurrere i Noreg så lenge krigen i Ukraina pågår. Det kjem fram i ei melding frå regjeringa. Fleire internasjonale idrettsforbund har mjukna opp sine reglar for utøvarar frå dei to landa, for å hjel",
+      "date_label": "12.11.2026",
+      "timestamp": 1794511925
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Avinor: Over 150 flygingar berørt av snøvêret",
+      "url": "https://www.nrk.no/nyheter/avinor_-over-150-flygingar-berort-av-snoveret-1.18080791",
+      "summary": "Av totalt rundt 500 flygingar i dag har 150 blitt innstilte eller utsette, det opplyser Monica Iren Fasting i Avinor. Brøyting ved flystripa på Oslo lufthamn har før til vidare forseinkingar. Tung, våt snø skapar ekstra problem og er tidkrevande for flyplassen",
+      "date_label": "12.11.2026",
+      "timestamp": 1794511476
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794511382
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ruth Eli flytter til den andre siden av kvikkleireskredet",
+      "url": "https://www.nrk.no/tromsogfinnmark/kolonnekjoring-to-ganger-daglig-forbi-raset-i-austertana-1.18079856",
+      "summary": "Veien forbi rasstedet i Austertana blir åpnet to ganger hver dag fremover. Men Ruth Eli Sør-Reime flytter midlertidig for å unngå kolonnekjøring og usikkerhet.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794510678
+    },
+    {
+      "source": "NRK Vestfold",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Danske herjet mot Sandefjord",
+      "url": "https://www.nrk.no/vestfoldogtelemark/danske-herjet-mot-sandefjord-1.18080783",
+      "summary": "Elverum slo Sandefjord 41–35 og skal møte Bergen til finale i håndball-NM i Oslo Spektrum i romjula. Elverum tok kontrollen fra start i bortekampen og ledet med seks mål til pause. Avansementet var aldri truet etter hvilen. Frederik Emil Pedersen ble Elverums ",
+      "date_label": "12.11.2026",
+      "timestamp": 1794510079
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Elverum klar for NM-finale – danske herjet mot Sandefjord",
+      "url": "https://www.nrk.no/sport/elverum-klar-for-nm-finale-_-danske-herjet-mot-sandefjord-1.18080779",
+      "summary": "Elverum slo Sandefjord 41-35 og skal møte Bergen til finale i håndball-NM i Oslo Spektrum i romjula. Favoritt Elverum tok kontrollen fra start i bortekampen og ledet med seks mål til pause. Avansementet var aldri truet etter hvilen. Frederik Emil Pedersen ble ",
+      "date_label": "12.11.2026",
+      "timestamp": 1794509687
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794509255
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Jonas Abrahamsen røper gladnyhet",
+      "url": "https://www.nrk.no/sport/jonas-abrahamsen-roper-gladnyhet-1.18080773",
+      "summary": "Jonas Abrahamsen og kjæresten Margrete Skaugen er forlovet. Det deler paret på Instagram i et innlegg hvor Skaugen viser fram hånden og ringen sin til kamera. I bildeteksten står det «Some good news 💍❤️☀️🍁». Abrahamsen sykler for det norske laget Uno-X, og bla",
+      "date_label": "12.11.2026",
+      "timestamp": 1794509134
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Alvorlig syke rammes av SAS-kutt: – En ekstrabelastning de absolutt ikke trenger",
+      "url": "https://www.nrk.no/nordland/helse-nord-og-kreftforeningen-er-svaert-bekymret-nar-sas-kutter-direkteruta-mellom-bodo-og-tromso-1.18080290",
+      "summary": "SAS spår krevende måneder, og kutter direkteruta mellom Trondheim, Bodø og Tromsø. Både Kreftforeningen og Helse Nord ber politikerne om hjelp.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794509128
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Argentina-treneren forlenget – Har den samme lysten",
+      "url": "https://www.nrk.no/sport/argentina-treneren-forlenget-_-har-den-samme-lysten-1.18080735",
+      "summary": "Lionel Scaloni har signert for fire nye år som trener for Argentinas fotballherrer. Scaloni ledet Argentina til finalen i årets VM, der det ble tap for Spania. Torsdag opplyser Argentinas Fotballforbund at Scaloni fortsetter i jobben til etter VM i 2030. – Jeg",
+      "date_label": "12.11.2026",
+      "timestamp": 1794508634
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Sjå torsdagens TV-sending her",
+      "url": "https://www.nrk.no/video/DKMR98111226",
+      "summary": "",
+      "date_label": "12.11.2026",
+      "timestamp": 1794508547
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Midtnytt - Bli med på åpning av ny E6",
+      "url": "https://www.nrk.no/video/DKTL98111226",
+      "summary": "",
+      "date_label": "12.11.2026",
+      "timestamp": 1794508148
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ingen umiddelbare konsekvenser etter ulovlige millionavtaler: Skyver ansvaret til styret",
+      "url": "https://www.nrk.no/vestfoldogtelemark/ingen-umiddelbare-konsekvenser-etter-ulovlige-millionavtaler_-skyver-ansvaret-til-styret-1.18080442",
+      "summary": "Ulovlige avtaler for 23 millioner kroner og en inhabil rektor får foreløpig ingen konsekvenser. Nå må skolestyret ved Fagskolen Vestfold og Telemark rydde opp.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794508139
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Mener hjelpetilbudet til rusavhengige har blitt dårligere",
+      "url": "https://www.nrk.no/video/DKNO98111226",
+      "summary": "",
+      "date_label": "12.11.2026",
+      "timestamp": 1794507786
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Over 144.000 Norwegian og Widerøe-passasjerer rammet av datainnbrudd",
+      "url": "https://www.nrk.no/nyheter/over-144.000-norwegian-og-wideroe-passasjerer-rammet-av-datainnbrudd-1.18080740",
+      "summary": "Informasjon om 144.249 passasjerer hos Norwegian og Widerøe er lekket i forbindelse med datainnbruddet hos den spanske IT-leverandøren Amadeus. Det kommer fram i et brev Norwegian har sendt til Datatilsynet. Fra før har SAS opplyst om at 350.000 av deres passa",
+      "date_label": "12.11.2026",
+      "timestamp": 1794507568
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Kristiansand troner på toppen av hærverks-statistikk",
+      "url": "https://www.nrk.no/video/DKSL98111226",
+      "summary": "",
+      "date_label": "12.11.2026",
+      "timestamp": 1794507504
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Travel dag for bilbergerne. Se mer i TV-sendinga",
+      "url": "https://www.nrk.no/video/DKIN98111226",
+      "summary": "",
+      "date_label": "12.11.2026",
+      "timestamp": 1794507098
+    },
+    {
+      "source": "NRK Vestfold",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Else Kåss Furuseth fikk pris",
+      "url": "https://www.nrk.no/vestfoldogtelemark/else-kass-furuseth-fikk-pris-1.18080724",
+      "summary": "Else Kåss Furuseth er utnevnt til «Månedens dialogstemme» for november av Nobels Fredssenter. Det skriver Sandefjords Blad. 46-åringen som er bosatt i Sandefjord hedres for sitt arbeid med å bryte ned tabuer og bekjempe ensomhet, særlig gjennom den aktuelle NR",
+      "date_label": "12.11.2026",
+      "timestamp": 1794507011
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Usikker på retur etter tragedien: – Han er dypt preget",
+      "url": "https://www.nrk.no/sport/usikker-pa-retur-etter-tragedien_-_-han-er-dypt-preget-1.18080730",
+      "summary": "Det er ikke klart når eller om FC Andorra-keeper Jesus Owono vil returnere til fotballbanen etter Jesus de Miguels dødsfall. Tenerife-spiller De Miguel fikk hjertestans da han kolliderte med Owono i høy hastighet i en kamp 3. november. De Miguel ble dagen ette",
+      "date_label": "12.11.2026",
+      "timestamp": 1794506729
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "VM-trekning 11. desember – disse kan Norge møte",
+      "url": "https://www.nrk.no/sport/vm-trekning-11.-desember-_-disse-kan-norge-mote-1.18080666",
+      "summary": "Fifa har kunngjort tidspunktet og opplegget for trekningen til kvinnenes fotball-VM i Brasil i 2027. Der skal Norge være med dersom det blir seier i siste hinder, dobbeltkampen mot Wales i starten av neste måned. De norske fotballkvinnene har deltatt i hvert e",
+      "date_label": "12.11.2026",
+      "timestamp": 1794506561
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Jeppe (19) ofrer fritiden for toppverv: – Satte hobbyene til side",
+      "url": "https://www.jarlsbergavis.no/jeppe-19-ofrer-fritiden-for-toppverv-satte-hobbyene-til-side/s/80-26-13205",
+      "summary": "Klatring, teater og pianotimer er byttet ut med politiske møter. 19 år gamle Jeppe Hagen Myhre fra Holmestrand har satt fritiden på vent for å kjempe for unges stemme.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794506400
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794504734
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Årets trønder-juryen er samlet: – Vil skape håp i Trøndelag",
+      "url": "https://www.nrk.no/trondelag/arets-tronder-juryen-er-samlet_-_-vil-skape-hap-i-trondelag-1.18080351",
+      "summary": "Nesten 400 nominasjoner er sendt inn til kåringen Årets trønder og Årets hverdagshelt. Torsdag skal juryen bestemme finalistene.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794504220
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Gry Eirin Skjelbred gir deg siste nytt",
+      "url": "https://www.nrk.no/video/DKVT98111226",
+      "summary": "",
+      "date_label": "12.11.2026",
+      "timestamp": 1794503654
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794503508
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Byttet ut reklamebyrå med vaskebøtter og kunst: – Føler meg privilegert",
+      "url": "https://www.jarlsbergavis.no/byttet-ut-reklamebyra-med-vaskebotter-og-kunst-foler-meg-privilegert/s/80-26-10188",
+      "summary": "Hanne Gunnestad (57) maler i all ledig tid. Hun drømmer om en middag med Edvard Munch og skulle gjerne deltatt i et realityprogram om å male.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794503400
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Arbeidsgiverutvalget i Tromsø har konkludert: – Ikke sannsynliggjort brudd på arbeidsmiljøloven",
+      "url": "https://www.nrk.no/tromsogfinnmark/arbeidsgiverutvalget-i-tromso-har-konkludert_-_-ikke-sannsynliggjort-brudd-pa-arbeidsmiljoloven-1.18080683",
+      "summary": "I en e-post sendt ut torsdag kveld konkluderer arbeidsgiverutvalget med at det ikke er sannsynliggjort brudd på loven i varslingssaken mot kommunedirektøren. Samtidig varsler utvalget et nytt møte etter å ha mottatt flere opplysninger fra varslerne.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794502788
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794502452
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794501816
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Snøen er her: – Den kunne ventet litt til!",
+      "url": "https://www.nrk.no/video/71ae4dcc-4e40-423a-b7fe-bb07eb1f84d0",
+      "summary": "",
+      "date_label": "12.11.2026",
+      "timestamp": 1794501079
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ørsta og Volda: Begge kommunane går vidare med arbeidet med samanslåing",
+      "url": "https://www.nrk.no/mr/politikarane-i-volda-og-orsta-avgjer-om-dei-skal-ga-vidare-med-planane-om-samanslaing-1.18075393",
+      "summary": "Politikarane i Volda og Ørsta vil førebels ikkje seie nei til samanslåing. Men skeptikarane er mange. Endeleg avgjerd kjem før sommaren.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794500894
+    },
     {
       "source": "NRK Norge",
       "category": "norge",
@@ -31,16 +561,6 @@
       "summary": "",
       "date_label": "12.11.2026",
       "timestamp": 1794499616
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794499330
     },
     {
       "source": "NRK Siste",
@@ -103,19 +623,9 @@
       "timestamp": 1794496700
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794496599
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
       "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
       "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
@@ -183,16 +693,6 @@
       "timestamp": 1794493799
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794493650
-    },
-    {
       "source": "Sande Avis",
       "category": "holmestrand",
       "topic": "lokalt",
@@ -256,7 +756,7 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
       "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
       "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
       "date_label": "12.11.2026",
@@ -271,6 +771,16 @@
       "summary": "Forsvarsminister Tore O. Sandvik (Ap) og hans britiske motpart Wes Streeting kunngjorde torsdag en avtale mellom landene om skipskjøp. Avtalen går ut på at Storbritannia skal kjøpe tre norskproduserte «moderskip» for ubemannede mineryddingssystemer, opplyser d",
       "date_label": "12.11.2026",
       "timestamp": 1794492614
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794491929
     },
     {
       "source": "NRK Siste",
@@ -311,16 +821,6 @@
       "summary": "Det har vore eit ras i Todalen i Aure. Ein person skal ha falle frå ein lift under rassikring, og ei heil bygd er innestengt.",
       "date_label": "12.11.2026",
       "timestamp": 1794489778
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794489419
     },
     {
       "source": "Sande Avis",
@@ -401,16 +901,6 @@
       "summary": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
       "date_label": "12.11.2026",
       "timestamp": 1794487364
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794487179
     },
     {
       "source": "NRK Norge",
@@ -503,6 +993,16 @@
       "timestamp": 1794482040
     },
     {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794481639
+    },
+    {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
@@ -539,16 +1039,6 @@
       "title": "Knut har jobbet med tunge kjøretøy i 48 år. Nå varsler han oppvask etter busskaoset: – Dette er helt utrolig",
       "url": "https://www.jarlsbergavis.no/knut-har-jobbet-med-tunge-kjoretoy-i-48-ar-na-varsler-han-oppvask-etter-busskaoset-dette-er-helt-utrolig/s/80-76-76870",
       "summary": "– Det er jo helt … nesten … det er jo helt utrolig.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794478415
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
       "date_label": "12.11.2026",
       "timestamp": 1794478415
     },
@@ -1533,16 +2023,6 @@
       "timestamp": 1794417000
     },
     {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Lange køer på E6 - tre vogntog involvert",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
-      "summary": "",
-      "date_label": "11.11.2026",
-      "timestamp": 1794416998
-    },
-    {
       "source": "BBC Business",
       "category": "okonomi",
       "topic": "okonomi",
@@ -1943,9 +2423,9 @@
       "timestamp": 1794396890
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
       "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
       "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
@@ -3521,486 +4001,6 @@
       "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
       "date_label": "10.11.2026",
       "timestamp": 1794303631
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Tre ble tatt med høy fart ved Botne kirke",
-      "url": "https://www.jarlsbergavis.no/tre-ble-tatt-ved-botne-kirke/s/80-26-13085",
-      "summary": "",
-      "date_label": "10.11.2026",
-      "timestamp": 1794303579
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Watch: Man smashes Chinese government building with excavator",
-      "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794303435
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794302635
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "June (18) er ikke troende – likevel valgte hun kristen privatskole",
-      "url": "https://www.nrk.no/rogaland/1-av-3-elever-pa-kristne-videregaende-skoler-er-ikke-kristne-1.18066142",
-      "summary": "Lite drikkepress og lærere som bryr seg, er elevenes opplevelse av kristne videregående skoler. Elevtallet øker, men én av tre tror ikke på Gud.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794302268
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Politimann drept i Spania",
-      "url": "https://www.nrk.no/nyheter/politimann-drept-i-spania-1.18078130",
-      "summary": "En politimann er drept og en annen skadd etter en eksplosjon i forbindelse med en nabolagskrangel i Oviedo i den autonome regionen Asturia nord i landet.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794302184
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ser på skulestrukturen i Harstad – foreslår å sende barneskuleelevar med ferje",
-      "url": "https://www.nrk.no/tromsogfinnmark/harstad-kommune-ser-pa-skulestruktur-1.18078136",
-      "summary": "Politikarane i Harstad må kutte millionar innanfor skulesektoren det kommande året. Skulane i Øyriket og Sørvik står i fare for å bli lagt ned.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794301886
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Sender ut farevarsel om snø: Kan komme 15 centimeter",
-      "url": "https://www.jarlsbergavis.no/sender-ut-farevarsel-om-sno-kan-komme-15-centimeter/s/80-26-13034",
-      "summary": "Det er ventet snø i vårt område torsdag. Meteorologene har nå sendt ut farevarsel og varsler lokalt vanskelige kjøreforhold.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794301875
-    },
-    {
-      "source": "NRK Oslo",
-      "category": "lokalt",
-      "topic": "lokalt",
-      "title": "Gult farevarsel for snø",
-      "url": "https://www.nrk.no/vestfoldogtelemark/gult-farevarsel-for-sno-1.18078047",
-      "summary": "For store deler av Akershus, Oslo, Østfold, Vestfold og nedre Buskerud er det sendt ut gult farevarsel for snø på torsdag. Det er ventet rundt 5-15 centimeter med snø. Meteorologene advarer om lokalt vanskelige kjøreforhold. – Noen reiser vil kunne få lengre r",
-      "date_label": "10.11.2026",
-      "timestamp": 1794301491
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Gult farevarsel for snø på Østlandet",
-      "url": "https://www.nrk.no/nyheter/gult-farevarsel-for-sno-pa-ostlandet-1.18078092",
-      "summary": "Torsdag morgen er det stor sjanse for hvitt belegg på bakken på Østlandet. Meteorologisk institutt har sendt ut gult varsel for snø for det store deler av Akershus, Oslo, Østfold, Vestfold og nedre Buskerud. Det er ventet omkring 5 til 15 centimeter snø fra to",
-      "date_label": "10.11.2026",
-      "timestamp": 1794301283
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Stort kvikkleireskred: Rammer trafikken til Berlevåg og Båtsfjord",
-      "url": "https://www.nrk.no/tromsogfinnmark/stort-jordskred-i-tana-1.18078089",
-      "summary": "Store masser med jord har rast ut, tett inntil fylkesvei 890 i Austertana i Øst-Finnmark. Store kjøretøy over 3,5 tonn får ikke passere.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794300070
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794299945
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Høyre og Frp krever støtte til dyre renseanlegg",
-      "url": "https://www.nrk.no/ostfold/flere-partier-ber-regjeringen-ta-deler-av-renseregning-1.18078010",
-      "summary": "118 kommuner rundt Oslofjorden bygger dyre renseanlegg, som innbyggerne må betale. Høyre og Frp ber regjeringen tar noe av regningen, mens MDG vil forhandle om det samme.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794299492
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "The Athletic og BBC: Uefa vil ha Wenger som Infantino-rival – bestemmer seg denne uka",
-      "url": "https://www.nrk.no/sport/the-athletic-og-bbc_-uefa-vil-ha-wenger-som-infantino-rival-_-bestemmer-seg-denne-uka-1.18078032",
-      "summary": "Tidligere Arsenal-manager Arsène Wenger skal av sentrale skikkelser i fotballen være ønsket som motkandidat til Gianni Infantino under presidentvalget i Fifa. En avklaring ventes om få dager. Det er BBC og The Athletic som hevder å ha kilder på at Det europeis",
-      "date_label": "10.11.2026",
-      "timestamp": 1794299097
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Problemene med ID-porten er løst",
-      "url": "https://www.nrk.no/nyheter/problemene-med-id-porten-er-lost-1.18078076",
-      "summary": "Problemene knyttet til innlogging på offentlige nettsider og tjenester er nå løst. ID-porten fikk problemer i 7-tiden i morgen etter vedlikehold. Nettsider som Lånekassen, Altinn, Nav og Helsenorge var blant tjenestene som ble rammet av problemene.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794299071
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794299001
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Zelenskyj møter nordiske regjeringssjefer i Danmark",
-      "url": "https://www.nrk.no/nyheter/zelenskyj-moter-nordiske-regjeringssjefer-i-danmark--1.18078069",
-      "summary": "Ukrainas president besøker Danmark i dag, bekrefter statsminister Mette Frederiksen. Stats og regjeringssjefer fra Norden skal også delta, heter det i uttalelsen. Ukrainas akutte behov for luftforsvar og beskyttelse av energisektoren er blant temaene som skal ",
-      "date_label": "10.11.2026",
-      "timestamp": 1794298025
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Flystyrt var falsk alarm",
-      "url": "https://www.nrk.no/nyheter/flystyrt-var-falsk-alarm-1.18078068",
-      "summary": "Meldingene om at et privatfly styrtet sør på Filippinene i dag, viste seg å ikke stemme. Det opplyser landets luftfartsmyndigheter – Flyet er gjort rede for og de har bekreftet at de landet tryg på Butuan-flyplassen, heter det i uttalelsen.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794296843
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Fugleinfluensaen har etablert seg på Svalbard",
-      "url": "https://www.nrk.no/tromsogfinnmark/fugleinfluensa-er-etablert-pa-svalbard-1.18077772",
-      "summary": "Fugleinfluensaen har etablert seg på Svalbard og blir spreidd mellom artar. Allereie har fleire dyr utvikla antistoff mot viruset.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794294667
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Frankrike: Europa vil være i forhandlingsrommet i Abu Dhabi",
-      "url": "https://www.nrk.no/nyheter/frankrike_-europa-vil-vaere-i-forhandlingsrommet-i-abu-dhabi-1.18078040",
-      "summary": "Frankrikes utenriksminister Jean-Noel Barrot sier Europa vil være til stede i rommet under fredsforhandlingene mellom Ukraina og Russland i Abu Dhabi i dag. – Storbritannia, Tyskland og Frankrike vil virkelig være i møterommet, sier han til radiokanalen France",
-      "date_label": "10.11.2026",
-      "timestamp": 1794294346
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Prisene steg med 3,6 prosent i oktober",
-      "url": "https://www.nrk.no/nyheter/prisene-steg-med-3_6-prosent-i-oktober-1.18078012",
-      "summary": "Prisene steg med 3,6 prosent siste tolv måneder, viser tall fra SSB. Prisen på matvarer steg med 1,6 prosent i samme periode. Matvareprisene sank 0,4 prosent fra september til oktober. Kjerneinflasjonen siste 12 måneder var 2,7 prosent.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794294033
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Bundesliga-spiller i trøbbel etter målfeiring",
-      "url": "https://www.nrk.no/sport/bundesliga-spiller-i-trobbel-etter-malfeiring-1.18078006",
-      "summary": "For den tyske midtbanespilleren Felix Nmecha viser det seg at sport og religion ikke alltid går hånd i hånd. Spesielt ikke når det gjelder å leve opp til Borussia Dortmunds uttalte verdier om toleranse og respekt. Nmecha, som er en uttalt kristen, har fått kri",
-      "date_label": "10.11.2026",
-      "timestamp": 1794293634
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Snøkrabben kan berge kysten – men Mikal Solhaug er nesten alene på fiskefeltet",
-      "url": "https://www.nrk.no/tromsogfinnmark/snokrabbe-kan-berge-kysten-nar-kvoter-pa-torsk-og-kongekrabbe-er-lav-1.18075746",
-      "summary": "Nedgangstider langs kysten har gjort at det nå satses for fullt på snøkrabbe i Finnmark. Men i dag er det kun én som fisker arten i fylket.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794292409
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Oxford museum returns ancestral Naga skulls to India",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
-      "summary": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794291822
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Independent bookshop closing after rise in bills",
-      "url": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794291772
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Flere offentlige nettsider sliter med innlogging",
-      "url": "https://www.nrk.no/nyheter/flere-offentlige-nettsider-sliter-med-innlogging-1.18077993",
-      "summary": "Det er problemer ID-porten som brukes til innlogging på offentlige digitale tjenester er også nede. Feilen rammer blant annet Helsenorge og Altinn. Brukere som forsøker å logge inn får feilmelding.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794291406
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "New chief outlines main issues facing Isle of Man",
-      "url": "https://www.bbc.co.uk/news/articles/cw0737zmv799o?at_medium=RSS&at_campaign=rss",
-      "summary": "The chief minister says connectivity and food storage were among his top government priorities.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794290941
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "NFL-legende ferdig som medeier i engelsk klubb",
-      "url": "https://www.nrk.no/sport/nfl-legende-ferdig-som-medeier-i-engelsk-klubb-1.18078005",
-      "summary": "Tom Brady trekker seg fra sin rolle i fotballklubben Birmingham, som han kjøpte seg inn i for tre år siden. Birmingham bekrefter mandag at NFL-legenden forlater klubben som jakter opprykk til Premier League. «Birmingham vil takke Tom Brady for hans involvering",
-      "date_label": "10.11.2026",
-      "timestamp": 1794290614
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
-      "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794289133
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Privatfly har styrtet på Filippinene",
-      "url": "https://www.nrk.no/nyheter/privatfly-har-styrtet-pa-filippinene-1.18077984",
-      "summary": "Et privatfly med seks utlendinger om bord har styrtet sør på Filippinene. Redningsmannskaper er på vei, og det er foreløpig ikke klart hvordan det har gått med dem som var om bord.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794289124
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794288159
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Norge på OECD-toppen i bruk av ufaglærte lærere",
-      "url": "https://www.nrk.no/nyheter/norge-pa-oecd-toppen-i-bruk-av-ufaglaerte-laerere-1.18077983",
-      "summary": "Andelen ikke-kvalifiserte lærere er over dobbelt så høy i Norge som gjennomsnittet for OECD-land, viser en ny rapport. Mens snittet i OECD for ufaglærte lærere er på 8,1 prosent, er andelen i Norge på hele 17,6 prosent. Andelen er spesielt høy i Nord-Norge. Da",
-      "date_label": "10.11.2026",
-      "timestamp": 1794287643
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Maskinen har bidratt til nesten halverte klimagassutslipp på Svalbard",
-      "url": "https://www.nrk.no/tromsogfinnmark/45-prosent-reduksjon-i-co_-utslipp-fra-energiforsyningen-i-longyearbyen-1.18062744",
-      "summary": "Nå ser energiselskapet etter flere måter å bli grønnere på. Det er det høye forventninger til, ifølge forsker.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794285709
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Glade naboer etter stopp for utbyggingsplaner",
-      "url": "https://www.nrk.no/vestfoldogtelemark/glade-naboer-etter-stopp-for-utbyggingsplaner-1.18077966",
-      "summary": "Naboer til Ra Gartneri i Stokke jubler etter at Statsforvalteren har satt foten ned for en omfattende reguleringsplan. Naboenes frykt var at et 40 måls område skulle settes av til næring og et større distribusjonsbygg. Nå er saken sendt tilbake til Sandefjord ",
-      "date_label": "10.11.2026",
-      "timestamp": 1794285223
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Bekymret for trafikksikkerheten på skoleveien på Hvitstein: – Så flere nestenulykker på 40 minutter",
-      "url": "https://www.jarlsbergavis.no/bekymret-for-trafikksikkerheten-pa-skoleveien-pa-hvitstein-sa-flere-nestenulykker-pa-40-minutter/s/80-26-12074",
-      "summary": "FAU og Gjøklep ungdomsskole har lenge etterlyst tiltak for en tryggere skolevei på Hvitsteintoppen. De har nå gjennomført trafikktelling, og mener det bare er flaks at det ikke har skjedd en alvorlig ulykke.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794285000
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Hva er det vi ikke vet?",
-      "url": "https://www.jarlsbergavis.no/hva-er-det-vi-ikke-vet/o/80-26-12329",
-      "summary": "",
-      "date_label": "10.11.2026",
-      "timestamp": 1794284700
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Oppfordrer alle til å legge en plan for alderdommen",
-      "url": "https://www.nrk.no/sorlandet/oppfordrer-alle-til-a-legge-en-plan-for-alderdommen-1.18077343",
-      "summary": "Ordføreren i Iveland oppfordrer alle til å planlegge alderdommen tidlig. Selv fjernet han trappen hjemme for flere år siden.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794284062
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Californians reject wealth tax for billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794281686
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kraftig økning i betalingsproblemer blant nordmenn",
-      "url": "https://www.nrk.no/nyheter/kraftig-okning-i-betalingsproblemer-blant-nordmenn-1.18077945",
-      "summary": "Andelen nordmenn med betalingsproblemer er doblet på to år, ifølge en undersøkelse fra inkassokonsernet Intrum. I selskapets spørreundersøkelse om nordmenns betalingsproblemer, svarer ti prosent at de har hatt slike problemer det siste året, skriver Dagens Nær",
-      "date_label": "10.11.2026",
-      "timestamp": 1794280628
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Velgerne i California sa nei til ekstraskatt på milliardformuer",
-      "url": "https://www.nrk.no/nyheter/velgerne-i-california-sa-nei-til-ekstraskatt-pa-milliardformuer-1.18077944",
-      "summary": "Velgerne i California har sagt nei til å innføre fem prosents skatt til innbyggere med en nettoformue på over 1 milliard dollar. Det ville ha vært den første skatten av sitt slag i USA. Teknologimilliardærer brukte enorme summer på å stanse forslaget. Folkeavs",
-      "date_label": "10.11.2026",
-      "timestamp": 1794280273
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Oljeprisen på sitt laveste nivå på ti uker",
-      "url": "https://www.nrk.no/nyheter/oljeprisen-pa-sitt-laveste-niva-pa-ti-uker-1.18077942",
-      "summary": "Oljeprisen falt kraftig mandag etter at USAs president Donald Trump sa det er lite sannsynlig at USA vil gjenoppta angrepene mot Iran. Nordsjøolje av Brent-kvalitet falt på det meste 7,9 prosent til 90,56 dollar fatet mandag, det laveste nivået siden 31. augus",
-      "date_label": "10.11.2026",
-      "timestamp": 1794277615
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Oljeprisen på sitt laveste på nivå på ti uker",
-      "url": "https://www.nrk.no/nyheter/oljeprisen-pa-sitt-laveste-pa-niva-pa-ti-uker-1.18077942",
-      "summary": "Oljeprisen falt kraftig mandag etter at USAs president Donald Trump sa det er lite sannsynlig at USA vil gjenoppta angrepene mot Iran. Nordsjøolje av Brent-kvalitet falt på det meste 7,9 prosent til 90,56 dollar fatet mandag, det laveste nivået siden 31. augus",
-      "date_label": "10.11.2026",
-      "timestamp": 1794277615
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Store endringer i Sandehallen: – Rensligere og mye tryggere",
-      "url": "https://www.sandeavis.no/sandehallen-sande-skytterlag-er-bekymret-for-fremtiden/s/80-72-6659",
-      "summary": "Sande Skytterlag har lagt ned flere hundre timer med dugnad – nå håper de det bidrar til enda flere medlemmer.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794276000
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794275722
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794275346
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794274729
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Australia krever varsling om løpsk KI",
-      "url": "https://www.nrk.no/nyheter/australia-krever-varsling-om-lopsk-ki-1.18077941",
-      "summary": "Australia vil gjøre det obligatorisk for selskaper innen kunstig intelligens å varsle umiddelbart dersom KI-modellene deres kommer ut av kontroll, annonserte den australske regjeringen natt til tirsdag. I tillegg må selskapene åpne for uavhengige vurderinger a",
-      "date_label": "10.11.2026",
-      "timestamp": 1794274518
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Trump: Nvidia-sjefen etterforskes av FBI",
-      "url": "https://www.nrk.no/nyheter/trump_-nvidia-sjefen-etterforskes-av-fbi-1.18077931",
-      "summary": "Det føderale politiet FBI etterforsker Nvidia-sjef Jensen Huangs forhold til en kvinne som mistenkes for å ha spionert for Kina, sa president Donald Trump under en pressebriefing mandag kveld. Trump sa også at Huang «ikke ante» at kvinnen angivelig er en kines",
-      "date_label": "10.11.2026",
-      "timestamp": 1794273487
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "I took Vinted to court to get my money back",
-      "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794270457
     }
   ]
 }
