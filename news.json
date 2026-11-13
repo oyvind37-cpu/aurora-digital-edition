@@ -1,7 +1,147 @@
 {
-  "updated": "2026-11-12T22:19:00Z",
+  "updated": "2026-11-13T02:42:22Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794537540
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794537482
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794537187
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Irans revolusjonsgarde: Har angrepet amerikansk radar i Bahrain",
+      "url": "https://www.nrk.no/nyheter/irans-revolusjonsgarde_-har-angrepet-amerikansk-radar-i-bahrain-1.18080879",
+      "summary": "Irans revolusjonsgarde sier de har angrepet en «amerikansk tidligvarslingsradar» i Bahrain, melder Reuters natt til fredag. Revolusjonsgarden hevder angrepet er et svar på et «fientlig luftangrep» mot et telekommunikasjonstårn i den iranske byen Sirik. USA har",
+      "date_label": "13.11.2026",
+      "timestamp": 1794536562
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Microsoft har tekniske problemer",
+      "url": "https://www.nrk.no/nyheter/microsoft-har-tekniske-problemer-1.18080878",
+      "summary": "Microsoft hadde torsdag kveld tekniske problemer som rammet brukere av blant annet e-post og Teams. Selskapet opplyser at de jobber med å løse saken. Årsaken er at en del av infrastrukturen opplevde «forhøyet belastning, ifølge Microsoft. Selskapet fant ut at ",
+      "date_label": "13.11.2026",
+      "timestamp": 1794535789
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794535295
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "– Har på en god måte sydd nåtiden og fremtidens behov sammen",
+      "url": "https://www.sandeavis.no/har-pa-en-god-mate-sydd-natiden-og-fremtidens-behov-sammen/s/80-72-7289",
+      "summary": "Helseparken Sandetun får tommel opp fra politikerne.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794535200
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "We ask people in New York City how much they pay for their homes.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794533431
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "USAs justisdepartement har ikke avgjort om Alice Huang er kinesisk spion",
+      "url": "https://www.nrk.no/nyheter/usas-justisdepartement-har-ikke-avgjort-om-alice-huang-er-kinesisk-spion-1.18080873",
+      "summary": "USAs justisminister Todd Blanche sier FBI har etterforsket om forretningskvinnen Alice Huang er en kinesisk spion, men at justisdepartementet ikke har konkludert. På en pressekonferanse torsdag opplyste Blanche at FBI har undersøkt opplysninger om at Huang har",
+      "date_label": "13.11.2026",
+      "timestamp": 1794531557
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794529224
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794528815
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794526972
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794523878
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Tog sporet av ved Oslo S",
+      "url": "https://www.nrk.no/nyheter/tog-sporet-av-ved-oslo-s-1.18080865",
+      "summary": "Det er forsinkelser og innstillinger på grunn av en avsporing ved Oslo S torsdag kveld. – Dette tar tid, skriver Bane Nor på sine nettsider. Fem spor er sperret og det skal være et godstog som har sporet av, skriver VG.",
+      "date_label": "12.11.2026",
+      "timestamp": 1794521940
+    },
     {
       "source": "NRK Siste",
       "category": "norge",
@@ -431,16 +571,6 @@
       "summary": "Klatring, teater og pianotimer er byttet ut med politiske møter. 19 år gamle Jeppe Hagen Myhre fra Holmestrand har satt fritiden på vent for å kjempe for unges stemme.",
       "date_label": "12.11.2026",
       "timestamp": 1794506400
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794504734
     },
     {
       "source": "NRK Norge",
@@ -3047,6 +3177,16 @@
       "category": "teknologi",
       "topic": "teknologi",
       "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+      "date_label": "10.11.2026",
+      "timestamp": 1794342600
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Tech Life",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
       "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
       "date_label": "10.11.2026",
@@ -3861,146 +4001,6 @@
       "summary": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
       "date_label": "10.11.2026",
       "timestamp": 1794309946
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794309798
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "TV 2: Høibys anke forkastet",
-      "url": "https://www.nrk.no/nyheter/tv-2_-hoibys-anke-forkastet-1.18078296",
-      "summary": "Marius Borg Høiby blir ikke løslatt fra varetekt. Høyesterett har forkastet anken hans, skriver TV 2. – Vi tar Høyesteretts beslutning til etterretning. Vi har ingen ytterligere kommentarer på nåværende tidspunkt, sier Høibys forsvarer Alexander Greaker til NR",
-      "date_label": "10.11.2026",
-      "timestamp": 1794309373
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "VG: Erkjenner ikke straffskyld etter drap i Drammen",
-      "url": "https://www.nrk.no/nyheter/vg_-erkjenner-ikke-straffskyld-etter-drap-i-drammen-1.18078258",
-      "summary": "Mannen som er siktet etter å ha drept en pasient på sykehuset i Drammen fredag, erkjenner ikke straffskyld. Det opplyser mannens forsvarer, Andrea Wisløff, til VG. Mannen har nå vært i avhør.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794309185
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Varsler strammere tider - må spare millioner",
-      "url": "https://www.sandeavis.no/robert-har-lagt-fram-budsjettforslag-kommunen-star-overfor-store-okonomiske-utfordringer/s/80-72-6920",
-      "summary": "Holmestrand kommune styrer mot et underskudd på rundt åtte millioner kroner i 2027.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794308749
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Tøffe år venter for Holmestrand: Foreslår store gebyr-økninger og eiendomsskatt på næring",
-      "url": "https://www.jarlsbergavis.no/toffe-ar-i-mote-for-holmestrand-foreslar-store-gebyr-okninger-og-eiendomsskatt-pa-naring/s/80-26-13100",
-      "summary": "Holmestrand står overfor betydelige økonomiske utfordringer i årene framover, er den tydelige talen fra kommunedirektør Robert Rognli. I budsjettforslaget for 2027 foreslår han blant annet en samlet gebyrøkning på cirka 16,5 prosent for vann og avløp, og innfø",
-      "date_label": "10.11.2026",
-      "timestamp": 1794308296
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Mann i 40-årene kjørte i grøfta",
-      "url": "https://www.nrk.no/vestfoldogtelemark/mann-i-40-arene-kjorte-i-grofta-1.18078191",
-      "summary": "Mannen er fraktet med luftambulanse til Ullevål sykehus i Oslo etter ulykken på Borgeskogen i Sandefjord. Bilen han kjørte havnet 10-15 meter inn i et skogsholt ved industriområdet. Bilen blir nå tauet inn for undersøkelser og nødetatene avslutter på stedet, o",
-      "date_label": "10.11.2026",
-      "timestamp": 1794307956
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ny attraksjon i Kristiansand: Slik skal de krympe publikum",
-      "url": "https://www.nrk.no/sorlandet/dyreparken-satser-pa-karius-og-baktus-_-apner-i-mars-1.18078159",
-      "summary": "Gjestene i Dyreparken kan føle seg bitte små og besøke tennene til Jens når den største satsingen noensinne åpner dørene i påsken neste år.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794306274
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Saltfjell Rein kåret til årets råvareprodusent",
-      "url": "https://www.nrk.no/nordland/saltfjell-rein-karet-til-arets-ravareprodusent-1.18078039",
-      "summary": "",
-      "date_label": "10.11.2026",
-      "timestamp": 1794304268
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Russiske angrep mot energiinfrastruktur i 10 regioner i Ukraina",
-      "url": "https://www.nrk.no/nyheter/russiske-angrep-mot-energiinfrastruktur-i-10-regioner-i-ukraina-1.18078188",
-      "summary": "Russland har angrepet energirelatert infrastruktur i 10 regioner i Ukraina i løpet av natten og morgenen. Regionene som ble angrepet var Kyiv, Kharkiv, Sumy, Poltava, Dnipropetrovsk, Vinnytsia, Cherkasy og Kirovohrad, sier det statlige ukrainske nettselskapet ",
-      "date_label": "10.11.2026",
-      "timestamp": 1794304236
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Bombe i svensk fotball: Heglands trener fikk sparken etter sjokktap",
-      "url": "https://www.nrk.no/sport/bombe-i-svensk-fotball_-heglands-trener-fikk-sparken-etter-sjokktap-1.18078095",
-      "summary": "Hovedtrener Jani Honkavaara og assistentene hans er ferdige i den svenske fotballklubben Djurgården. Klubben sto med tre seirer og to uavgjort før 1-2-tapet for bunnlaget Halmstad i helgen. Nederlaget sendte stockholmsklubben rett ut av gullkampen i Allsvenska",
-      "date_label": "10.11.2026",
-      "timestamp": 1794304145
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Arbeidsulykke med spikerpistol",
-      "url": "https://www.nrk.no/vestfoldogtelemark/arbeidsulykke-med-spikerpistol-1.18078138",
-      "summary": "En mann i 50-årene er tatt med av ambulanse for ytterligere undersøkelser etter en arbeidsulykke, opplyser politiet. Arbeidsulykken skal ha skjedd på en byggeplass i Sandefjord og involverer en spikerpistol. Bedriften varsler arbeidstilsynet, og politiet oppre",
-      "date_label": "10.11.2026",
-      "timestamp": 1794303988
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Minst 12 omkom i massekollisjon i Bulgaria",
-      "url": "https://www.nrk.no/nyheter/minst-12-omkom-i-massekollisjon-i-bulgaria-1.18078151",
-      "summary": "Minst 10 personer omkom i stor trafikkulykke på en motorvei i Bulgaria, melder nyhetsbyrået BTA. Rundt 50 kjøretøy var involvert i kollisjonen som omfattet begge kjøreretninger. Det var tåke på strekningen da ulykken skjedde. Flere skal være klemt fast i bilen",
-      "date_label": "10.11.2026",
-      "timestamp": 1794303839
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Minst 10 omkom i massekollisjon i Bulgaria",
-      "url": "https://www.nrk.no/nyheter/minst-10-omkom-i-massekollisjon-i-bulgaria-1.18078151",
-      "summary": "Minst 10 personer omkom i stor trafikkulykke på en motorvei i Bulgaria, melder nyhetsbyrået BTA. Rundt 50 kjøretøy var involvert i kollisjonen som omfattet begge kjøreretninger. Det var tåke på strekningen da ulykken skjedde. Flere skal være klemt fast i bilen",
-      "date_label": "10.11.2026",
-      "timestamp": 1794303839
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "date_label": "10.11.2026",
-      "timestamp": 1794303631
     }
   ]
 }
