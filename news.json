@@ -1,16 +1,156 @@
 {
-  "updated": "2026-11-14T16:38:16Z",
+  "updated": "2026-11-14T20:58:05Z",
   "source_count": 11,
   "items": [
     {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794688905
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794687786
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "1400 el-hestekrefter skal frakte fisken: – Trudde aldri det var så bra",
+      "url": "https://www.nrk.no/artikkel/1400-el-hestekrefter-skal-frakte-fisken-trudde-aldri-det-var-sa-bra-1531176",
+      "summary": "",
+      "date_label": "14.11.2026",
+      "timestamp": 1794687277
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794686628
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fem ungdommer tatt etter biljakt",
+      "url": "https://www.nrk.no/ostfold/fem-ungdommer-tatt-etter-biljakt--1.18081951",
+      "summary": "Politiet fikk i kveld kontroll på fem personer som flyktet fra en bil etter en biljakt på E6 i Østfold. Det skal har vært en 17-åring som kjørte bilen som ble stanset i Råde kommune i Østfold, opplyser politiet. – Politiet prøvde egentlig å stanse bilen på gru",
+      "date_label": "14.11.2026",
+      "timestamp": 1794686180
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794683673
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794683545
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Flystansen i USA: Bytting av kabel mulig årsak",
+      "url": "https://www.nrk.no/nyheter/flystansen-i-usa_-bytting-av-kabel-mulig-arsak-1.18082036",
+      "summary": "USAs transportminister Sean Duffy sier utskiftning av en kobbertråd kan være årsaken til den omfattende flystansen fredag. Flere enn 15.000 flygninger ble forsinket eller innstilt da amerikanske luftfartsmyndigheter FAA i fire timer nektet alle fly å ta av på ",
+      "date_label": "14.11.2026",
+      "timestamp": 1794681204
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
       "title": "Italy fines Meta €805m over accessing users' photos",
       "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "date_label": "14.11.2026",
-      "timestamp": 1794673788
+      "timestamp": 1794680886
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794680278
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794679210
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nye demonstrasjoner i Frankrike",
+      "url": "https://www.nrk.no/nyheter/nye-demonstrasjoner-i-frankrike-1.18081978",
+      "summary": "Rundt 106.000 personer har deltatt i lørdagens demonstrasjoner, ifølge landets innenriksdepartement. Anslaget til departementet er rundt det halve av hva arrangørene oppgir. De mener vel 200.000 deltok i de mer enn 50 demonstrasjonstogene rundt om i Frankrike.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794678177
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Hva kan du om dyr og planter? Test deg i helgens quiz",
+      "url": "https://www.sandeavis.no/hva-kan-du-om-dyr-og-planter-test-deg-i-helgens-quiz/s/80-72-6851",
+      "summary": "Vet du hvor mange hjerter en blekksprut har?",
+      "date_label": "14.11.2026",
+      "timestamp": 1794675600
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Filippinane vann den første utgåva av Eurovision Asia",
+      "url": "https://www.nrk.no/kultur/filippinane-vann-den-forste-utgava-av-eurovision-asia-1.18082014",
+      "summary": "Det er første gong det blir arrangert ei asiatisk utgåve av den over 70 år gamle songkonkurransen. 11 land deltok i finalen som gjekk av stabelen i den thailandske hovudstaden Bangkok. Det var artisten Carmelle som representerte Filippinane med låta «Sobra-Sob",
+      "date_label": "14.11.2026",
+      "timestamp": 1794674955
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Funn av død person i Sveio",
+      "url": "https://www.nrk.no/vestland/funn-av-dod-person-i-sveio-1.18081948",
+      "summary": "Ein person er funnen død i Sveio. Funnet vart gjort i eit område, der det i fleire dagar etter ein mann i 70-årar. Det var ein privatperson med drone som gjorde funnet og varsla politiet. Den avdøde er ikkje formelt identifisert, men politiet opplyser at det i",
+      "date_label": "14.11.2026",
+      "timestamp": 1794673633
     },
     {
       "source": "NRK Siste",
@@ -83,16 +223,6 @@
       "timestamp": 1794669445
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "date_label": "14.11.2026",
-      "timestamp": 1794669357
-    },
-    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -101,16 +231,6 @@
       "summary": "I Sør-Sudan er valget på nytt parlament og ny president utsatt fra desember til februar. Det får nyhetsbyrået Reuters bekreftet av landets valgkommisjon. Valget – som allerede er blitt utsatt en gang – skulle etter planen funnet sted 22. desember. Den nye dato",
       "date_label": "14.11.2026",
       "timestamp": 1794666737
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "date_label": "14.11.2026",
-      "timestamp": 1794666057
     },
     {
       "source": "BBC World",
@@ -211,16 +331,6 @@
       "summary": "Sander Eitrem ble nummer to på 500-meteren under verdenscupåpningen på skøyter i Beijing lørdag. Tre nordmenn endte topp åtte. Eitrem ble klokket inn til tiden 1.44,82 minutter etter det som var et vel disponert løp. Den tiden skulle det vise seg at kinesiske ",
       "date_label": "14.11.2026",
       "timestamp": 1794655866
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-      "date_label": "14.11.2026",
-      "timestamp": 1794655810
     },
     {
       "source": "NRK Siste",
@@ -673,16 +783,6 @@
       "timestamp": 1794614632
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "date_label": "14.11.2026",
-      "timestamp": 1794613245
-    },
-    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -873,12 +973,12 @@
       "timestamp": 1794599902
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
       "date_label": "13.11.2026",
       "timestamp": 1794599637
     },
@@ -3901,106 +4001,6 @@
       "summary": "– Her virker det som om de har gjort gode vurderinger, sier innsatslederen.",
       "date_label": "11.11.2026",
       "timestamp": 1794427133
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Sauene drukna i eiga møk - bøndene slepp rettssak",
-      "url": "https://www.nrk.no/artikkel/sauene-drukna-i-si-eiga-mok-bondene-slepp-rettssak-1532717",
-      "summary": "",
-      "date_label": "11.11.2026",
-      "timestamp": 1794427005
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Zelenskyj: Framgang i samtaler avhenger av hvordan USA snakker med Russland",
-      "url": "https://www.nrk.no/nyheter/zelenskyj_-framgang-i-samtaler-avhenger-av-hvordan-usa-snakker-med-russland-1.18079810",
-      "summary": "Eventuell framgang i samtalene for å få slutt på Ukraina-krigen vil handle mye om hvordan USA snakker med Russland. Det mener Ukrainas president Volodymyr Zelenskyj, skriver Reuters. Tirsdag og onsdag var det samtaler mellom partene i Abu Dhabi. Det er ikke me",
-      "date_label": "11.11.2026",
-      "timestamp": 1794426671
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Garasjebrann spredte seg til bolig i Holmestrand",
-      "url": "https://www.nrk.no/vestfoldogtelemark/garasjebrann-spredte-seg-til-bolig-i-holmestrand-1.18079815",
-      "summary": "En enebolig sto ikke til å redde etter at det onsdag kveld brøt ut en kraftig brann i en garasje i Holmestrand.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794426208
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Får sjekkliste for alderdommen i posten: – Alle har et ansvar",
-      "url": "https://www.nrk.no/sorlandet/90.000-far-brev-om-boligen-er-egnet-for-alderdommen-1.18079413",
-      "summary": "90.000 personer får denne uken brev fra Statsforvalteren med råd om å tilpasse boligen for alderdommen. Kjell Hansen (75) mener han er fullt i stand til å tenke selv.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794425539
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Casper Ruud slått ut av Stockholm Open – blir uten turneringsseier i år",
-      "url": "https://www.nrk.no/sport/casper-ruud-slatt-ut-av-stockholm-open-_-blir-uten-turneringsseier-i-ar-1.18079811",
-      "summary": "Casper Ruud fikk knallhard motstand fra kvalifiseringsspiller Aleksander Sjevtsjenko og falt over første hinder i Stockholm Open, der han var tittelforsvarer. Ruud har vunnet minst én ATP-turnering hvert år siden 2020, men tapet for Sjevtsjenko betyr at håpet ",
-      "date_label": "11.11.2026",
-      "timestamp": 1794425403
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ti personar måtte evakuere på grunn av brann i skulen i Eresfjord",
-      "url": "https://www.nrk.no/mr/brann-i-eresfjord-barneskole-i-molde-1.18079825",
-      "summary": "Ti personar som var på trim i gymsalen måtte komme seg ut i ei fart då det stod opne flammar ut frå ein keramikkomn på Eresfjord barne- og ungdomsskole.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794425322
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Plasseringen virker utgjort",
-      "url": "https://www.jarlsbergavis.no/plasseringen-virker-utgjort/o/80-26-12956",
-      "summary": "Tomme el-busser på gjennomreise og en skole i forfall: Politikerne i kommune og fylke må gjøre mer om Hof skal bestå som et attraktivt lokalsamfunn.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794423600
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Nordmenn sendte Rosenborg ut av Europacupen",
-      "url": "https://www.nrk.no/sport/nordmenn-sendte-rosenborg-ut-av-europacupen-1.18079795",
-      "summary": "Rosenborg brant noen utrolige sjanser da de tapte 0–2 borte mot Brøndby i Europacupen onsdag kveld. Etter at det endte 1–1 i det første oppgjøret i Trondheim, taper trønderne 1-3-sammenlagt og er med det ute av Europacupen. Trønderen Rakel Engesvik og Malin Br",
-      "date_label": "11.11.2026",
-      "timestamp": 1794423028
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Kontroll på person med øks og hammer i Sandefjord sentrum",
-      "url": "https://www.nrk.no/vestfoldogtelemark/kontroll-pa-person-med-oks-og-hammer-i-sandefjord-sentrum-1.18079784",
-      "summary": "– Politiet har kontroll på formentlig rett person som har truet med øks og hammer, sier operasjonsleder Ståle Olstad Fuglaas. – Politiet har rykket ut til Sandefjord sentrum med flere ressurser i forbindelse med det flere innringere opplevde som en trusselsitu",
-      "date_label": "11.11.2026",
-      "timestamp": 1794422976
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Talte over 70 båtar: – Vanskeleg å halde seg roleg",
-      "url": "https://www.nrk.no/tromsogfinnmark/spekkhoggarforskar-enda-med-a-studere-menneska-i-staden-for-dyra-i-kvaenangen-i-troms-1.18077396",
-      "summary": "Forskarane drog til Kvænangen for å studere spekkhoggarar, men enda i staden opp med å kartleggje menneskeleg åtferd.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794422890
     }
   ]
 }
