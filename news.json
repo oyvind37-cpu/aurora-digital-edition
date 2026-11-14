@@ -1,7 +1,177 @@
 {
-  "updated": "2026-11-13T22:55:00Z",
+  "updated": "2026-11-14T03:03:44Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Musk støtter opprop for å få Huang tilbake som Nvidia-sjef",
+      "url": "https://www.nrk.no/nyheter/musk-stotter-opprop-for-a-fa-huang-tilbake-som-nvidia-sjef-1.18081725",
+      "summary": "Elon Musk sier han vil skrive under på et opprop for å få Jensen Huang tilbake som toppsjef i Nvidia. Huang trakk seg torsdag. – Det er en underskriftskampanje på gang for å få Jensen gjeninnsatt, jeg skal også skrive under, skriver Elon Musk på X. Han gir ing",
+      "date_label": "14.11.2026",
+      "timestamp": 1794623612
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Reidun har vært frivillig på julaften i en årrekke: – Du får så veldig mye igjen",
+      "url": "https://www.sandeavis.no/reidun-har-vart-frivillig-pa-julaften-i-en-arrekke-du-far-sa-veldig-mye-igjen/f/80-72-6647",
+      "summary": "Nå oppfordrer hun flere, i alle livsfaser, til å vurdere muligheten.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794621600
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Flystansen i USA opphevet",
+      "url": "https://www.nrk.no/nyheter/flystansen-i-usa-opphevet-1.18081724",
+      "summary": "Den landsomfattende flystansen i USA er nå opphevet, opplyser amerikanske luftfartsmyndigheter.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794619349
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Mann pågrepet etter vold og knivtrusler på tog i Ski",
+      "url": "https://www.nrk.no/nyheter/mann-pagrepet-etter-vold-og-knivtrusler-pa-tog-i-ski-1.18081723",
+      "summary": "En mann i 20-årene er pågrepet etter at han ifølge politiet slo en ansatt i ansiktet og truet en annen med kniv på et tog natt til lørdag. Klokken 00.49 opplyste Øst politidistrikt at en konduktør hadde meldt fra om hendelsen. Mannen skal ha gått av toget på S",
+      "date_label": "14.11.2026",
+      "timestamp": 1794619322
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Flystansen i USA snart over",
+      "url": "https://www.nrk.no/nyheter/flystansen-i-usa-snart-over-1.18081722",
+      "summary": "Den landsomfattende flystansen i USA er i ferd med å bli opphevet, melder luftfartsnettstedet The Air Current, ifølge Reuters. Fredag kveld norsk tid satte amerikanske luftfartsmyndigheter alle avganger på bakken etter tekniske problemer med kommunikasjonen. T",
+      "date_label": "14.11.2026",
+      "timestamp": 1794618981
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794618000
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "«Take On Me» har passert tre milliarder avspillinger på Spotify",
+      "url": "https://www.nrk.no/nyheter/_take-on-me_-har-passert-tre-milliarder-avspillinger-pa-spotify-1.18081721",
+      "summary": "A-has «Take On Me» er den første norske låten som har passert tre milliarder avspillinger på Spotify, skriver VG. A-ha ga først ut «Take On Me» høsten 1984. Året etter fikk bandet sitt internasjonale gjennombrudd med en ny versjon av låten. Først i august 2018",
+      "date_label": "14.11.2026",
+      "timestamp": 1794617376
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "summary": "The next title in the series is expected to be the biggest video game release ever.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794616621
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Alle fly fra Europa til USA innstilt",
+      "url": "https://www.nrk.no/nyheter/alle-fly-fra-europa-til-usa-innstilt-1.18081720",
+      "summary": "Alle fly fra Europa til USA er innstilt som følge av kommunikasjonsproblemene i systemene i USA, opplyser Eurocontrol. Innstillingene gjelder alle Eurocontrols 42 medlemsland, blant annet Norge. Ifølge Reuters skjer innstillingene etter anmodning fra Det ameri",
+      "date_label": "14.11.2026",
+      "timestamp": 1794615893
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Enkelte fly får nå ta av i USA",
+      "url": "https://www.nrk.no/nyheter/enkelte-fly-far-na-ta-av-i-usa-1.18081719",
+      "summary": "Flere fly igjen ta av fra flere av de største flyplassene i USA. Dette gjelder blant annet avganger fra San Francisco og Los Angeles, ifølge Flightradar 24. Den internasjonale flyplassen i San Francisco opplyser at fly som skal over Stillehavet, blant annet ti",
+      "date_label": "14.11.2026",
+      "timestamp": 1794615653
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794614636
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794614632
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794614461
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794613245
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Trump, Xi og Putin møtes til samtaler i Kina",
+      "url": "https://www.nrk.no/nyheter/trump_-xi-og-putin-motes-til-samtaler-i-kina-1.18081715",
+      "summary": "USAs president Donald Trump, Kinas president Xi Jinping og Russlands president Vladimir Putin skal ha felles samtaler torsdag i den kinesiske byen Shenzhen, bekrefter Det hvite hus. Møtet skjer i forbindelse med Apec-toppmøtet i byen. – Presidenten har gjort d",
+      "date_label": "14.11.2026",
+      "timestamp": 1794613161
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794611511
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "date_label": "14.11.2026",
+      "timestamp": 1794610831
+    },
     {
       "source": "Sande Avis",
       "category": "holmestrand",
@@ -66,7 +236,17 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+      "date_label": "13.11.2026",
+      "timestamp": 1794604524
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
       "date_label": "13.11.2026",
@@ -1463,9 +1643,9 @@
       "timestamp": 1794529224
     },
     {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
       "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
       "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
       "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
@@ -3821,186 +4001,6 @@
       "summary": "Hobbyfiskarar og hyttefolk håpte at nedtappinga av det populære Nysætervatnet var ein feil. No tyder alt på at det blir slik i årevis framover.",
       "date_label": "11.11.2026",
       "timestamp": 1794402096
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794401591
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Sendte ranslapp over disken: «This is a robbery»",
-      "url": "https://www.nrk.no/sorlandet/domt-for-gullsmedran-1.18079324",
-      "summary": "Han lurte den ansatte til å tro han var bevæpnet, og stakk av med smykker og klokker for 600.000 kroner.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794401434
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "What are cold weather payments and who can get them?",
-      "url": "https://www.bbc.co.uk/news/articles/c87470q4w21o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794401371
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Spelar landskamp i Finnmark: – Utruleg stort",
-      "url": "https://www.nrk.no/tromsogfinnmark/noreg-skal-spele-vm-kvalifisering-i-futsal-mot-slovenia-i-alta-i-finnmark-1.18079213",
-      "summary": "I 2027 skal Noreg møte Slovenia i VM-kvalifiseringa i futsal i Alta. Nå vil Finnmark Fotballkrets lage folkefest rundt det som blir kalla verdas nordlegaste futsallandskamp.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794400242
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794399252
-    },
-    {
-      "source": "NRK Kultur",
-      "category": "kultur",
-      "topic": "kultur",
-      "title": "Han skal føre jomfruer over havet: – Godt av å gjere manneting",
-      "url": "https://www.nrk.no/artikkel/han-skal-fore-jomfruer-over-havet-godt-av-a-gjere-manneting-1531655",
-      "summary": "",
-      "date_label": "11.11.2026",
-      "timestamp": 1794398524
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Daværende kronprins Haakon ba om at Høiby skulle få melde seg til politiet i august 2024",
-      "url": "https://www.nrk.no/nyheter/davaerende-kronprins-haakon-ba-om-at-hoiby-skulle-fa-melde-seg-til-politiet-i-august-2024-1.18079298",
-      "summary": "Den daværende kronprinsen ringte Politiets sikkerhetstjeneste (PST) og spurte om stesønnen kunne få melde seg til politiet. Det viser et påtalevedtak fra Spesialenheten som VG har fått innsyn i. Dagbladet omtalte saken først. Kronprins Haakon ringte 4. august ",
-      "date_label": "11.11.2026",
-      "timestamp": 1794398227
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794397642
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Christian Radich blir arena for NRKs «Jomfruturen»",
-      "url": "https://www.nrk.no/vestfoldogtelemark/christian-radich-blir-arena-for-nrks-_jomfruturen_-1.18079300",
-      "summary": "Fullriggeren Christian Radich fra Sandefjord skal krysse Nordsjøen i den nye NRK-serien «Jomfruturen». Ombord skal en gruppe menn som aldri har hatt sex, få utfordre seg selv og bygge selvtillit på vei mot Island. Isak Dreyer skal lede programmet. – Målet er å",
-      "date_label": "11.11.2026",
-      "timestamp": 1794396933
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794396890
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794396804
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Hvitstein tok VM-sølv i benkpress",
-      "url": "https://www.nrk.no/vestfoldogtelemark/hvitstein-tok-vm-solv-i-benkpress-1.18079120",
-      "summary": "Anders Hvitstein fra Andebu ble nummer åtte i 74-kilosklassen under VM i styrkeløft med utstyr i Istanbul tirsdag. Sande KK-løfteren endte med 767,5 kilo sammenlagt, 2,5 kilo over sin tidligere bestenotering fra junior-VM i august. Hvitstein løftet 225 kilo i ",
-      "date_label": "11.11.2026",
-      "timestamp": 1794396474
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Oppretter sak mot Drammen sykehus etter drap",
-      "url": "https://www.nrk.no/nyheter/-oppretter-sak-mot-drammen-sykehus-etter-drap-1.18079251",
-      "summary": "Politiet ønsker å finne ut om sykehuset har gjort noe straffbart i forbindelse med at en mann ble drept på Drammen sykehus fredag. – Det er viktig å påpeke at vi ikke har konkrete holdepunkter for at helseforetaket har gjort noe straffbart, men at vi ønsker å ",
-      "date_label": "11.11.2026",
-      "timestamp": 1794396413
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "River tribunen i Tromsø etter kollapsen",
-      "url": "https://www.nrk.no/tromsogfinnmark/krimteknikarar-undersokjer-tribunen-pa-romssa-arena-1.18079135",
-      "summary": "Hovedhypotesen etter tribunekollapsen er slitasje etter vêr og vind, ifølge kriminalteknikare på staden. No er tribunen avgjort stengt.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794396239
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Tangvik åpner for Rosenborg-retur: – Stor kjærlighet for klubben",
-      "url": "https://www.nrk.no/sport/tangvik-apner-for-rosenborg-retur_-_-stor-kjaerlighet-for-klubben-1.18079068",
-      "summary": "Landslagskeeper Sander Tangvik utelukker ikke en retur til Rosenborg. – Rosenborg har jeg alltid døra åpen for. Jeg var på besøk der senest nå i helga, så jeg har stor kjærlighet for den klubben, sier Tangvik til NRK. Keeperen forteller at han følger godt med ",
-      "date_label": "11.11.2026",
-      "timestamp": 1794396081
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "FNs generalsekretær: - Det viktigste er å fortelle sannheten om klimaet",
-      "url": "https://www.nrk.no/nyheter/fns-generalsekretaer_---det-viktigste-er-a-fortelle-sannheten-om-klimaet-1.18079119",
-      "summary": "FNs generalsekretær António Guterres åpnet onsdag høynivåmøtet på klimatoppmøtet i Antalya. – Det viktigste vi gjør er å fortelle sannheten om klimautviklingen. De siste fire årene har vært de varmeste på kloden noensinne. Guterres sa at for å redde planeten m",
-      "date_label": "11.11.2026",
-      "timestamp": 1794395351
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Haaland og Ødegaard på trening",
-      "url": "https://www.nrk.no/sport/haaland-og-odegaard-pa-trening-1.18079270",
-      "summary": "Både Erling Braut Haaland og Martin Ødegaard stiller på dagens landslagstrening på Ullevaal. Begge de to stjernene sto over tirsdag. – Det er småting i forhold til at de har fått noen «småsmeller», men jeg har ikke noen grunn til å tro at dette ikke skal bli v",
-      "date_label": "11.11.2026",
-      "timestamp": 1794395321
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Sprakk fra medalje – sikret likevel kvoteplass til OL",
-      "url": "https://www.nrk.no/sport/sprakk-fra-medalje-_-sikret-likevel-kvoteplass-til-ol-1.18079034",
-      "summary": "Jon-Hermann Hegg ble nummer fire i VM-finalen på 50 meter rifle match i Doha. Ifølge Norges Sportsskytterforbund sikret han med det Norges første kvoteplass til OL i Los Angeles i 2028. Nordmannen ble nummer tre i kvalifiseringen, men skøyt seg ned på en 4. pl",
-      "date_label": "11.11.2026",
-      "timestamp": 1794395292
     }
   ]
 }
