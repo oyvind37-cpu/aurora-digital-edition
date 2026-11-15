@@ -1,7 +1,157 @@
 {
-  "updated": "2026-11-15T00:57:59Z",
+  "updated": "2026-11-15T07:46:20Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Bakkerud kåret til Årets Bilsportutøver",
+      "url": "https://www.nrk.no/sport/bakkerud-karet-til-arets-bilsportutover-1.18082132",
+      "summary": "Andreas Bakkerud (35) ble lørdag kåret til Årets Bilsportutøver i Norge under Bilsportforbundets Bilsportgalla. Her ble også Henning Isdal (71) hedret med forbundets fortjenstmedalje i gull. Bakkerud fikk prisen etter å ha tatt bronse i årets EM i rallycross i",
+      "date_label": "15.11.2026",
+      "timestamp": 1794728470
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "–Vi lever i en ustabil tid, da er informasjon viktig",
+      "url": "https://www.nrk.no/tromsogfinnmark/kurs-om-internasjonal-politikk-i-alta_-_-vi-lever-i-en-ustabil-tid_-da-er-informasjon-viktig-1.18081933",
+      "summary": "Tidligere USA-korrespondent Tove Bjørgaas reiser rundt i Norge for å dele kunnskap om USA og internasjonal politikk. Noe som er viktigere enn før, mener Bjørgaas.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794728152
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Mamma for tidleg",
+      "url": "https://www.nrk.no/tromsogfinnmark/xl/kvinner-som-foder-for-tidleg_-slit-mykje-med-skyldkjensle-1.18060537",
+      "summary": "Legane redda livet hennar, men Ine Mariel Solrød klarte ikkje å glede seg. Eit spørsmål blei altoppslukande: Var den premature fødselen hennar eigen feil?",
+      "date_label": "15.11.2026",
+      "timestamp": 1794726868
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794726631
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Kallar autovern for giljotin: - Det bur­de vore pri­o­ri­tert meir",
+      "url": "https://www.nrk.no/artikkel/kallar-autovern-for-giljotin-1531182",
+      "summary": "",
+      "date_label": "15.11.2026",
+      "timestamp": 1794726398
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Phil Collins brøt ut i gråt under Hall of Fame-innlemmelse",
+      "url": "https://www.nrk.no/nyheter/phil-collins-brot-ut-i-grat-under-hall-of-fame-innlemmelse-1.18082119",
+      "summary": "Phil Collins holdt en tårefylt takketale da han og flere andre artister lørdag ble tatt opp i Rock and Roll Hall of Fame i Los Angeles. Collins gikk sakte opp på scenen med to stokker og brøt ut i gråt da publikum reiste seg og applauderte. 75-åringen har side",
+      "date_label": "15.11.2026",
+      "timestamp": 1794724781
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "EUs utenrikssjef krever at Israel åpner grensene til Gaza",
+      "url": "https://www.nrk.no/nyheter/eus-utenrikssjef-krever-at-israel-apner-grensene-til-gaza-1.18082120",
+      "summary": "EUs utenrikssjef Kaja Kallas krever at Israel umiddelbart åpner grensene til Gazastripen og slipper inn hjelpearbeidere, etter at kraftig regnvær har oversvømt teltene til titusenvis av mennesker. Rundt én million fordrevne befinner seg nå i de flomutsatte omr",
+      "date_label": "15.11.2026",
+      "timestamp": 1794720530
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Tusenvis demonstrerte mot høye boligpriser i Portugal",
+      "url": "https://www.nrk.no/nyheter/tusenvis-demonstrerte-mot-hoye-boligpriser-i-portugal-1.18082116",
+      "summary": "Flere tusen demonstranter marsjerte lørdag i protest mot de høye boligprisene i Portugal, der mange mener prisene har steget så mye at det ikke lar seg gjøre å kjøpe eller leie bolig. De ber om maksgrense på husleieøkninger, bedre juridisk vern for leietakere ",
+      "date_label": "15.11.2026",
+      "timestamp": 1794717913
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Iran hevder å ha angrepet militærbase i Bahrain med droner",
+      "url": "https://www.nrk.no/nyheter/iran-hevder-a-ha-angrepet-militaerbase-i-bahrain-med-droner-1.18082115",
+      "summary": "Sirener som varsler fare uler i Bahrain i Persiabukta søndag, og myndighetene ber innbyggerne komme seg i sikkerhet. Det melder en journalist fra nyhetsbyrået AFP på stedet. Innenriksdepartementet i Bahrain har så langt ikke gått ut med hva trusselen dreier se",
+      "date_label": "15.11.2026",
+      "timestamp": 1794717035
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Julemarkedet vokser – 70 utstillere klare i Eidsfoss",
+      "url": "https://www.jarlsbergavis.no/julemarkedet-vokser-70-utstillere-klare-i-eidsfoss/s/80-26-13739",
+      "summary": "Snart fylles den gamle jernverksbygda med julelys, håndverk, hest og kjerre og lukten av nystekte bakevarer. Rundt 70 utstillere er klare når det igjen inviteres til julemarked i Eidsfoss",
+      "date_label": "15.11.2026",
+      "timestamp": 1794717000
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794712864
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794710985
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Kommunestyret delt i avgjørelsen om tvangsgrep på Lersbrygga",
+      "url": "https://www.sandeavis.no/kommunestyret-delt-i-avgjorelsen-om-tvangsgrep-pa-lersbrygga/s/80-72-7424",
+      "summary": "Denne gangen stemte tre partier stemte for søknad om ekspropriasjon, men det var ikke nok til flertall.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794708000
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Person til sykehus etter å ha blitt påkjørt av en bil",
+      "url": "https://www.nrk.no/nyheter/person-til-sykehus-etter-a-ha-blitt-pakjort-av-en-bil--1.18082114",
+      "summary": "En person er fraktet til Haukeland sykehus etter å ha blitt påkjørt av en bil ved Bryggen i Bergen natt til søndag. – Føreren av bilen kjørte på grønt lys, men traff en fotgjenger. Det er ikke mistanke om fører er ruspåvirket, opplyser Tatjana Knappen i Vest p",
+      "date_label": "15.11.2026",
+      "timestamp": 1794707265
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Bilfører var nær ved å frontkollidere med politiet i Tønsberg",
+      "url": "https://www.nrk.no/nyheter/bilforer-var-naer-ved-a-frontkollidere-med-politiet-i-tonsberg-1.18082113",
+      "summary": "En bilfører vær nær ved å frontkollidere med politiet i Tønsberg lørdag kveld. Mannen som kjørte bilen fremstod tydelig påvirket og hadde ikke gyldig førerkort. Mannen i 30-årene var kranglete og forklarte at han kom til å fortsette å kjøre. 30-åringen ble påg",
+      "date_label": "15.11.2026",
+      "timestamp": 1794705412
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -141,16 +291,6 @@
       "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
       "date_label": "14.11.2026",
       "timestamp": 1794683673
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "date_label": "14.11.2026",
-      "timestamp": 1794683545
     },
     {
       "source": "NRK Siste",
@@ -663,9 +803,9 @@
       "timestamp": 1794640286
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "Microsoft says services fully restored after day-long global outage",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
@@ -3861,146 +4001,6 @@
       "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
       "date_label": "12.11.2026",
       "timestamp": 1794451218
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Tok over bedriften for ett år siden: – Det er tungt arbeid",
-      "url": "https://www.sandeavis.no/tok-over-renseri-i-fjor-det-var-kaos-i-starten/s/80-72-6974",
-      "summary": "Få ansatte og mye jobb - nå ønsker den daglige lederen å ansette én til.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794448800
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Eksplosjoner hørt i Kyiv",
-      "url": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-kyiv-1.18079886",
-      "summary": "Det meldes om eksplosjoner i Kyiv natt til torsdag, ifølge et vitne nyhetsbyrået Reuters har snakket med.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794446927
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ansatt ved Zaporizjzja-kraftverket drept i droneangrep",
-      "url": "https://www.nrk.no/nyheter/ansatt-ved-zaporizjzja-kraftverket-drept-i-droneangrep-1.18079885",
-      "summary": "En ansatt ved det russiskkontrollerte atomkraftverket Zaporizjzja i Ukraina er drept i et droneangrep, ifølge kraftverkets russiske ledelse. Den ansatte ble drept i sitt eget hjem i byen Enerhodar etter å ha avsluttet arbeidsdagen onsdag, opplyser kraftverkets",
-      "date_label": "12.11.2026",
-      "timestamp": 1794442244
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Gazas sivilforsvar: Seks drept i israelsk sykehusangrep",
-      "url": "https://www.nrk.no/nyheter/gazas-sivilforsvar_-seks-drept-i-israelsk-sykehusangrep-1.18079883",
-      "summary": "Minst seks personer skal være drept og flere såret i et israelsk luftangrep mot Nasser-sykehuset i Khan Younis sør på Gazastripen natt til torsdag. Det opplyser en talsperson for det Hamas-kontrollerte sivilforsvaret i Gaza til Reuters. Angrepet rammet en bygn",
-      "date_label": "12.11.2026",
-      "timestamp": 1794442067
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Gazas sivilforsvar: Fire drept i israelsk sykehusangrep",
-      "url": "https://www.nrk.no/nyheter/gazas-sivilforsvar_-fire-drept-i-israelsk-sykehusangrep-1.18079883",
-      "summary": "Minst fire personer skal være drept og flere såret i et israelsk luftangrep mot Nasser-sykehuset i Khan Younis sør på Gazastripen natt til torsdag. Det opplyser en talsperson for det Hamas-kontrollerte sivilforsvaret i Gaza til Reuters. Angrepet rammet en bygn",
-      "date_label": "12.11.2026",
-      "timestamp": 1794442067
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "From Paris to DC - why offices are being turned into apartments",
-      "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Office buildings with low occupancy rates are being transformed into flats.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794441940
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "New York building collapse kills one person and injures 12",
-      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794437726
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "CNN: Demokratene vinner historisk senatsvalg i Mississippi",
-      "url": "https://www.nrk.no/nyheter/cnn_-demokratene-vinner-historisk-senatsvalg-i-mississippi-1.18079865",
-      "summary": "Demokraten Scott Colom har vunnet senatsvalget i den tradisjonelt republikanske delstaten Mississippi, ifølge CNNs prognose. Colom slår dermed den sittende republikanske senatoren Cindy Hyde-Smith, melder CNN onsdag kveld. Han blir den første demokraten som re",
-      "date_label": "11.11.2026",
-      "timestamp": 1794437187
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Sykdomsutbrudd på villaks: – En internasjonal katastrofe",
-      "url": "https://www.nrk.no/trondelag/forsker-kaller-sykdomsutbrudd-pa-villaks-i-tronderske-elver-en-internasjonal-katastrofe-1.18078639",
-      "summary": "Fem lakseelver er rammet av et større utbrudd av sykdom.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794437112
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Auksjonsrekord for Alta-laks: – Jeg blir rørt",
-      "url": "https://www.nrk.no/tromsogfinnmark/laksedogn-i-altaelva-satte-prisrekord-pa-auksjon-1.18079866",
-      "summary": "Eksklusivt laksefiske i Alta setter stadig nye prisrekorder. På den store villaksauksjonen onsdag kveld bladde en ukjent kjøper opp 800.000 kroner for to fiskedøgn neste sommer.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794436227
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794435978
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794434857
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "70 år etter døds­skredet: – Jeg håper man kan sette seg ned i ro og mak",
-      "url": "https://www.nrk.no/tromsogfinnmark/minnesmerke-reist-i-langvassdalen-70-ar-etter-dodsskredet-1.18079683",
-      "summary": "Her skal veifarende langs Hålogalandsveien finne ro og minnes en av regionens mørkeste netter.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794433910
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794433415
     }
   ]
 }
