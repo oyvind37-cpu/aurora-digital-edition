@@ -1,16 +1,106 @@
 {
-  "updated": "2026-11-14T20:58:05Z",
+  "updated": "2026-11-15T00:57:59Z",
   "source_count": 11,
   "items": [
     {
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794701215
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794701211
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794700867
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Nettavisen: Britisk påtalemyndighet dropper å anke dom mot norsk 19-åring",
+      "url": "https://www.nrk.no/nyheter/nettavisen_-britisk-patalemyndighet-dropper-a-anke-dom-mot-norsk-19-aring-1.18082111",
+      "summary": "Den britiske påtalemyndigheten vil ikke be om strengere straff for den norske 19-åringen som ble dømt til 20 års fengsel for drapsforbund. Det melder Nettavisen. 19-åringens norske forsvarer, advokat Farid Bouras, sier at hans klient heller ikke vil anke. – Hv",
+      "date_label": "15.11.2026",
+      "timestamp": 1794700355
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794697887
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Israel sier de har angrepet høytstående Hamas-kommandant",
+      "url": "https://www.nrk.no/nyheter/israel-sier-de-har-angrepet-hoytstaende-hamas-kommandant-1.18082096",
+      "summary": "Det israelske militæret (IDF) opplyser at de lørdag kveld rettet et angrep mot en høytstående kommandant i Hamas’ militære fløy, skriver militæret i meldingstjenesten Telegram. Ifølge kilder i Hamas, som har uttalt seg til nyhetsbyrået Reuters, var det et isra",
+      "date_label": "14.11.2026",
+      "timestamp": 1794696835
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "date_label": "14.11.2026",
-      "timestamp": 1794688905
+      "timestamp": 1794695845
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Vill målfest i storkampen – Vålerenga vant etter straffer",
+      "url": "https://www.nrk.no/sport/vill-malfest-i-storkampen-_-valerenga-vant-etter-straffer-1.18082094",
+      "summary": "I en uhyre dramatisk ishockeyklassiker tok Vålerenga seieren over Storhamar etter straffeslag. Det sto 4-4 etter tre perioder og forlengning, og dermed måtte det avgjøres med straffeslag. Der var hjemmelaget best. – Vi får alt vi drømmer om i en kamp, sa TV 2-",
+      "date_label": "14.11.2026",
+      "timestamp": 1794694303
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "date_label": "14.11.2026",
+      "timestamp": 1794694180
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Smadret Portugal: – Hva er det som skjer?",
+      "url": "https://www.nrk.no/sport/smadret-portugal_-_-hva-er-det-som-skjer_-1.18082081",
+      "summary": "Det ble en skikkelig, dansk festaften i Braga. Rasmus Höjlund & Co. ga seg ikke før de sto 1–4 i nasjonsligaoppgjøret mot Portugal. – Hva er det som skjer? Portugal blir rett og slett rundspilt på hjemmebane, sa Kasper Kvello i sendingen på TV 2 Play. Portugis",
+      "date_label": "14.11.2026",
+      "timestamp": 1794692406
     },
     {
       "source": "BBC World",
@@ -31,16 +121,6 @@
       "summary": "",
       "date_label": "14.11.2026",
       "timestamp": 1794687277
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "date_label": "14.11.2026",
-      "timestamp": 1794686628
     },
     {
       "source": "NRK Siste",
@@ -813,9 +893,9 @@
       "timestamp": 1794611400
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
       "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
@@ -3921,86 +4001,6 @@
       "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
       "date_label": "11.11.2026",
       "timestamp": 1794433415
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-      "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794433340
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Trondheim har fått minnested etter tsjekkisk folkehelt",
-      "url": "https://www.nrk.no/trondelag/trondheim-har-fatt-sitt-havel_s-place-1.18079063",
-      "summary": "I likhet med byer som Paris, Washington og Barcelona, har Trondheim fått et minnested etter den tidligere tsjekkiske presidenten og menneskerettighetsaktivisten, Václav Havel.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794433310
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "MDG: Vil fremme hasteforslag for å pause gruvesalg",
-      "url": "https://www.nrk.no/nyheter/mdg_-vil-fremme-hasteforslag-for-a-pause-gruvesalg-1.18079838",
-      "summary": "Miljøpartiet de grønne (MDG) vil fremme et hasteforslag for å få satt kjøpet av Nussir-gruva på vent fram til nødvendige sikkerhetsvurderinger er gjennomført. Det opplyser partiet til NRK. De reagerer på salget av gruva til et selskap der sjefen hadde tette bå",
-      "date_label": "11.11.2026",
-      "timestamp": 1794431564
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "I dag var det bare én ting å gjøre for elevene på Østbyen skole",
-      "url": "https://www.nrk.no/video/8a4e1659-d751-41a1-87d9-c5bda4c53f27",
-      "summary": "Elevene på Østbyen skole bare måtte ha turdag da snøen endelig kom til Bodø.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794431419
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kine tok med familien og flyttet til liten øy for å drive luksushotell: – Trodde jeg var sprø",
-      "url": "https://www.nrk.no/nordland/pakket-med-seg-familien-og-flyttet-til-oy-med-400-innbyggere-for-a-drive-hotell-1.18038595",
-      "summary": "Overgangen fra bylivet til Træna bød på helt nye hverdagsrutiner. Men hva er det vi egentlig søker når vi drømmer om å rømme til et øysamfunn?",
-      "date_label": "11.11.2026",
-      "timestamp": 1794428214
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-      "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794427254
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Enebolig totalskadd etter brann: Beboer ble varslet av naboen",
-      "url": "https://www.sandeavis.no/enebolig-totalskadd-etter-brann-beboer-ble-varslet-av-naboen/s/80-57-58021",
-      "summary": "– Her virker det som om de har gjort gode vurderinger, sier innsatslederen.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794427133
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Enebolig totalskadd etter brann: Beboer ble varslet av naboen",
-      "url": "https://www.jarlsbergavis.no/enebolig-totalskadd-etter-brann-beboer-ble-varslet-av-naboen/s/80-57-58021",
-      "summary": "– Her virker det som om de har gjort gode vurderinger, sier innsatslederen.",
-      "date_label": "11.11.2026",
-      "timestamp": 1794427133
     }
   ]
 }
