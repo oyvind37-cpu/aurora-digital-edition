@@ -1,14 +1,164 @@
 {
-  "updated": "2026-11-15T20:19:10Z",
+  "updated": "2026-11-16T00:01:42Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Kapp Verdes president gjenvalgt",
+      "url": "https://www.nrk.no/nyheter/kapp-verdes-president-gjenvalgt-1.18082459",
+      "summary": "Presidenten i Kapp Verde er gjenvalgt, ifølge foreløpige tall fra landets valgkommisjon. Det melder nyhetsbyrået AFP. 63,8 prosent av stemmene som ble avlagt i den afrikanske øygruppen i Atlanterhavet gikk til landets sittende president Jose Maria Neves, ifølg",
+      "date_label": "16.11.2026",
+      "timestamp": 1794786271
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Demonstrasjoner mot mediepolitikk i Tsjekkia",
+      "url": "https://www.nrk.no/nyheter/demonstrasjoner-mot-mediepolitikk-i-tsjekkia-1.18082450",
+      "summary": "Over 200.000 personer møtte opp i en demonstrasjon i Tsjekkias hovedstad Praha søndag, ifølge arrangørene selv. Det melder nyhetsbyrået Reuters. Demonstrantene er kritiske til regjeringens planer om å avvikle kringkastingsavgiften og flytte finansieringen til ",
+      "date_label": "15.11.2026",
+      "timestamp": 1794783597
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794783447
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794781803
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794781734
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794781460
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794780024
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Belgia knuste Italia i skjebnekampen – Frankrike vant gruppen",
+      "url": "https://www.nrk.no/sport/belgia-knuste-italia-i-skjebnekampen-_-frankrike-vant-gruppen-1.18082447",
+      "summary": "Før siste runde var det svært tett i gruppe A1 av nasjonsligaen. Frankrike og Italia var én og to med ti poeng, mens Belgia var poenget bak. Maxim De Cuyper, Nathan Ngoy og Jeremy Doku sørget for 3-1-ledelse til Belgia mot Italia. Manchester City-stjernen Doku",
+      "date_label": "15.11.2026",
+      "timestamp": 1794779455
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Kane sentral da England endte Spanias vanvittige rekke",
+      "url": "https://www.nrk.no/sport/kane-sentral-da-england-endte-spanias-vanvittige-rekke-1.18082446",
+      "summary": "England var alt videre til kvartfinalene i nasjonsligaen, men kunne ta skalpen til de regjerende verdensmesterne Spania søndag kveld. – De første ti minuttene var det beste vi har spilt. Press, press, sa Declan Rice til ITV Sport etterpå. – Når man summerer op",
+      "date_label": "15.11.2026",
+      "timestamp": 1794779068
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794776620
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Vulcan-rakett havarerte",
+      "url": "https://www.nrk.no/nyheter/vulcan-rakett-havarerte--1.18082420",
+      "summary": "En Vulcan-rakett eid av United Launch Alliance, et selskap dannet av Boeing og Lockheed Martin, havarerte kort tid etter oppskyting fra Florida, melder Reuters. Raketten fraktet 40 satellitter for Amazons, og ble skutt opp fra Cape Canaveral Space Force Statio",
+      "date_label": "15.11.2026",
+      "timestamp": 1794774609
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Info fra Nammo lekket via Musk-selskap",
+      "url": "https://www.nrk.no/artikkel/info-fra-norsk-vapengigant-lekket-via-musk-selskap-1532718",
+      "summary": "",
+      "date_label": "15.11.2026",
+      "timestamp": 1794774416
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Carlsen fortsatt uten seier i Budapest – endte nest sist i gruppen",
+      "url": "https://www.nrk.no/sport/carlsen-fortsatt-uten-seier-i-budapest-_-endte-nest-sist-i-gruppen-1.18082432",
+      "summary": "Magnus Carlsen gikk ti strake partier uten seier i gruppespillet i Total Chess-pilotturneringen i Budapest. Nordmannens langvarige 2800-rating lever farlig. Den grensen har ikke Carlsen vært under siden han slo seg inn der i 2009. Han står på 2801,2 etter å ha",
+      "date_label": "15.11.2026",
+      "timestamp": 1794774276
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Hver tiende bussjåfør utsatt for vold: – Får store konsekvenser for dem",
+      "url": "https://www.nrk.no/sorlandet/hver-tiende-bussjafor-utsatt-for-vold-1.18080028",
+      "summary": "Mange buss- og drosjesjåfører har opplevd trusler eller vold på jobb det siste året, viser en ny undersøkelse. Fagforening ber folk om hjelp i julebordsesongen.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794774147
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Busser i Vestfold har fått vinterdekk: – Vi har jobbet kontinuerlig",
+      "url": "https://www.nrk.no/vestfoldogtelemark/tide-har-skiftet-vinterdekk-pa-busser-i-vestfold-1.18082423",
+      "summary": "– Vi har planer om å kjøre busser som normalt mandag, sier regionsjef Harald Hella i busselskapet Tide til NRK søndag kveld.",
+      "date_label": "15.11.2026",
+      "timestamp": 1794774012
+    },
     {
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "date_label": "15.11.2026",
       "timestamp": 1794771159
     },
@@ -173,16 +323,6 @@
       "timestamp": 1794763599
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "date_label": "15.11.2026",
-      "timestamp": 1794763420
-    },
-    {
       "source": "Jarlsberg Avis",
       "category": "holmestrand",
       "topic": "lokalt",
@@ -261,16 +401,6 @@
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "date_label": "15.11.2026",
       "timestamp": 1794754635
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "date_label": "15.11.2026",
-      "timestamp": 1794754581
     },
     {
       "source": "BBC World",
@@ -3871,136 +4001,6 @@
       "summary": "Bussdriften i Hof ble stanset torsdag morgen etter en vurdering fra verneombudet. Tide erkjenner samtidig at vinterutrustningen på bussene ikke er på plass som planlagt.",
       "date_label": "12.11.2026",
       "timestamp": 1794494115
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "What in the World",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct9955?at_medium=RSS&at_campaign=rss",
-      "summary": "What can you do to protect your personal date?",
-      "date_label": "12.11.2026",
-      "timestamp": 1794493800
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "summary": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794493799
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Går hardt ut mot terminal på Bekkestranda: – Totalt uaktuelt",
-      "url": "https://www.sandeavis.no/gar-hardt-ut-mot-terminal-pa-bekkestranda-totalt-uaktuelt/s/80-72-7316",
-      "summary": "Både ordføreren og utvalgslederen tviler på at kommunestyret i Holmestrand sier ja til løsningen.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794493489
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Norges trening avlyst to dager før Wales-kampen - for mye snø på Ullevaal",
-      "url": "https://www.nrk.no/sport/norges-trening-avlyst-to-dager-for-wales-kampen---for-mye-sno-pa-ullevaal-1.18080074",
-      "summary": "– Etter å ha sett på snøforholdene blir dagens fotballtrening på Ullevaal Stadion avlyst. Den erstattes av fysisk trening innendørs, skriver landslagets pressesjef Morten Skjønsberg til NRK. Dermed blir det ingen trening for Norge før Nasjonsliga-kampen mot Wa",
-      "date_label": "12.11.2026",
-      "timestamp": 1794493477
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Nei til tømmerterminal på Langdokk!",
-      "url": "https://www.sandeavis.no/nei-til-tommerterminal-pa-langdokk/o/80-72-7376",
-      "summary": "",
-      "date_label": "12.11.2026",
-      "timestamp": 1794493402
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Ny beskjed: Bolsjunov kommer ikke til Norge",
-      "url": "https://www.nrk.no/sport/ny-beskjed_-bolsjunov-kommer-ikke-til-norge-1.18080378",
-      "summary": "Det skriver Nettavisen. 26. oktober ble det kjent at Bolsjunov var i troppen som hadde fått klarsignal til å gå rennene i Finland og Norge. Samtidig har russeren fortsatt ikke fått status som nøytral utøver av Det internasjonale ski- og snowboardforbundet (FIS",
-      "date_label": "12.11.2026",
-      "timestamp": 1794493300
-    },
-    {
-      "source": "NRK Vestfold",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Brann i bygning i Sandefjord",
-      "url": "https://www.nrk.no/vestfoldogtelemark/brann-i-bygning-i-sandefjord-1.18080532",
-      "summary": "Politiet meldte at det brant i en bygning i Sandefjord i ettermiddag. I ettertid viste seg at det kun var røykutvkling og ingen brann. Brannvesenet har avsluttet på stedet,",
-      "date_label": "12.11.2026",
-      "timestamp": 1794493063
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Mann i 50-årene omkom i trefellingsulykke",
-      "url": "https://www.nrk.no/sorlandet/mann-i-50-arene-omkom-i-trefellingsulykke-1.18080438",
-      "summary": "En person er bekreftet død i forbindelse med en trefellingsulykke i Grimstad.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794492867
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-      "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794492775
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Storbritannia kjøper mineryddere av Norge",
-      "url": "https://www.nrk.no/nyheter/storbritannia-kjoper-mineryddere-av-norge-1.18080510",
-      "summary": "Forsvarsminister Tore O. Sandvik (Ap) og hans britiske motpart Wes Streeting kunngjorde torsdag en avtale mellom landene om skipskjøp. Avtalen går ut på at Storbritannia skal kjøpe tre norskproduserte «moderskip» for ubemannede mineryddingssystemer, opplyser d",
-      "date_label": "12.11.2026",
-      "timestamp": 1794492614
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Hærverk på elsparkesykler: Kristiansand er Europa-versting",
-      "url": "https://www.nrk.no/sorlandet/elsparkesykler_-av-130-europeiske-byer-troner-kristiansand-pa-haerverkstoppen-1.18080026",
-      "summary": "Ingen byer i Europa har mer hærverk på Vois elsparkesykler enn Kristiansand. Nå har selskapet og politiet oppdaget en ny og livsfarlig trend der sykler blir forsøkt påtent.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794492604
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-      "date_label": "12.11.2026",
-      "timestamp": 1794491929
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Fem personar skotne i Washington D.C. – gjerningspersonen har skote seg sjølv",
-      "url": "https://www.nrk.no/nyheter/fem-personar-skotne-i-washington-d.c.-_-gjerningspersonen-har-skote-seg-sjolv-1.18080501",
-      "summary": "Politiet opplyser at skyttaren har tatt sitt eige liv, etter han hadde barrikadert seg inne i ei leilegheit. Éin annan person er død, og fire andre er skadde, ifølge NBC4 Washington. Skytinga har gått føre seg i Logan Circle, eitt trendy nabolag litt meir enn ",
-      "date_label": "12.11.2026",
-      "timestamp": 1794491785
     }
   ]
 }
