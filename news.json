@@ -1,7 +1,167 @@
 {
-  "updated": "2026-11-18T23:03:47Z",
+  "updated": "2026-11-19T04:05:55Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795057146
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Musk angrer på pengebruk på mellomvalget",
+      "url": "https://www.nrk.no/nyheter/musk-angrer-pa-pengebruk-pa-mellomvalget-1.18084639",
+      "summary": "Elon Musk brukte rundt 450 millioner dollar på å støtte republikanernes valgkamp i mellomvalget i USA. Nå gir han uttrykk for at han angrer på pengebruken i et intervju med avisen The New York Times. Musk kom med uttalelsen da han var med digitalt på «Dealbook",
+      "date_label": "19.11.2026",
+      "timestamp": 1795056990
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795054815
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Van Gogh-maleri solgt for 1,8 milliarder kroner",
+      "url": "https://www.nrk.no/nyheter/van-gogh-maleri-solgt-for-1_8-milliarder-kroner-1.18084638",
+      "summary": "Et maleri av den nederlandske maleren Vincent Van Gogh er solgt for 190,4 millioner dollar. Beløpet tilsvarer rundt 1,8 milliarder kroner. Det er ny salgsrekord for malerier av van Gogh, melder nyhetsbyrået AFP. Maleriet har tittelen «Chataigniers en fleurs», ",
+      "date_label": "19.11.2026",
+      "timestamp": 1795054306
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Meglerne svarer – hit trekkes de ulike målgruppene i boligmarkedet",
+      "url": "https://www.sandeavis.no/meglerne-svarer-hit-trekkes-de-ulike-malgruppene-i-boligmarkedet/s/80-72-7388",
+      "summary": "– Vi merker en liten endring av kjøperne nå, med flest lokale og ikke så mange utenbys fra som før.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795053600
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Who are the investors ready to jump on Anthropic?",
+      "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795051358
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Satt klar da GTA VI kom til Norge: – Jeg er målløs",
+      "url": "https://www.nrk.no/sorlandet/na-er-gta-vi-lansert-i-norge-1.18084061",
+      "summary": "Håkon Puntervold er usikker på om man noen gang får oppleve en lignende spillansering.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795051314
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795050303
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795049359
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795048732
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795046459
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795045666
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795045327
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795044483
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795043046
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+      "date_label": "19.11.2026",
+      "timestamp": 1795042869
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -11,6 +171,16 @@
       "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "date_label": "18.11.2026",
       "timestamp": 1795041296
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+      "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+      "date_label": "18.11.2026",
+      "timestamp": 1795041167
     },
     {
       "source": "NRK Sport",
@@ -36,7 +206,17 @@
       "source": "BBC Business",
       "category": "okonomi",
       "topic": "okonomi",
-      "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+      "title": "Business Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&at_campaign=rss",
+      "summary": "We examine the business of the Claude chatbot maker as it starts selling shares",
+      "date_label": "18.11.2026",
+      "timestamp": 1795037400
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
       "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
       "date_label": "18.11.2026",
@@ -343,9 +523,9 @@
       "timestamp": 1795023831
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
       "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
       "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
@@ -701,16 +881,6 @@
       "summary": "Det melder klubben i en pressemelding. Anna Aahjem sin kontrakt går ut ved nyttår. Den blir ikke forlenget, og spissen har dermed spilt sin siste kamp for Brann. – Jeg har hatt noen veldig fine år her, og har vært omringet av ekstremt mange fine folk både i og",
       "date_label": "18.11.2026",
       "timestamp": 1795010771
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795010114
     },
     {
       "source": "NRK Norge",
@@ -3831,176 +4001,6 @@
       "summary": "I sommar blei plutseleg ein serie frå 2008 ein av dei mest sette på Netflix i Noreg. Truleg skal Patrick Berg ha noko av æra for det.",
       "date_label": "16.11.2026",
       "timestamp": 1794803883
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "New York teen reunites with cat missing after building collapse",
-      "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794803805
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ordfører: Over 100 droner sendt mot Moskva",
-      "url": "https://www.nrk.no/nyheter/ordforer_-over-100-droner-sendt-mot-moskva-1.18082463",
-      "summary": "Russland har skutt ned 139 droner som ble sendt mot Moskva, ifølge Moskva-ordfører Sergej Sobjanin. Det skriver Sobjanin i flere innlegg på meldingstjenesten Telegram, melder nyhetsbyrået AFP. Dronene skal ha blitt skutt ned mellom søndag kveld og mandag morge",
-      "date_label": "16.11.2026",
-      "timestamp": 1794803502
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Oppbevarte våpen, 2.700 liter alkohol og mange kilo dop – dømt til fengsel",
-      "url": "https://www.jarlsbergavis.no/oppbevarte-vapen-2-700-liter-alkohol-og-mange-kilo-dop-domt-til-fengsel/s/80-26-12566",
-      "summary": "En mann bosatt på Gullhaug i Holmestrand er dømt til to år og ti måneders fengsel etter omfattende befatning med blant annet narkotika, alkohol, våpen og ruskjøring.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794803400
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kina bekrefter: Trump, Xi og Putin møtes torsdag",
-      "url": "https://www.nrk.no/nyheter/kina-bekrefter_-trump_-xi-og-putin-motes-torsdag-1.18082462",
-      "summary": "Dermed har både USA, Russland og Kina bekreftet møtet mellom de tre presidentene. Møtet mellom USAs president Donald Trump, Kinas president Xi Jinping og Russlands president Vladimir Putin skal holdes i kystbyen Shenzhen sørøst i Kina torsdag 19. november. Kin",
-      "date_label": "16.11.2026",
-      "timestamp": 1794799448
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
-      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794799316
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794798589
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794798241
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Ingen støtte fra politikerne: – Tømmerterminal vil aldri bli plassert på Langdokk",
-      "url": "https://www.sandeavis.no/ingen-stotte-fra-politikerne-tommerterminal-vil-aldri-bli-plassert-pa-langdokk/s/80-72-7427",
-      "summary": "Trafikksikkerheten går igjen da de folkevalgte deler sine synspunkter.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794794400
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Brann i bolig i Namsos",
-      "url": "https://www.nrk.no/nyheter/brann-i-bolig-i-namsos-1.18082461",
-      "summary": "Brannvesenet jobber med å slukke en brann i en bolig i Namsos. Det er ikke noen personer inne i huset, opplyser politiet i 2.30-tiden natt til mandag i politiloggen. Det var to tenåringer som gikk tur med hunden som oppdaga brannen og fikk varsla videre. Bolig",
-      "date_label": "16.11.2026",
-      "timestamp": 1794793940
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794793677
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Krever svar om Kina fra Nvidia",
-      "url": "https://www.nrk.no/nyheter/krever-svar-om-kina-fra-nvidia-1.18082460",
-      "summary": "Den amerikanske finansministeren Scott Bessent krever svar på tekselskapet Nvidias bånd til Kina. Bessent spør om dette i et intervju med Fox News, melder nyhetsbyrået AFP. USA har innført forbud mot salg av de mest avanserte KI-brikkene til Kina. Finansminist",
-      "date_label": "16.11.2026",
-      "timestamp": 1794792986
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794791144
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Is India rethinking its short-term military recruitment scheme?",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
-      "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794789702
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
-      "date_label": "16.11.2026",
-      "timestamp": 1794787994
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
-      "date_label": "16.11.2026",
-      "timestamp": 1794787872
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kapp Verdes president gjenvalgt",
-      "url": "https://www.nrk.no/nyheter/kapp-verdes-president-gjenvalgt-1.18082459",
-      "summary": "Presidenten i Kapp Verde er gjenvalgt, ifølge foreløpige tall fra landets valgkommisjon. Det melder nyhetsbyrået AFP. 63,8 prosent av stemmene som ble avlagt i den afrikanske øygruppen i Atlanterhavet gikk til landets sittende president Jose Maria Neves, ifølg",
-      "date_label": "16.11.2026",
-      "timestamp": 1794786271
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Demonstrasjoner mot mediepolitikk i Tsjekkia",
-      "url": "https://www.nrk.no/nyheter/demonstrasjoner-mot-mediepolitikk-i-tsjekkia-1.18082450",
-      "summary": "Over 200.000 personer møtte opp i en demonstrasjon i Tsjekkias hovedstad Praha søndag, ifølge arrangørene selv. Det melder nyhetsbyrået Reuters. Demonstrantene er kritiske til regjeringens planer om å avvikle kringkastingsavgiften og flytte finansieringen til ",
-      "date_label": "15.11.2026",
-      "timestamp": 1794783597
     }
   ]
 }
