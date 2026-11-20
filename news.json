@@ -1,7 +1,47 @@
 {
-  "updated": "2026-11-19T21:23:36Z",
+  "updated": "2026-11-20T02:31:44Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795140785
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Står imot tømmerterminalen: – Massive ødeleggelser",
+      "url": "https://www.sandeavis.no/tommerterminalen-pa-bekkestranda-massive-odeleggelser/s/80-72-7740",
+      "summary": "Nå er det satt i gang underskriftskampanje mot bygging av tømmerterminalen i Sande.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795140000
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Pentagon: Iran-krigen har kostet USA 48 milliarder dollar",
+      "url": "https://www.nrk.no/nyheter/pentagon_-iran-krigen-har-kostet-usa-48-milliarder-dollar-1.18085497",
+      "summary": "Iran-krigen har kostet USA 48 milliarder dollar. Det opplyser viseøkonomidirektør Arthur Miller i Pentagon, melder AFP. Beregningen for kostnadene gjelder fra og med USA og Israel angrep Iran i februar. Beløpet tilsvarer rundt 470 milliarder kroner.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795139964
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795136090
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -9,8 +49,178 @@
       "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
       "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795135824
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795133604
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795133601
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ny henrettelse gjennomført i USA",
+      "url": "https://www.nrk.no/nyheter/ny-henrettelse-gjennomfort-i-usa-1.18085496",
+      "summary": "En 71 år gammel mann ble ved midnatt norsk tid henrettet i Florida i USA, melder nyhetsbyrået AP. Henrettelsen av Thomas Mitchell Overton skjedde i Florida State Prison i Raiford med en dødelig injeksjon. Han ble erklært død klokken 18.19, lokal tid. 71-åringe",
+      "date_label": "20.11.2026",
+      "timestamp": 1795133550
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795133548
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "summary": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "date_label": "20.11.2026",
+      "timestamp": 1795133317
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795132927
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "NTB: Menneskerettsdomstol avviste klage fra Nav-ofre",
+      "url": "https://www.nrk.no/nyheter/ntb_-menneskerettsdomstol-avviste-klage-fra-nav-ofre-1.18085490",
+      "summary": "Den europeiske menneskerettighetsdomstolen (EMD) har avvist klagen fra tre ofre for trygdeskandalen i 2019. Det melder NTB. Saken ble klaget inn til EMD i mai i år og handlet om tre konkrete krav om oppreisning. Klagerne ba EMD om å vurdere om Norge har brutt ",
+      "date_label": "20.11.2026",
+      "timestamp": 1795132741
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "How did Anthropic's stock market debut unfold?",
+      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795132345
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795132310
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795131629
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795131231
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795130940
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "California targets Nvidia in China AI chip probe",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795129470
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
       "date_label": "19.11.2026",
-      "timestamp": 1795123303
+      "timestamp": 1795128843
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "date_label": "19.11.2026",
+      "timestamp": 1795128502
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Ada Hegerberg på benken da Lyon slo Frida Maanums Arsenal",
+      "url": "https://www.nrk.no/sport/ada-hegerberg-pa-benken-da-lyon-slo-frida-maanums-arsenal-1.18085476",
+      "summary": "Ada Hegerberg var plassert på benken sammen med Ingrid Syrstad Engen da Arsenal tok imot Lyon i Mesterligaen. Frida Maanum startet kampen for hjemmelaget. De franske mestrene var suverene mot den engelske hovedstadsklubben. Jule Brand sendte Lyon i ledelsen et",
+      "date_label": "19.11.2026",
+      "timestamp": 1795125181
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Graham Hansen-scoring og målgivende – Barcelona med storseier i Mesterligaen",
+      "url": "https://www.nrk.no/sport/graham-hansen-scoring-og-malgivende-_-barcelona-med-storseier-i-mesterligaen--1.18085426",
+      "summary": "Barcelona hadde full kontroll på sveitsiske Servette og sikret seg tre viktige poeng i Mesterligaen torsdag kveld. Det etter å ha vunnet solide 6-0. De regjerende mesterne kjørte over sveitserne fra første sekund, og det eneste norske bidraget i Caroline Graha",
+      "date_label": "19.11.2026",
+      "timestamp": 1795125011
     },
     {
       "source": "NRK Norge",
@@ -306,7 +516,7 @@
       "source": "BBC World",
       "category": "verden",
       "topic": "verden",
-      "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
       "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
       "date_label": "19.11.2026",
@@ -1303,9 +1513,9 @@
       "timestamp": 1795046459
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
       "title": "Why has Waymo pulled all its driverless cars from US freeways?",
       "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
@@ -1313,9 +1523,9 @@
       "timestamp": 1795045666
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
@@ -2303,9 +2513,9 @@
       "timestamp": 1794994330
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
       "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
       "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
       "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
@@ -2413,9 +2623,9 @@
       "timestamp": 1794982678
     },
     {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
       "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
@@ -2543,9 +2753,9 @@
       "timestamp": 1794974454
     },
     {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
       "title": "Waymo pulls driverless taxis from all US freeways",
       "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
       "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
@@ -2593,9 +2803,9 @@
       "timestamp": 1794966093
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
@@ -2761,6 +2971,16 @@
       "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
       "date_label": "17.11.2026",
       "timestamp": 1794947420
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+      "date_label": "17.11.2026",
+      "timestamp": 1794947400
     },
     {
       "source": "BBC Technology",
@@ -3781,226 +4001,6 @@
       "summary": "– Kongeparet er på besøk til Trondheim og er på Stiftsgården deler av dagen i dag, opplyser Slottet overfor NRK. Det var NTB som først meldte om det kongelige besøket. Slottet opplyser ikke om turen er del av forberedelsene til den planlagte signingen i byen i",
       "date_label": "17.11.2026",
       "timestamp": 1794898941
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Mongolias president går av etter korrupsjonsanklager",
-      "url": "https://www.nrk.no/nyheter/mongolias-president-gar-av-etter-korrupsjonsanklager-1.18083182",
-      "summary": "Mongolias president Ukhnaagiin Khurelsukh går av, etter at en partifelle anklaget ham for å ha skaffet seg penger fra et statlig jernbaneprosjekt som statsminister. Han anklages for å ha tatt imot 25 millioner dollar i 2019 i forbindelse med byggingen av jernb",
-      "date_label": "17.11.2026",
-      "timestamp": 1794898607
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-      "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794896631
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Tenåring til sykehus etter påkjørsel i Arendal",
-      "url": "https://www.nrk.no/sorlandet/tenaring-til-sykehus-etter-pakjorsel-i-arendal-1.18083198",
-      "summary": "Ulykken skjedde i et gangfelt tirsdag morgen, opplyser politiet.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794896474
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kollektivtilbud sprer seg på Sørlandet: – Veldig gode erfaringer",
-      "url": "https://www.nrk.no/sorlandet/kollektivtilbud-sprer-seg-pa-sorlandet_-_-veldig-gode-erfaringer-1.18083180",
-      "summary": "Kollektivtilbudet AKT Svipp finnes nå i 12 av 25 kommuner i Agder. Det viser en statusrapport fra Agder Kollektivtrafikk som har ansvaret for tilbudet.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794896164
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Klaveness jubler over Infantino-utfordreren: – Veldig godt fornøyd",
-      "url": "https://www.nrk.no/sport/klaveness-jubler-over-infantino-utfordreren_-_-veldig-godt-fornoyd-1.18083184",
-      "summary": "Fotballpresident Lise Klaveness sier at Norge kommer til å stille seg «fullt og helt» bak franske Philippe Diallo i presidentvalget i Fifa til våren. Det europeiske fotballforbundet (Uefa) bestemte seg mandag for å oppfordre Diallo til å ta opp kampen mot sitt",
-      "date_label": "17.11.2026",
-      "timestamp": 1794895343
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794895141
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kommunen fjerna 30 sjukeheimsplassar – så kom eldrebølgja",
-      "url": "https://www.nrk.no/mr/ein-etasje-har-statt-tom-i-rauma-helsehus-etter-at-dei-kutta-30-plassar-_-no-far-fleire-plass-1.18077293",
-      "summary": "Ein heil etasje har stått tom på Rauma helsehus etter at kommunen kutta plassar. No skal romma takast i bruk, utan at det blir tilsett fleire.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794894310
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Zuccarello én kamp unna kjempebonus",
-      "url": "https://www.nrk.no/sport/zuccarello-en-kamp-unna-kjempebonus-1.18083178",
-      "summary": "Mats Zuccarello (39) har hatt en noe kronglete inngang i Los Angeles Kings. Tirsdag spiller han trolig sin tiende NHL-kamp for laget – og da utløses en heftig bonus i nordmannens kontrakt. Zuccarello fikk en beskjeden grunnlønn i NHL-målestokk – 1 million doll",
-      "date_label": "17.11.2026",
-      "timestamp": 1794893855
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Var ein av 1100 søkjarar i Oslo – flytta til Svolvær utan å kjenne nokon",
-      "url": "https://www.nrk.no/nordland/knekkjer-koden-for-fraflytting_-slik-far-dei-85-prosent-av-dei-unge-til-a-bli-i-nord-1.18060942",
-      "summary": "Etter mange avslag i Oslo greip Viktor (28) sjansen i Svolvær. I dag har han kjøpt hus i Lofoten.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794892133
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Russland: Har skutt ned hundrevis av droner mot Moskva",
-      "url": "https://www.nrk.no/nyheter/russland_-har-skutt-ned-hundrevis-av-droner-mot-moskva-1.18083165",
-      "summary": "Rundt 800 droner ble sendt mot Moskva mandag kveld og natt til tirsdag, ifølge Moskva-ordfører Sergej Sobjanin. Sobjanen kom med tallet i et innlegg på meldingstjenesten Telegram tirsdag morgen. 321 droner ble skutt ned da de nærmet seg Moskva, ifølge ordfører",
-      "date_label": "17.11.2026",
-      "timestamp": 1794890967
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "689.000 kroner i lønnskrav etter Bella Vista-konkursen",
-      "url": "https://www.jarlsbergavis.no/689-000-kroner-i-lonnskrav-etter-bella-vista-konkursen/s/80-26-13466",
-      "summary": "17 tidligere ansatte i Bella Vista Holmestrand har meldt inn lønnskrav etter konkursen i restauranten. De må smøre seg med tålmodighet: saksbehandlingen i NAVs lønnsgarantifond tar tid. Bostyrer har nå kommet med sin sluttinnberetning.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794889800
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Aksjesparing dobla blant unge: – Undervurderer risikoen",
-      "url": "https://www.nrk.no/sorlandet/stadig-fleire-unge-investerer-i-aksjar---trur-dei-undervurderer-risikoen-1.18081041",
-      "summary": "Interessa for aksjesparing er stadig veksande blant unge. Økonomiprofessor trur studentane tek for stor risiko.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794889529
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
-      "date_label": "17.11.2026",
-      "timestamp": 1794884843
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Japan: Russland krenket japansk luftrom",
-      "url": "https://www.nrk.no/nyheter/japan_-russland-krenket-japansk-luftrom-1.18083164",
-      "summary": "To russiske fly har vært i japansk luftrom i nærheten av øya Okinoshima, ifølge japanske myndigheter. Nå retter de krass kritikk mot Russland. – Krenkelsen av Japans luftrom av russiske fly er et alvorlig brudd på Japans suverenitet, sier talsperson for den ja",
-      "date_label": "17.11.2026",
-      "timestamp": 1794884135
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794883088
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794883073
-    },
-    {
-      "source": "Sande Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Her trenger de sykepleiere – se hva som kreves for å få jobben",
-      "url": "https://www.sandeavis.no/her-trenger-de-flere-ansatte-i-sande/s/80-72-6797",
-      "summary": "Flere bedrifter i Sande søker ansatte – Her kan du se flere av jobbene som ligger ute i skrivende stund.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794880800
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794878761
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
-      "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794874099
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "We couldn't afford a house alone, so we bought one with strangers",
-      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-      "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794873602
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794871553
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "date_label": "17.11.2026",
-      "timestamp": 1794871245
     }
   ]
 }
