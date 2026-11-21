@@ -1,16 +1,36 @@
 {
-  "updated": "2026-11-21T15:33:19Z",
+  "updated": "2026-11-21T21:03:42Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Julemarked i Eidsfoss - sesongen er i gang",
+      "url": "https://www.jarlsbergavis.no/julemarked-i-eidsfoss-sesongen-er-i-gang/v/80-26-15405",
+      "summary": "",
+      "date_label": "21.11.2026",
+      "timestamp": 1795294387
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "PSG-stjernen Doué båret ut med skade",
+      "url": "https://www.nrk.no/sport/psg-stjernen-doue-baret-ut-med-skade-1.18086489",
+      "summary": "Paris Saint-Germains skadeproblemer økte da Desiré Doué ble båret ut med store smerter i 3-2-seieren over Nice lørdag. Mindre enn et døgn etter at gullballvinner Harry Kane pådro seg en leddbåndsskade i ankelen i kamp for Bayern München, var uhellet ute for en",
+      "date_label": "21.11.2026",
+      "timestamp": 1795293441
+    },
     {
       "source": "NRK Norge",
       "category": "norge",
       "topic": "norge",
-      "title": "– En fortjent seier",
-      "url": "https://www.nrk.no/sport/viking-smell-i-gullkampen-_-tromso-ga-erkerivalen-en-gavepakke-1.18086388",
-      "summary": "",
+      "title": "Nå er han formelt valgt som ordfører­kandidat",
+      "url": "https://www.nrk.no/tromsogfinnmark/brage-larsen-sollund-er-tromso-ap-sin-ordforerkandidat-1.18086472",
+      "summary": "Brage Larsen Sollund er Tromsø Arbeiderpartis ordførerkandidat.",
       "date_label": "21.11.2026",
-      "timestamp": 1795272873
+      "timestamp": 1795289800
     },
     {
       "source": "BBC World",
@@ -20,17 +40,227 @@
       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "date_label": "21.11.2026",
-      "timestamp": 1795272864
+      "timestamp": 1795289629
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Brevik dødsfall: Startet aldri leteaksjon etter mor og barn",
+      "url": "https://www.nrk.no/vestfoldogtelemark/xl/dodsfallet-i-brevik-1.18021638",
+      "summary": "",
+      "date_label": "21.11.2026",
+      "timestamp": 1795289462
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "date_label": "21.11.2026",
+      "timestamp": 1795288822
+    },
+    {
+      "source": "NRK Kultur",
+      "category": "kultur",
+      "topic": "kultur",
+      "title": "Heide fekk laurdag kveld tildelt heiderspris på Folkelarm",
+      "url": "https://www.nrk.no/artikkel/han-vann-den-gjavaste-prisen-1533668",
+      "summary": "",
+      "date_label": "21.11.2026",
+      "timestamp": 1795288483
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Ble norgesmester lørdag – står over ny NM-distanse søndag",
+      "url": "https://www.nrk.no/sport/ble-norgesmester-lordag-_-star-over-ny-nm-distanse-sondag-1.18086447",
+      "summary": "Einar Lurås Oftebro ble lørdag norgesmester i kombinert. Få timer etter rennet bekrefter han til NRK at han står over søndagens kompaktøvelse som også er et NM-renn. – Todelt årsak uten noe dramatikk. Jeg fikk de svarene jeg var ute etter i dag, i tillegg til ",
+      "date_label": "21.11.2026",
+      "timestamp": 1795288460
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Sæter-tirade etter drama: – Det holder ikke mål",
+      "url": "https://www.nrk.no/sport/saeter-tirade-etter-drama_-_-det-holder-ikke-mal-1.18086450",
+      "summary": "Ole Sæter så ut til å sende Start et steg nærmere 1. divisjonsspill i 2027, men så snudde tabelljumboen kampen. Fem minutter før slutt fikk dukket Start-kaptein Eirik Schulze opp og satte inn 2–1 for Start, som også ble sluttresultatet. – Det er kapteinen som ",
+      "date_label": "21.11.2026",
+      "timestamp": 1795287342
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Åge Aleksandersen ble hedret",
+      "url": "https://www.nrk.no/trondelag/artist-age-aleksandersen-ble-hedret-pa-samfundet-for-kongelig-pris-1.18086444",
+      "summary": "Det var en preget musiker som mottok dekorasjonen fra Hans Majestet Kongen lørdag ettermiddag.",
+      "date_label": "21.11.2026",
+      "timestamp": 1795285302
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Fryktar «svenske tilstandar» i lufta: – Dette er berre starten",
+      "url": "https://www.nrk.no/tromsogfinnmark/hoge-flyplassavgifter-i-nord_-ap-opnar-dora-pa-glott-om-taxfree-kvoten-1.18086222",
+      "summary": "Prisane for å bruke norske flyplassar har økt med 75 prosent på tre år. Senterpartiet meiner endring i Taxfree-kvoten kan snu økonomien, noko Arbeidarpartiet ikkje avviser.",
+      "date_label": "21.11.2026",
+      "timestamp": 1795281533
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Granerud i tårer etter opptur: – Fått så utrolig mye hjelp",
+      "url": "https://www.nrk.no/sport/granerud-i-tarer-etter-opptur_-_-fatt-sa-utrolig-mye-hjelp-1.18086405",
+      "summary": "Halvor Egner Granerud fikk en etterlengtet opptur med 2. plass da han hoppet 139 meter i andre omgang. Det var hans første pallplass i verdenscupen siden Vikersund 2023. – Jeg har fått så utrolig mye hjelp til å få dette til å gå i hop med satsing i år. Vi had",
+      "date_label": "21.11.2026",
+      "timestamp": 1795280568
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Bråthen topper Troms Senter­parti sin liste",
+      "url": "https://www.nrk.no/tromsogfinnmark/brathen-topper-troms-senterparti-sin-liste-1.18086432",
+      "summary": "Troms Senterparti har gjennomført sitt nominasjonsmøte til fylkesvalglista for 2027.",
+      "date_label": "21.11.2026",
+      "timestamp": 1795280546
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Målløst mellom HamKam og Fredrikstad",
+      "url": "https://www.nrk.no/sport/mallost-mellom-hamkam-og-fredrikstad-1.18086446",
+      "summary": "HamKam og Fredrikstad fikk med seg ett poeng hver fra en tam eliteseriekamp på Briskeby lørdag. 0–0 betyr at begge lag ligger på 31 poeng etter 27 seriekamper og foreløpig ser ut til å styre unna nedrykk eller kvalifiseringsspill. Frykten for å tape bidro kans",
+      "date_label": "21.11.2026",
+      "timestamp": 1795280527
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Russ, langrenn og kjente ledere - test deg i helgens quiz",
+      "url": "https://www.sandeavis.no/russ-langrenn-og-kjente-ledere-test-deg-i-helgens-quiz/s/80-72-8109",
+      "summary": "Vet du hvor langt Vasaloppet er?",
+      "date_label": "21.11.2026",
+      "timestamp": 1795280400
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Ydmykende tap mot Leeds: – Kan velte Chelsea",
+      "url": "https://www.nrk.no/sport/ydmykende-tap-mot-leeds_-_-kan-velte-chelsea-1.18086431",
+      "summary": "Chelsea gikk på en skrell på hjemmebane da de tapte 1-4 mot Leeds hjemme på Stamford Bridge. – Dette er et resultat som kan velte Chelsea. Det kommer til å skape bølger innad å tape for Leeds, kommenterte Viaplays Eivind Bisgaard Sundet. Det startet lovende fo",
+      "date_label": "21.11.2026",
+      "timestamp": 1795280292
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Strand Larsen i praktslag – men Palace gikk på sitt åttende tap",
+      "url": "https://www.nrk.no/sport/strand-larsen-i-praktslag-_-men-palace-gikk-pa-sitt-attende-tap-1.18086434",
+      "summary": "Thomas Frank fikk se en heltent Jørgen Strand Larsen (26) i sin første kamp som Crystal Palace-manager. Haldensen var tilbake i praktslag etter at han måtte melde forfall til landslagssamlingen med en ankelskade. I Premier League-oppgjøret mot Coventry vartet ",
+      "date_label": "21.11.2026",
+      "timestamp": 1795280208
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Klimaministeren utsetter hjemreise fra klimatoppmøtet",
+      "url": "https://www.nrk.no/nyheter/klimaministeren-utsetter-hjemreise-fra-klimatoppmotet-1.18086369",
+      "summary": "Klima- og miljøminister Sigrun Aasland (Ap) utsetter hjemreisen sin fra klimatoppmøtet i Tyrkia, der forhandlingene fortsetter på overtid. Partene skulle egentlig bli enige innen midnatt natt til lørdag. Det ble de ikke. Nå krever Norge og flere andre land fre",
+      "date_label": "21.11.2026",
+      "timestamp": 1795279918
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "date_label": "21.11.2026",
+      "timestamp": 1795278915
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Nusas målform fortsetter – scoret i storseier",
+      "url": "https://www.nrk.no/sport/nusas-malform-fortsetter-_-scoret-i-storseier-1.18086425",
+      "summary": "Antonio Nusa fortsatte der han slapp, og bidro med en scoring i RB Leipzigs 5-1-seier over Union Berlin. Nordmannen scoret kampens første mål og han står dermed med seks mål og syv målgivende scoringer i ligaen denne sesongen. Det var på straffespark han fikk ",
+      "date_label": "21.11.2026",
+      "timestamp": 1795278352
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Advarer etter flere ulykker på glatta",
+      "url": "https://www.nrk.no/trondelag/politiet-advarer-mot-glatte-veier-_-flere-har-kjort-av-veien-1.18086333",
+      "summary": "Glatte veier har ført til trafikkulykker flere steder i landet. Nå ber Vegtrafikksentralen bilister om å senke farten og kjøre etter forholdene.",
+      "date_label": "21.11.2026",
+      "timestamp": 1795277112
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Aileen (22) orker ikke å returnere bomkjøp på nett: – Er aldri verdt den lange prosessen",
+      "url": "https://www.nrk.no/nordland/vet-du-hvilke-rettigheter-du-har-ved-netthandel_-1.18078355",
+      "summary": "Black week og julehandelen på nett er i full gang, men for mange unge sitter returen langt inne. Vet du hvilke rettigheter du har ved netthandling?",
+      "date_label": "21.11.2026",
+      "timestamp": 1795275989
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Finner ikke rett billett på nettsidene til kystrute-rederiene: – De må skjerpe seg",
+      "url": "https://www.nrk.no/nordland/kystruten_-flere-politikere-klarer-ikke-a-bestille-billetter-pa-kystruten-via-rederienes-nettsider-1.18082617",
+      "summary": "Stadig færre lokalreisende tar kystruten mellom Bergen og Kirkenes. Kan det ha noe å gjøre med hvordan disse reisene markedsføres på nettsidene?",
+      "date_label": "21.11.2026",
+      "timestamp": 1795274965
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Sår tvil om Viking-gull: – Sjansene er små",
+      "url": "https://www.nrk.no/sport/viking-smell-i-gullkampen-_-tromso-ga-erkerivalen-en-gavepakke-1.18086388",
+      "summary": "Viking kunne tatt tilbake tabelltoppen, men ble senket av Tromsø. Nå erkjenner Zlatko Tripic at de regjerende seriemesterne har satt seg selv i en vanskelig situasjon.",
+      "date_label": "21.11.2026",
+      "timestamp": 1795272873
     },
     {
       "source": "Jarlsberg Avis",
       "category": "holmestrand",
       "topic": "lokalt",
-      "title": "Trafikkuhell på E18",
+      "title": "Kjørte på stein på E18",
       "url": "https://www.jarlsbergavis.no/rykker-ut-til-trafikkulykke/s/80-76-85435",
-      "summary": "Det har skjedd et trafikkuhell på E18 mellom Undrumsdalskrysset og Kopstadkrysset.",
+      "summary": "Lørdag rykket politi og brannvesen ut til et trafikkuhell på E18 mellom Undrumsdalskrysset og Kopstadkrysset.",
       "date_label": "21.11.2026",
       "timestamp": 1795272711
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Historisk norsk dominans: – Hva i all verden er det som skjer?",
+      "url": "https://www.nrk.no/sport/historisk-norsk-dominans_-_-hva-i-all-verden-er-det-som-skjer_--1.18086364",
+      "summary": "Eirin Maria Kvandal vant da Norge okkuperte toppen av resultatlistene på Lillehammer. Kvandal vant foran Gyda Westvold Hansen og Ingvild Midtskogen – som med det tok sine første pallplasser i verdenscupen i hopp. – Det er helt vilt. Jeg vet ikke hva jeg skal s",
+      "date_label": "21.11.2026",
+      "timestamp": 1795271524
     },
     {
       "source": "NRK Sport",
@@ -51,6 +281,16 @@
       "summary": "For kort tid siden sørget Erling Braut Haaland for avansement til kvartfinalen i Nasjonsligaen for det norske herrelandslaget. Tilbake i klubbhverdagen vil det seg derimot ikke for stjernespissen, som gikk målløs av banen da Manchester City spilte 1–1 mot Fulh",
       "date_label": "21.11.2026",
       "timestamp": 1795270887
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "ID-porten hadde problemer etter dataangrep",
+      "url": "https://www.nrk.no/nyheter/id-porten-hadde-problemer-etter-dataangrep-1.18086360",
+      "summary": "Innloggingstjenesten ID-porten hadde lørdag problemer etter å ha blitt rammet av et DDOS-angrep. Klokken 17.15 skriver nyhetsbyrået NTB at innloggingsportalen er oppe og går igjen. Problemene oppsto rundt klokken 13.15, opplyste Digitaliseringsdirektoratet til",
+      "date_label": "21.11.2026",
+      "timestamp": 1795268846
     },
     {
       "source": "NRK Siste",
@@ -138,7 +378,7 @@
       "topic": "norge",
       "title": "Trafikkulukke etter forbikøyring: Melder om glatt veg",
       "url": "https://www.nrk.no/tromsogfinnmark/fleire-trafikkuhell-i-troms-1.18086325",
-      "summary": "Fleire trafikkhendingar har prega politiloggen laurdag.",
+      "summary": "Fleire trafikkhendingar har prega politiloggen heile laurdagen.",
       "date_label": "21.11.2026",
       "timestamp": 1795262596
     },
@@ -281,16 +521,6 @@
       "summary": "I løpet av morgontimane laurdag har politiet meldt om minst fem trafikkulukker i Møre og Romsdal grunna glatt føre. I Vestnes er ein person alvorleg skadd og frakta frå staden med luftambulanse.",
       "date_label": "21.11.2026",
       "timestamp": 1795253682
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "date_label": "21.11.2026",
-      "timestamp": 1795253660
     },
     {
       "source": "NRK Sport",
@@ -738,7 +968,7 @@
       "topic": "norge",
       "title": "Frykter at en ny kreftmedisin kommer sent til Norge: – Andre land er raskere",
       "url": "https://www.nrk.no/vestfoldogtelemark/ny-kreftmedisin-kan-komme-sent-til-norge-1.18056596",
-      "summary": "Det brukes milliarder av kroner på å utvikle en ny kreftbehandling med råstoff fra fabrikk i Norge. Men lykkes aktørene kan norske pasienter stå langt bak i køen.",
+      "summary": "Det brukes milliarder av kroner på å utvikle en ny kreftbehandling med råstoff fra fabrikk i Norge. Men lykkes aktørene, kan norske pasienter stå langt bak i køen.",
       "date_label": "20.11.2026",
       "timestamp": 1795209627
     },
@@ -3771,236 +4001,6 @@
       "summary": "Det brenner i et hus i Tvedestrand. Naboer bes om å lukke dører og vinduer for å ikke få røyken inn i huset.",
       "date_label": "18.11.2026",
       "timestamp": 1795028061
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Sjå Vestlandsrevyen 18. november",
-      "url": "https://www.nrk.no/video/DKHO98111826",
-      "summary": "",
-      "date_label": "18.11.2026",
-      "timestamp": 1795027194
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kveldenes TV-sending: Huseiere ber kommuner forebygge flom",
-      "url": "https://www.nrk.no/video/DKSL98111826",
-      "summary": "",
-      "date_label": "18.11.2026",
-      "timestamp": 1795026937
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Se Nordnytt: Skal bli enklere å bygge i skredutsatte områder",
-      "url": "https://www.nrk.no/video/DKTR98111826",
-      "summary": "",
-      "date_label": "18.11.2026",
-      "timestamp": 1795026620
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Reindrifta etterlyser gjerder langs den nye Hålogalandsveien",
-      "url": "https://www.nrk.no/video/DKNO98111826",
-      "summary": "",
-      "date_label": "18.11.2026",
-      "timestamp": 1795026556
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Vegard Lilleås gir deg de lokale nyhetene",
-      "url": "https://www.nrk.no/video/DKVT98111826",
-      "summary": "",
-      "date_label": "18.11.2026",
-      "timestamp": 1795026397
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Midtnytt: Setebelter på metrobussen?",
-      "url": "https://www.nrk.no/video/DKTL98111826",
-      "summary": "",
-      "date_label": "18.11.2026",
-      "timestamp": 1795025550
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Bare én av ti barnehageansatte er menn: 15-åringer invitert til å teste",
-      "url": "https://www.nrk.no/trondelag/prover-a-friste-gutter-til-barnehageyrket-i-skogn-1.18075980",
-      "summary": "Norske barnehager skriker etter flere menn. Nå inviteres 15 år gamle gutter til å prøve yrket.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795024896
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Hjortelotteriet har fått pangstart: – Vi ville gjøre noe som kan komme flere til gode før jula",
-      "url": "https://www.jarlsbergavis.no/hjortelotteriet-har-fatt-pangstart-vi-ville-gjore-noe-som-kan-komme-flere-til-gode-for-jula/s/80-26-14636",
-      "summary": "Etter én uke har det nye lotteriet solgt lodd for 8.000 kroner. Også Fritidshuset i Holmestrand få glede av suksessen.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795024800
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Tre funnet døde i Danmark",
-      "url": "https://www.nrk.no/nyheter/tre-funnet-dode-i-danmark-1.18084501",
-      "summary": "En 62 år gammel mann, en 48 år gammel kvinne og en jente på ti år er funnet døde ved Give på Jylland i Danmark, opplyser dansk politi. De tre, som alle er danske statsborgere, bodde på stedet og ble funnet onsdag morgen. Dødsårsaken er ikke kjent, men politiet",
-      "date_label": "18.11.2026",
-      "timestamp": 1795023884
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Her jager ulv rein: – Fortvilende",
-      "url": "https://www.nrk.no/sapmi/flere-ulveangrep-i-reinflokkene-i-finnmark-1.18084076",
-      "summary": "Reineiere fortviler etter å ha funnet rein med alvorlige bittskader. Miljødirektoratet gir to fellingstillatelser.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795023831
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795023265
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Utvider uran-anlegg",
-      "url": "https://www.nrk.no/nyheter/utvider-uran-anlegg-1.18084462",
-      "summary": "Nord-Korea har utvidet et anlegg for anrikning av uran i Yongbyon og trolig økt sitt lager av høyanriket uran, ifølge Det internasjonale atomenergibyrået (IAEA). IAEAs inspektører har ikke hatt tilgang til Nord-Korea siden 2009 og overvåker i hovedsak landets ",
-      "date_label": "18.11.2026",
-      "timestamp": 1795022741
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Carlsen avgjorde igjen før klassiskpartiet: – Kampen er over, er den ikke?",
-      "url": "https://www.nrk.no/sport/carlsen-avgjorde-igjen-for-klassiskpartiet_-_-kampen-er-over_-er-den-ikke_-1.18084474",
-      "summary": "Magnus Carlsen hadde god kontroll mot Bibisara Assubayeva i Total Chess-turneringen i Budapest. Igjen droppet han klassiskdelen. Duellen varte over to dager, og Carlsen skaffet seg et overtak da han vant tirsdag. Dermed trengte han bare uavgjort på poeng onsda",
-      "date_label": "18.11.2026",
-      "timestamp": 1795022384
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Kulturkontorets vurdering: – Begge monumentene bør få en verdig og fremtredende plassering",
-      "url": "https://www.jarlsbergavis.no/kulturkontorets-vurdering-begge-monumentene-bor-fa-en-verdig-og-fremtredende-plassering/s/80-26-14597",
-      "summary": "Minnesmerket over de falne fra andre verdenskrig kan få en ny plassering på Dr. Graaruds plass. Forslag til ny plassering innebærer også at skulpturen av Backer-søstrene flyttes på.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795021800
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "New video shows explosions moments before part of Crimea Bridge collapses",
-      "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795021783
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Tvedestrand vil ut av kriselista: – Står foran en hestekur",
-      "url": "https://www.nrk.no/sorlandet/tvedestrand-vil-ut-av-kriselista_-_-star-foran-en-hestekur-1.18084217",
-      "summary": "Tvedestrand kommune må gjennom en brutal omstilling. Å legge ned Vestre Sandøya skole er ett av forslagene.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795021656
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795021240
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795021204
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795019596
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Selvik om vrakingen: – Like overrasket som dere",
-      "url": "https://www.nrk.no/sport/selvik-om-vrakingen_-_-like-overrasket-som-dere-1.18084384",
-      "summary": "",
-      "date_label": "18.11.2026",
-      "timestamp": 1795018589
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kari Nessa Nordtun si familiehytte skaper hovudbry",
-      "url": "https://www.nrk.no/artikkel/nordtun-si-familiehytte-skaper-hovudbry-for-skjaran-1532922",
-      "summary": "",
-      "date_label": "18.11.2026",
-      "timestamp": 1795018469
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795018244
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Sjakkprofil beklager oppsiktsvekkende utbrudd etter reaksjoner: – Må slutte å sutre",
-      "url": "https://www.nrk.no/sport/sjakkprofil-beklager-oppsiktsvekkende-utbrudd-etter-reaksjoner_-_-ma-slutte-a-sutre-1.18084463",
-      "summary": "Den amerikanske sjakkstjernen Wesley So kom onsdag med en brutal selvransakelse etter at han tidligere i uken slaktet Total Chess-formatet. So har gjennom hele turneringen i Budapest uttrykt sterk misnøye med oppsettet og den travle timeplanen. Mandag tok han ",
-      "date_label": "18.11.2026",
-      "timestamp": 1795018119
     }
   ]
 }
