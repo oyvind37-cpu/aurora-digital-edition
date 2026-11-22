@@ -1,7 +1,137 @@
 {
-  "updated": "2026-11-22T01:09:44Z",
+  "updated": "2026-11-22T08:08:09Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Såpeglatte vegar: – I dag kan vere ein fin dag å heller spele GTA",
+      "url": "https://www.nrk.no/mr/sapeglatte-vegar-i-more-og-romsdal-_-vegtrafikksentralen-og-politiet-atvarar-1.18086551",
+      "summary": "Politiet og Vegtrafikksentralen har fått inn bøttevis med meldingar om glatte vegar i Møre og Romsdal i morgontimane søndag. – Ekstremt utfordrande på vegane, seier Vegtrafikksentralen.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795334465
+    },
+    {
+      "source": "NRK Norge",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Lene (27) fra Bergen har fått null intervjuer etter 70 jobbsøknader",
+      "url": "https://www.nrk.no/artikkel/lene-27-har-tatt-psykologutdanning-i-danmark-far-ikke-jobb-1532332",
+      "summary": "",
+      "date_label": "22.11.2026",
+      "timestamp": 1795333929
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795332125
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "date_label": "22.11.2026",
+      "timestamp": 1795331561
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795330446
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Disse tok turen på trubaduraften: – Eventyrlig og magisk",
+      "url": "https://www.sandeavis.no/disse-tok-turen-pa-trubaduraften-eventyrlig-og-magisk/g/80-72-8289",
+      "summary": "Langt inne i skogen, uten strøm og mobildekning, samlet nærmere 200 mennesker seg til en helt spesiell konsertopplevelse. Med levende musikk, flammende bål og stjerneklar himmel ble trubaduraftenen på Svartevannshytta en magisk opplevelse. Se hvem vi møtte den",
+      "date_label": "22.11.2026",
+      "timestamp": 1795329750
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795327500
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Tre bilbranner i Oslo – kan være påsatt",
+      "url": "https://www.nrk.no/nyheter/tre-bilbranner-i-oslo-_-kan-vaere-pasatt-1.18086540",
+      "summary": "Politiet etterforsker flere bilbranner i Oslo. Brannene var på Galgeberg og Rodeløkka. Politiet utelukker ikke at brannene kan ha vært påsatt. I forbindelse med den siste brannen har politiet pågrepet og siktet ern mann i 40-årene.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795325253
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Bahrain: Iran har angrepet industrianlegg",
+      "url": "https://www.nrk.no/nyheter/bahrain_-iran-har-angrepet-industrianlegg-1.18086539",
+      "summary": "Bahrain anklager Iran for å ha angrepet et sivilt industrianlegg. Ingen personer kom til skade, men det brøt ut brann på stedet, ifølge myndighetene. Myndighetene har ikke oppgitt hvilket anlegg det dreier seg om. (NTB)",
+      "date_label": "22.11.2026",
+      "timestamp": 1795324912
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Nora (17) fra Hof vil bli bonde og tar sikkerheten på alvor",
+      "url": "https://www.jarlsbergavis.no/nora-17-fra-hof-vil-bli-bonde-og-tar-sikkerheten-pa-alvor/s/80-26-15285",
+      "summary": "Nora Lindås Brennseter fra Hof vet godt at bondeyrket kan være farlig. Likevel er hun ikke i tvil om at det er dette hun vil drive med. – Når man er på jobb føles det ikke ut som det er en jobb, fordi det er så gøy, sier 17-åringen.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795321800
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Eisenkot inviterer Likud til samtaler",
+      "url": "https://www.nrk.no/nyheter/eisenkot-inviterer-likud-til-samtaler-1.18086533",
+      "summary": "Den israelske opposisjonspolitikeren Gadi Eisenkot har invitert partiet Likud til samtaler om mulighetene for en koalisjonsregjering. Det melder nyhetsbyrået AFP. Årsaken er «en genuin forpliktelse til å danne en bredest mulig regjering», heter det i en uttale",
+      "date_label": "22.11.2026",
+      "timestamp": 1795321763
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Tre personer døde og 36 savnet i Indonesia",
+      "url": "https://www.nrk.no/nyheter/tre-personer-dode-og-36-savnet-i-indonesia-1.18086532",
+      "summary": "Tre personer er så langt funnet døde og 36 andre fortsatt savnet etter en brann på en godterifabrikk vest for Jakarta i Indonesia. Det opplyser myndighetene. Tidligere søndag var status at 39 personer var savnet og at fire personer var reddet ut i live, men me",
+      "date_label": "22.11.2026",
+      "timestamp": 1795314436
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795310703
+    },
     {
       "source": "BBC World",
       "category": "verden",
@@ -28,7 +158,7 @@
       "topic": "norge",
       "title": "Klimatoppmøtet fortsetter søndag",
       "url": "https://www.nrk.no/nyheter/klimatoppmotet-fortsetter-sondag-1.18086531",
-      "summary": "Klimatoppmøtet i Antalya i Tyrkia fortsetter på morgenen søndag. Det bekrefter Murat Kurum, som er klimatoppmøtets president, melder Reuters.",
+      "summary": "Klimatoppmøtet i Antalya i Tyrkia fortsetter på morgenen søndag. Det bekrefter Murat Kurum, som er klimatoppmøtets president, melder Reuters. Partene skulle egentlig bli enige innen midnatt natt til lørdag.",
       "date_label": "22.11.2026",
       "timestamp": 1795306210
     },
@@ -43,6 +173,16 @@
       "timestamp": 1795306198
     },
     {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "date_label": "22.11.2026",
+      "timestamp": 1795305847
+    },
+    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -51,16 +191,6 @@
       "summary": "Det brenner i et hus på Bømlo i Sunnhordland, bekrefter brannvesenet. Politiet opplyser at en beboer kom seg ut av huset på egen hånd. – Beboer har blitt eksponert for en del røyk og blir ivaretatt av helse, skriver operasjonsleder Victor Fenne-Jensen i Sør-Ve",
       "date_label": "22.11.2026",
       "timestamp": 1795305017
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "date_label": "22.11.2026",
-      "timestamp": 1795303877
     },
     {
       "source": "NRK Sport",
@@ -1266,7 +1396,7 @@
       "source": "Jarlsberg Avis",
       "category": "holmestrand",
       "topic": "lokalt",
-      "title": "Imøtegår innspillene: – De fleste elevene flyttes til Klokkerjordet",
+      "title": "Imøtekommer innspillene: – De fleste elevene flyttes til Klokkerjordet",
       "url": "https://www.jarlsbergavis.no/imotegar-innspillene-de-fleste-elevene-flyttes-til-klokkerjordet/s/80-72-7830",
       "summary": "– Det trekkes en opptaksgrense mellom Kjeldås skole og Klokkerjordet skole langs Bølumgata.",
       "date_label": "20.11.2026",
@@ -1276,7 +1406,7 @@
       "source": "Sande Avis",
       "category": "holmestrand",
       "topic": "lokalt",
-      "title": "Imøtegår innspillene: – De fleste elevene flyttes til Klokkerjordet",
+      "title": "Imøtekommer innspillene: – De fleste elevene flyttes til Klokkerjordet",
       "url": "https://www.sandeavis.no/imotegar-innspillene-de-fleste-elevene-flyttes-til-klokkerjordet/s/80-72-7830",
       "summary": "– Det trekkes en opptaksgrense mellom Kjeldås skole og Klokkerjordet skole langs Bølumgata.",
       "date_label": "20.11.2026",
@@ -3871,136 +4001,6 @@
       "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
       "date_label": "18.11.2026",
       "timestamp": 1795037288
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Russisk fiskerikonsern tapte søksmålet mot den norske stat",
-      "url": "https://www.nrk.no/tromsogfinnmark/russiske-norebo-tapte-soksmalet-mot-den-norske-stat-1.18084597",
-      "summary": "Norge ble saksøkt av den russiske fiskerigiganten Norebo.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795036563
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795036386
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Torsheim (88) med ny utstilling",
-      "url": "https://www.nrk.no/video/251f6ea0-16a6-4745-92c4-2fc281309c6f",
-      "summary": "Kunstneren Oddvar Torsheim har blitt 88 år, men har som alltid mange baller i luften. I utstillingen \"Snøball i vinterland\" viser han frem favoritter fra samlingen.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795035700
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Ingvild Flugstad Østberg legger opp",
-      "url": "https://www.nrk.no/sport/ingvild-flugstad-ostberg-legger-opp-1.18084514",
-      "summary": "Les mer her:",
-      "date_label": "18.11.2026",
-      "timestamp": 1795034715
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Nektar for drap på svigermora: – Ikkje min jobb å bevise uskuld",
-      "url": "https://www.nrk.no/artikkel/nektar-for-drap-pa-svigermora-var-pa-fjelltopp-leita-etter-fleinsopp-1533316",
-      "summary": "",
-      "date_label": "18.11.2026",
-      "timestamp": 1795034715
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Ny dypvannskai åpnet i Mo i Rana",
-      "url": "https://www.nrk.no/nordland/ny-dypvannskai-apnet-i-mo-i-rana-1.18084486",
-      "summary": "Den nye kaien har en dybde på 15 meter og skal styrke sjøtransporten og godshåndteringen i regionen.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795034502
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Bustadhus brenn i Tvedestrand",
-      "url": "https://www.nrk.no/nyheter/bustadhus-brenn-i-tvedestrand-1.18084510",
-      "summary": "Brannvesenet rykte onsdag kveld ut til brann i ein einebustad i Tvedestrand i Agder. Dei som bur i huset er gjort greie for. – Brannvesenet har kontroll på brannen, melder politiet i Agder.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795034450
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Krever at Danmark-sjefen må gå",
-      "url": "https://www.nrk.no/sport/krever-at-danmark-sjefen-ma-ga-1.18084596",
-      "summary": "To tidligere danske landslagsstjerner mener at Brian Riemer må gå som landslagssjef etter tapet for Norge i Parken tirsdag. Det gjør Thomas Gravesen og Stig Tøfting i et program på dansk Viaplay. De to har lenge vært kritiske til Riemer og nå mener de at beger",
-      "date_label": "18.11.2026",
-      "timestamp": 1795034416
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Vil ha pakkeforløp for folk med demens: – Ingen tok vare på oss",
-      "url": "https://www.nrk.no/tromsogfinnmark/hoyre-foreslar-pakkeforlop-for-folk-med-demens-i-sitt-alternative-statsbudsjett-1.18080308",
-      "summary": "Stig har levd med demens i tre år. Han og ektefellen Mona syntes tiden etter diagnosen var vanskelig og uoversiktlig. Det vil partiet Høyre gjøre noe med – i sitt forslag til statsbudsjett.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795033874
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-      "date_label": "18.11.2026",
-      "timestamp": 1795032428
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Håper at flere tar kontakt: – Vi ser at gutter i økt grad trenger noen å snakke med",
-      "url": "https://www.jarlsbergavis.no/haper-at-flere-tar-kontakt-vi-ser-at-gutter-i-okt-grad-trenger-noen-a-snakke-med/s/80-26-14609",
-      "summary": "– For mange unge kan det være ting det er vanskelig å snakke om med foreldre eller fastlegen. Hos oss møter de helsesykepleiere og lege som er vant til å snakke med ungdom om prevensjon, graviditet, spisevansker, ensomhet, vanskelige familieforhold, rus, mobbi",
-      "date_label": "18.11.2026",
-      "timestamp": 1795032000
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Utvider veien etter leirskred: – Veien åpnes onsdag",
-      "url": "https://www.nrk.no/tromsogfinnmark/utvider-veien-etter-raset-i-austertana_-_-snart-klart-for-lysregulering-1.18084561",
-      "summary": "Fv. 890 ved Austertana er åpen for trafikk i begge retninger fra onsdag 18. november kveld. Veien er utvidet, og det er satt opp tungsikring mellom trafikken og skredgropa.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795031888
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Slik kan Indre Havn bli: – Skal spille litt på Larviks historie",
-      "url": "https://www.nrk.no/vestfoldogtelemark/slik-kan-indre-havn-i-larvik-bli-1.18084509",
-      "summary": "Boliger, arbeidsplasser, kafeer og en helt ny strandpromenade. Planene for Indre Havn skal være unikt for byen, ifølge prosjektlederen.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795030728
     }
   ]
 }
