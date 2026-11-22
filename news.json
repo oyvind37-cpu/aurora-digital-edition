@@ -1,7 +1,97 @@
 {
-  "updated": "2026-11-21T21:03:42Z",
+  "updated": "2026-11-22T01:09:44Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795306244
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "date_label": "22.11.2026",
+      "timestamp": 1795306237
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Klimatoppmøtet fortsetter søndag",
+      "url": "https://www.nrk.no/nyheter/klimatoppmotet-fortsetter-sondag-1.18086531",
+      "summary": "Klimatoppmøtet i Antalya i Tyrkia fortsetter på morgenen søndag. Det bekrefter Murat Kurum, som er klimatoppmøtets president, melder Reuters.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795306210
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795306198
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Brann i hus i Bømlo",
+      "url": "https://www.nrk.no/nyheter/brann-i-hus-i-bomlo-1.18086519",
+      "summary": "Det brenner i et hus på Bømlo i Sunnhordland, bekrefter brannvesenet. Politiet opplyser at en beboer kom seg ut av huset på egen hånd. – Beboer har blitt eksponert for en del røyk og blir ivaretatt av helse, skriver operasjonsleder Victor Fenne-Jensen i Sør-Ve",
+      "date_label": "22.11.2026",
+      "timestamp": 1795305017
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795303877
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Selvik reddet straffe på overtid da Brest vant igjen",
+      "url": "https://www.nrk.no/sport/selvik-reddet-straffe-pa-overtid-da-brest-vant-igjen-1.18086449",
+      "summary": "Egil Selvik fortsetter å storspille i Brest-målet. Lørdag sikret han 1-0-seier borte mot Strasbourg ved å redde straffespark fem minutter på overtid. Sraffen ble dømt etter en VAR-gjennomgang av en situasjon der ballen traff armen til Brest-spiller Mama Baldé,",
+      "date_label": "21.11.2026",
+      "timestamp": 1795300933
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "date_label": "21.11.2026",
+      "timestamp": 1795299583
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "date_label": "21.11.2026",
+      "timestamp": 1795298479
+    },
     {
       "source": "Jarlsberg Avis",
       "category": "holmestrand",
@@ -31,16 +121,6 @@
       "summary": "Brage Larsen Sollund er Tromsø Arbeiderpartis ordførerkandidat.",
       "date_label": "21.11.2026",
       "timestamp": 1795289800
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "date_label": "21.11.2026",
-      "timestamp": 1795289629
     },
     {
       "source": "NRK Norge",
@@ -181,16 +261,6 @@
       "summary": "Klima- og miljøminister Sigrun Aasland (Ap) utsetter hjemreisen sin fra klimatoppmøtet i Tyrkia, der forhandlingene fortsetter på overtid. Partene skulle egentlig bli enige innen midnatt natt til lørdag. Det ble de ikke. Nå krever Norge og flere andre land fre",
       "date_label": "21.11.2026",
       "timestamp": 1795279918
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "date_label": "21.11.2026",
-      "timestamp": 1795278915
     },
     {
       "source": "NRK Sport",
@@ -341,16 +411,6 @@
       "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "date_label": "21.11.2026",
       "timestamp": 1795267058
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "date_label": "21.11.2026",
-      "timestamp": 1795266921
     },
     {
       "source": "NRK Norge",
@@ -1201,6 +1261,16 @@
       "summary": "Cyberangrepet mot Equinor var rettet mot en Microsoft-tjeneste, ifølge Nasjonal sikkerhetsmyndighet. Equinor og Skagerak Energi ble rammet av samme angrep, ifølge NSM. De beskriver hva slags cyberangrep de ble rammet av: Det var mot Azure API Management, en tj",
       "date_label": "20.11.2026",
       "timestamp": 1795194202
+    },
+    {
+      "source": "Jarlsberg Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Imøtegår innspillene: – De fleste elevene flyttes til Klokkerjordet",
+      "url": "https://www.jarlsbergavis.no/imotegar-innspillene-de-fleste-elevene-flyttes-til-klokkerjordet/s/80-72-7830",
+      "summary": "– Det trekkes en opptaksgrense mellom Kjeldås skole og Klokkerjordet skole langs Bølumgata.",
+      "date_label": "20.11.2026",
+      "timestamp": 1795194000
     },
     {
       "source": "Sande Avis",
@@ -3931,76 +4001,6 @@
       "summary": "Boliger, arbeidsplasser, kafeer og en helt ny strandpromenade. Planene for Indre Havn skal være unikt for byen, ifølge prosjektlederen.",
       "date_label": "18.11.2026",
       "timestamp": 1795030728
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "How high is UK inflation and how will you be affected?",
-      "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795030647
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "MDG frustrert over budsjettforhandlingene",
-      "url": "https://www.nrk.no/nyheter/mdg-frustrert-over-budsjettforhandlingene-1.18084532",
-      "summary": "– Vi har ikke forplikta oss til å støtte budsjettene til Støre hvis det ikke gir god klimapolitikk. Det er politikken som er viktig for oss. Det sier fungerende leder i MDG om de pågående forhandlingene om statsbudsjett for 2027. Onsdag kveld møttes sentralsty",
-      "date_label": "18.11.2026",
-      "timestamp": 1795029894
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Høyre-lederen krever at Støre går inn i gruveprosjekt",
-      "url": "https://www.nrk.no/tromsogfinnmark/ine-eriksen-soreide-_h_-vil-ha-fortgang-pa-gruveoppstart-i-sydvaranger-gruve-1.18084158",
-      "summary": "Flere partier legger press på regjeringen for å gå inn med penger i gruve ved grensen til Russland.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795029864
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Helge Stangnes er død",
-      "url": "https://www.nrk.no/tromsogfinnmark/helge-stangnes-er-dod-1.18084560",
-      "summary": "Den folkekjære lyrikeren, forfatteren og læreren ble 90 år.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795029494
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Sola tok seg til NM-finale etter dramatikk – så kom treneren med avskjedsmelding",
-      "url": "https://www.nrk.no/sport/sola-tok-seg-til-nm-finale-etter-dramatikk-_-sa-kom-treneren-med-avskjedsmelding-1.18084499",
-      "summary": "Steffen Stegavik har sin siste kamp som Sola-trener i NM-finalen i desember. Det avslørte han rett etter at Sola hadde slått Storhamar 30-29 i en dramatisk semifinale onsdag. Etter nyttår flytter han til Danmark og blir trener for Odense. – Derfor betydde denn",
-      "date_label": "18.11.2026",
-      "timestamp": 1795028968
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Instruktør påkjørt under mørkekjøringskurs",
-      "url": "https://www.nrk.no/trondelag/instruktor-pakjort-under-morkekjoringskurs-i-steinkjer-1.18084536",
-      "summary": "Da de ansatte ved kjøreskolen skulle vise betydningen av refleks i mørket for elevene, gikk det galt.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795028892
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Hus overtent i Tvedestrand",
-      "url": "https://www.nrk.no/sorlandet/brann-i-hus-i-tvedestrand-1.18084545",
-      "summary": "Det brenner i et hus i Tvedestrand. Naboer bes om å lukke dører og vinduer for å ikke få røyken inn i huset.",
-      "date_label": "18.11.2026",
-      "timestamp": 1795028061
     }
   ]
 }
