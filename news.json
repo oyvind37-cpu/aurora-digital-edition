@@ -1,7 +1,117 @@
 {
-  "updated": "2026-11-22T21:58:01Z",
+  "updated": "2026-11-23T02:31:36Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Snur om planer i Hanekleiva – ønsker 50 døgnhvileplasser",
+      "url": "https://www.sandeavis.no/snur-om-planer-i-hanekleiva-onsker-50-dognhvileplasser/s/80-72-7644",
+      "summary": "Tidligere sa administrasjonen nei, nå er de åpne for endringer i planene.",
+      "date_label": "23.11.2026",
+      "timestamp": 1795399200
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "date_label": "23.11.2026",
+      "timestamp": 1795397023
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "date_label": "23.11.2026",
+      "timestamp": 1795395907
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Førde: Person til sykehus etter knivhendelse",
+      "url": "https://www.nrk.no/nyheter/forde_-person-til-sykehus-etter-knivhendelse-1.18086853",
+      "summary": "En person ble fraktet til sykehus etter en voldshendelse i Førde søndag, opplyser Vest politidistrikt. Politiet meldte klokken 18.39 at de hadde rykket ut til et slagsmål mellom to personer i Førde sentrum. Det er ikke kjent hva slags skader personen har fått.",
+      "date_label": "23.11.2026",
+      "timestamp": 1795395581
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "date_label": "23.11.2026",
+      "timestamp": 1795395035
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "date_label": "23.11.2026",
+      "timestamp": 1795394016
+    },
+    {
+      "source": "BBC Business",
+      "category": "okonomi",
+      "topic": "okonomi",
+      "title": "What is going on with Poundland?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "date_label": "23.11.2026",
+      "timestamp": 1795393347
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "date_label": "23.11.2026",
+      "timestamp": 1795392480
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Danmark: 120 avviste asylsøkere kan sendes til Rwanda",
+      "url": "https://www.nrk.no/nyheter/danmark_-120-avviste-asylsokere-kan-sendes-til-rwanda-1.18086852",
+      "summary": "120 avviste asylsøkere i Danmark oppfyller kriteriene for å bli sendt til et retursenter i Rwanda neste år. Det opplyser det danske utlendings- og integreringsdepartementet til DR. Det er bare asylsøkere som ikke har barn eller er blitt dømt til kriminalitet s",
+      "date_label": "23.11.2026",
+      "timestamp": 1795391307
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "date_label": "22.11.2026",
+      "timestamp": 1795387063
+    },
+    {
+      "source": "NRK Sport",
+      "category": "sport",
+      "topic": "sport",
+      "title": "Sørloth-innhopp da Atlético Madrid vant borte – skaffet straffe",
+      "url": "https://www.nrk.no/sport/sorloth-innhopp-da-atletico-madrid-vant-borte-_-skaffet-straffe-1.18086832",
+      "summary": "Alexander Sørloth kom inn for Julián Álvarez det siste kvarteret og skaffet et straffespark da Atlético Madrid slo Getafe 3–0 på bortebane søndag. Nordmannen kom til et par store sjanser. Første gang skjøt han rett på keeper, mens han i det 87. minutt ble dytt",
+      "date_label": "22.11.2026",
+      "timestamp": 1795384667
+    },
     {
       "source": "NRK Sport",
       "category": "sport",
@@ -51,16 +161,6 @@
       "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "date_label": "22.11.2026",
       "timestamp": 1795379289
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "date_label": "22.11.2026",
-      "timestamp": 1795379184
     },
     {
       "source": "NRK Norge",
@@ -143,16 +243,6 @@
       "timestamp": 1795371680
     },
     {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "date_label": "22.11.2026",
-      "timestamp": 1795371479
-    },
-    {
       "source": "NRK Siste",
       "category": "norge",
       "topic": "norge",
@@ -181,16 +271,6 @@
       "summary": "Rosenborg var på vei mot 2-1-seier borte mot nedrykkstruede Aalesund, men tre minutter på overtid dukket Marius Andresen opp og headet inn 2–2. Det poenget kan vise seg gullverdt for Aalesund som ligger nest sist på tabellen i Eliteserien. De ligger nå to poen",
       "date_label": "22.11.2026",
       "timestamp": 1795370455
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "date_label": "22.11.2026",
-      "timestamp": 1795370263
     },
     {
       "source": "NRK Norge",
@@ -701,16 +781,6 @@
       "summary": "",
       "date_label": "22.11.2026",
       "timestamp": 1795331866
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "date_label": "22.11.2026",
-      "timestamp": 1795331561
     },
     {
       "source": "BBC World",
@@ -3931,76 +4001,6 @@
       "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
       "date_label": "19.11.2026",
       "timestamp": 1795091199
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Norge og Storbritannia med over 100 millioner pund til angrepsfartøy til Ukraina",
-      "url": "https://www.nrk.no/nyheter/norge-og-storbritannia-med-over-100-millioner-pund-til-angrepsfartoy-til-ukraina-1.18085019",
-      "summary": "Norge har sammen med Storbritannia forpliktet seg til å investere over 100 millioner pund i to avanserte hurtigangrepsfartøy til Ukraina. Investeringen tilsvarer over 1,2 milliarder norske kroner. Hurtigangrepsbåter kalles også missilbåter. Kunngjøringen kom s",
-      "date_label": "19.11.2026",
-      "timestamp": 1795090630
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Fødende skal sendes til Flekkefjord og Arendal",
-      "url": "https://www.nrk.no/sorlandet/fodende-skal-bli-sendt-til-flekkefjord-og-arendal-1.18085048",
-      "summary": "Sørlandet sykehus skal flytte flere hundre fødsler til sykehusene i Flekkefjord og Arendal for å avlaste Kvinneklinikken i Kristiansand.",
-      "date_label": "19.11.2026",
-      "timestamp": 1795089846
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Skiprofil ble syk på Beitostølen – frykter spolert VM-drøm",
-      "url": "https://www.nrk.no/sport/skiprofil-ble-syk-pa-beitostolen-_-frykter-spolert-vm-drom-1.18084807",
-      "summary": "Jan Thomas Jenssen (30) må droppe langrennsåpningen etter å ha våknet med feber og vond hals. Det forteller han til Adresseavisen. Jenssen har forlatt Beitostølen. – Jeg våknet opp i natt og frøs, svettet og hostet. Jeg var skikkelig tufs. Det var liksom ikke ",
-      "date_label": "19.11.2026",
-      "timestamp": 1795089785
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Florida pastor found guilty over role in assassination of Haitian president",
-      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-      "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
-      "date_label": "19.11.2026",
-      "timestamp": 1795088697
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-      "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-      "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
-      "date_label": "19.11.2026",
-      "timestamp": 1795088586
-    },
-    {
-      "source": "BBC Business",
-      "category": "okonomi",
-      "topic": "okonomi",
-      "title": "Indian driver wins $1.3m in life-changing lottery prize",
-      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-      "date_label": "19.11.2026",
-      "timestamp": 1795088289
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Her kommer Holmestrands nye byggevarehus: – Vi merker ikke de dårlige tidene",
-      "url": "https://www.jarlsbergavis.no/her-kommer-holmestrands-nye-byggevarehus-vi-merker-ikke-de-darlige-tidene/s/80-26-15081",
-      "summary": "Den danske byggevarekjeden Jem & Fix er i full gang med å etablere seg på Bentsrud i Holmestrand.",
-      "date_label": "19.11.2026",
-      "timestamp": 1795088259
     }
   ]
 }
