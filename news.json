@@ -1,7 +1,137 @@
 {
-  "updated": "2026-11-27T22:22:42Z",
+  "updated": "2026-11-28T04:10:16Z",
   "source_count": 11,
   "items": [
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Åtte døde da militærhelikopter krasjet i Peru",
+      "url": "https://www.nrk.no/nyheter/atte-dode-da-militaerhelikopter-krasjet-i-peru-1.18090095",
+      "summary": "Et militærhelikopter krasjet i en elv sørøst i Peru fredag. Åtte personer døde, mens piloten ble alvorlig skadet. Det opplyser landets forsvarsdepartement. Helikopteret var en del av en redningsaksjon da ulykken inntraff i et øde område et godt stykke innenlan",
+      "date_label": "28.11.2026",
+      "timestamp": 1795835825
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "14 migranter funnet døde i båt utenfor Kanariøyene",
+      "url": "https://www.nrk.no/nyheter/14-migranter-funnet-dode-i-bat-utenfor-kanarioyene-1.18090093",
+      "summary": "14 migranter er funnet døde etter at en båt med rundt hundre mennesker om bord ble reddet utenfor Kanariøyene, melder nyhetsbyrået Reuters. 90 overlevende ble brakt i land på øya El Hierro, og seks av dem er fløyet til sykehus med kritiske skader. Mange migran",
+      "date_label": "28.11.2026",
+      "timestamp": 1795833590
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "To Leger Uten Grenser-ansatte drept i Gaza",
+      "url": "https://www.nrk.no/nyheter/to-leger-uten-grenser-ansatte-drept-i-gaza-1.18090091",
+      "summary": "To ansatte i Leger Uten Grenser ble fredag kveld drept i et israelsk angrep mot en klinikk i Gaza, ifølge organisasjonen. De to drepte jobbet som vakter. Israels militære (IDF) hevder på sin side at de to drepte var medlemmer av Hamas, og avviser at målet var ",
+      "date_label": "28.11.2026",
+      "timestamp": 1795832049
+    },
+    {
+      "source": "Sande Avis",
+      "category": "holmestrand",
+      "topic": "lokalt",
+      "title": "Julekonserter, gudstjenester og bålkos - dette skjer i desember",
+      "url": "https://www.sandeavis.no/julekonserter-gudstjenester-og-balkos-dette-skjer-i-desember/s/80-72-8007",
+      "summary": "",
+      "date_label": "28.11.2026",
+      "timestamp": 1795831200
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Valglokalene har åpnet i Taiwan",
+      "url": "https://www.nrk.no/nyheter/valglokalene-har-apnet-i-taiwan-1.18090090",
+      "summary": "Valglokalene åpnet lørdag i Taiwan, der velgerne skal stemme i landets lokalvalg. I hovedstaden Taipei er det ventet en jevn kamp om ordførervervet mellom sittende ordfører Chiang Wan-an fra Kuomintang (KMT) og utfordreren Puma Shen fra regjeringspartiet DPP. ",
+      "date_label": "28.11.2026",
+      "timestamp": 1795830396
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+      "date_label": "28.11.2026",
+      "timestamp": 1795829450
+    },
+    {
+      "source": "NRK Siste",
+      "category": "norge",
+      "topic": "norge",
+      "title": "Ukraina: Skjøt ned russisk drone med nytt laservåpen",
+      "url": "https://www.nrk.no/nyheter/ukraina_-skjot-ned-russisk-drone-med-nytt-laservapen-1.18090071",
+      "summary": "Ukraina sier de for første gang har skutt ned en russisk drone med et laservåpen. Det opplyser den statsstøttede forsvarsgruppen Brave1. Laservåpensystemet Blysk er utviklet av Carmine Sky. – Laserbasert luftvern er fortsatt en eksperimentell teknologi, sier B",
+      "date_label": "28.11.2026",
+      "timestamp": 1795829024
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "date_label": "28.11.2026",
+      "timestamp": 1795828835
+    },
+    {
+      "source": "BBC Technology",
+      "category": "teknologi",
+      "topic": "teknologi",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+      "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+      "date_label": "28.11.2026",
+      "timestamp": 1795827600
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "date_label": "28.11.2026",
+      "timestamp": 1795827415
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+      "date_label": "28.11.2026",
+      "timestamp": 1795827011
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "date_label": "28.11.2026",
+      "timestamp": 1795824317
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+      "date_label": "28.11.2026",
+      "timestamp": 1795820555
+    },
     {
       "source": "NRK Sport",
       "category": "sport",
@@ -21,16 +151,6 @@
       "summary": "OpenAI har stevnet Apple for mange av de samme anklagene som gikk andre veien i juli: Tyveri av forretningshemmeligheter og fraråding av leverandører fra å jobbe med OpenAI. Søksmålet ble tatt ut i en føderal domstol i California fredag. OpenAI hevder at en ti",
       "date_label": "27.11.2026",
       "timestamp": 1795817527
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
-      "date_label": "27.11.2026",
-      "timestamp": 1795817026
     },
     {
       "source": "BBC World",
@@ -181,6 +301,16 @@
       "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
       "date_label": "27.11.2026",
       "timestamp": 1795798426
+    },
+    {
+      "source": "BBC World",
+      "category": "verden",
+      "topic": "verden",
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "date_label": "27.11.2026",
+      "timestamp": 1795798007
     },
     {
       "source": "NRK Sport",
@@ -3871,136 +4001,6 @@
       "summary": "",
       "date_label": "24.11.2026",
       "timestamp": 1795545170
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Brann i enebolig: Kulden hindret vanntilgang",
-      "url": "https://www.nrk.no/sorlandet/brann-i-lindesnes_-har-spredd-seg-til-bolighus-1.18088033",
-      "summary": "Et uthus har brent ned, og hovedhuset har fått store skader.",
-      "date_label": "24.11.2026",
-      "timestamp": 1795545070
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Fugleinfluensa-utbruddet: Mattilsynet har vedtatt avliving av 225.000 høner",
-      "url": "https://www.nrk.no/rogaland/fugleinfluensa-utbruddet_-mattilsynet-har-vedtatt-avliving-av-225.000-honer-1.18088031",
-      "summary": "I et krisemøte i Mattilsynet tirsdag ble det vedtatt å avlive 225.000 høner hos en egg- og unghøneprodusent i Rogaland.",
-      "date_label": "24.11.2026",
-      "timestamp": 1795544955
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Fugleinfluensa-utbruddet: Mattilsynet har vedtatt avliving av 225.000 høner",
-      "url": "https://www.nrk.no/nyheter/fugleinfluensa-utbruddet_-mattilsynet-har-vedtatt-avliving-av-225.000-honer-1.18088024",
-      "summary": "Mattilsynet har bestemt at rundt 225.000 unghøner ved et fjørfehold i Rogaland skal avlives. Det skjer etter at det ble påvist fugleinfluensa der i midten av november. Målet er å redusere risikoen for videre smittespredning og å få kontroll over utbruddet, skr",
-      "date_label": "24.11.2026",
-      "timestamp": 1795544582
-    },
-    {
-      "source": "BBC Technology",
-      "category": "teknologi",
-      "topic": "teknologi",
-      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-      "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-      "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-      "date_label": "24.11.2026",
-      "timestamp": 1795544503
-    },
-    {
-      "source": "NRK Siste",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Budsjettforhandlingene fortsatt ikke i mål",
-      "url": "https://www.nrk.no/nyheter/budsjettforhandlingene-fortsatt-ikke-i-mal-1.18087857",
-      "summary": "Forhandlingene om statsbudsjettet pågår fortsatt på overtid. Like før klokken 19.15 kom Senterpartiets Bjørn Arild Gram ut av forhandlingsrommet. – Vi jobber med å finne en løsning. Vi er ikke i mål. Vi skal ha en liten pause nå, så skal vi fortsette møtevirks",
-      "date_label": "24.11.2026",
-      "timestamp": 1795544113
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "To personer pågrepet med kniv, gassvåpen og knokejern på utested",
-      "url": "https://www.nrk.no/rogaland/to-personer-pagrepet-med-kniv_-gassvapen-og-knokejern-pa-utested-1.18088014",
-      "summary": "Politiet rykket tirsdag kveld ut på melding om at to personer hadde fremvist våpen på et utested i Vågen i Stavanger.",
-      "date_label": "24.11.2026",
-      "timestamp": 1795543824
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "To personer med kniv, gassvåpen og knokjern på utested i Stavanger",
-      "url": "https://www.nrk.no/rogaland/to-personer-med-kniv_-gassvapen-og-knokjern-pa-utested-i-stavanger-1.18088014",
-      "summary": "Politiet rykket tirsdag kveld ut på melding om at to personer hadde fremvist våpen på et utested i Vågen i Stavanger.",
-      "date_label": "24.11.2026",
-      "timestamp": 1795543824
-    },
-    {
-      "source": "BBC World",
-      "category": "verden",
-      "topic": "verden",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "date_label": "24.11.2026",
-      "timestamp": 1795543666
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Få med deg kveldens lokale nyheter",
-      "url": "https://www.nrk.no/video/DKVT98112426",
-      "summary": "",
-      "date_label": "24.11.2026",
-      "timestamp": 1795543656
-    },
-    {
-      "source": "Jarlsberg Avis",
-      "category": "holmestrand",
-      "topic": "lokalt",
-      "title": "Nye funn kan føre til endringer i planene for nytt renseanlegg",
-      "url": "https://www.jarlsbergavis.no/nye-funn-kan-fore-til-endringer-i-planene-for-nytt-renseanlegg/s/80-26-15981",
-      "summary": "Et gammelt skipsanker og rester av et fartøy på sjøbunnen kan føre til at planene for den nye rørledningen mellom Horten og Holmestrand må justeres.",
-      "date_label": "24.11.2026",
-      "timestamp": 1795543200
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Snuoperasjon etter Nicolas-saken: – Vi har blitt hørt",
-      "url": "https://www.nrk.no/vestfoldogtelemark/snuoperasjon-etter-nicolas-saken_-stortinget-vil-be-regjeringen-endre-loven-om-skolestart-1.18053674",
-      "summary": "Familien måtte kjempe i månedsvis for at sønnen skulle få ett år til i barnehagen. Nå er det flertall for å endre loven om utsatt skolestart – mot regjeringens vilje.",
-      "date_label": "24.11.2026",
-      "timestamp": 1795543019
-    },
-    {
-      "source": "NRK Sport",
-      "category": "sport",
-      "topic": "sport",
-      "title": "Jakob Ingebrigtsen ikkje til start i terreng-EM",
-      "url": "https://www.nrk.no/sport/jakob-ingebrigtsen-ikkje-til-start-i-terreng-em-1.18087999",
-      "summary": "Det stadfestar trenar og bror Henrik Ingebrigtsen til NRK. – Jakob er i god trening for augeblikket og har fullt fokus på 2027. Han ønsker ein litt lengre periode med kontinuitet før neste konkurranse. Meisterskapen går av stabelen i Beograd sundag 13. desembe",
-      "date_label": "24.11.2026",
-      "timestamp": 1795541921
-    },
-    {
-      "source": "NRK Norge",
-      "category": "norge",
-      "topic": "norge",
-      "title": "Kystvaktskip seilte rett gjennom en hvalflokk i Altafjorden",
-      "url": "https://www.nrk.no/tromsogfinnmark/kystvaktskip-seilte-rett-gjennom-en-hvalflokk-i-alta-1.18087917",
-      "summary": "Hvalsafarikaptein Øystein Fredheim og turistene om bord ble sjokkert over synet mandag. Kystvakten mener hendelsen var udramatisk.",
-      "date_label": "24.11.2026",
-      "timestamp": 1795541776
     }
   ]
 }
